@@ -1,9 +1,8 @@
 # Site
 title:              Mario Teixeira Lemes
-bio:                'Graduado em Engenharia de Computação pela Pontifícia Universidade Católica de Goiás
-                    e Mestre em Ciência da Computação pela Universidade Federal de Goiás.
-                     Professor de Informática do Instituto Federal de Goiás - Campus Formosa'
-description:        "Teste de descrição."
+bio:                'Site pessoal relacionado as atividades docentes exercidas no
+                    Instituto Federal de Goiás - Campus Formosa'
+#description:        "Teste de descrição."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
