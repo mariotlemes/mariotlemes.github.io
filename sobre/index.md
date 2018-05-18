@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre
+title: Sobre o professor
 #tags: [, Jekyll, theme, moon]
 date: 2018-05-18
 comments: false
