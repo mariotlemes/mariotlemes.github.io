@@ -31,7 +31,7 @@ exclusiva, do Instituto Federal de Goiás (IFG) - Campus Formosa, na área de Ci
 * Sistemas Inteligentes.
 * Computação Paralela e Distribuída.
 * Software/Hardware Livre.
-* Sistemas Embarcados (Arduino e Raspberry Pi).
+* Sistemas Embarcados.
 * Internet das Coisas (IoT).
 
 Acesso o Currículo lates para mais informações [Currículo Lates](http://lattes.cnpq.br/4918126641251231){: .btn}
