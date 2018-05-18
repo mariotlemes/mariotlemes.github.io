@@ -1,6 +1,8 @@
 # Site
 title:              Mario Teixeira Lemes
-bio:                'Professor de Informática do Instituto Federal de Goiás (IFG)'
+bio:                'Graduado em Engenharia de Computação pela Pontifícia Universidade Católica de Goiás
+                    e Mestre em Ciência da Computação pela Universidade Federal de Goiás.
+                     Professor de Informática do Instituto Federal de Goiás - Campus Formosa'
 description:        "Teste de descrição."
 reading_time:       true
 words_per_minute:   200
@@ -26,7 +28,8 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   mariotlemes
+
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,12 +42,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 email: 		    mariolpu@gmail.com
 #twitter:           username
-facebook:           mariolpu
+#facebook:           mariolpu
 github-url:         mariotlemes
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
