@@ -84,6 +84,9 @@
 									</li>{% endif %}
 			</ul><!-- /.dl-submenu -->
 		</li>
+		{% endif %}
+		<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
+		{% endfor %}
 		<li>
 			<a href="#">Posts</a>
 			<ul class="dl-submenu">
@@ -96,8 +99,6 @@
 					{% assign domain = '' %}
 					{% else %}
 					{% assign domain = site.url %}
-			{% endif %}
-			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
-		{% endfor %}
+
 	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
