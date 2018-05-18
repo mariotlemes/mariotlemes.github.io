@@ -1,4 +1,7 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Projetos de Extensão
+  url: /projetos/
+
+- title: Projetos de Pesquisa
+  url: /projetos/

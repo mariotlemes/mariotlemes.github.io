@@ -1,5 +1,5 @@
 # Site
-title:              Mario Teixeira Lemes
+title:              Mario Lemes
 bio:                'Professor de Informática do Instituto Federal de Goiás (IFG)'
 description:        "Teste de descrição."
 reading_time:       true
@@ -38,9 +38,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 email: 		    mariolpu@gmail.com
-#twitter:            username
+#twitter:           username
 facebook:           mariolpu
-github-url:         username
+github-url:         mariotlemes
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
