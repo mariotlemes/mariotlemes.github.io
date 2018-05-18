@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects
 title: Disciplinas
 #tags: [, Jekyll, theme, moon]
 date: 2018-05-18
