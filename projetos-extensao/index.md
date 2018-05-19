@@ -6,7 +6,6 @@ date: 2018-05-18
 comments: false
 ---
 
-## Projetos de Extensão
 * 2016/1: IV Maratona de Programação
 * 2016/2: V Maratona de Programação
 * 2016/2: 2º Installfest do IFG-Formosa

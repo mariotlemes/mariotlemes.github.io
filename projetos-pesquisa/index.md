@@ -6,8 +6,6 @@ date: 2018-05-18
 comments: false
 ---
 
-## Projetos de Pesquisa
-
 ### 2017 - Atual: Avaliador Automatizado de Complexidade de Diagramas de Casos de Uso
 * Descrição: A execução deste projeto objetiva o desenvolvimento de um Avaliador Automatizado de Complexidade de Diagramas de Casos de Uso. Trata-se de um programa de computador (software) que recebe como entrada um diagrama de casos de uso e é capaz de mensurar sua complexidade, apresentando-a como saída do sistema. A determinação da complexidade dos diagramas de caso de uso de um sistema computadorizado é relevante pelo fato de que estes artefatos de modelagem da UML (Unified Modeling Language) documentam o que sistema faz sob ponto de vista do usuário, descrevendo as principais funcionalidades e a interação dos usuários com o sistema. Com a possibilidade de aferir a complexidade de diferentes modelagens para um mesmo sistema, torna-se viável a realização de comparações para fins de verificação de custos e riscos envolvendo seu desenvolvimento. A ferramenta desenvolvida utilizará plataforma web. Portanto, será executada utilizando um programa navegador (browser), que fornecerá a estrutura necessária para a submissão do diagrama de casos de uso ao sistema e para a exibição dos resultados da aferição de complexidade. Existe potencial para utilização da ferramenta desenvolvida em diversas disciplinas do Curso Superior em Tecnologia em Análise e Desenvolvimento de Sistemas, ofertado em alguns Câmpus do IFG, como Análise Orientada à Objetos, Engenharia de Software, Engenharia de Requisitos, Gerência de Projetos, Arquitetura e Projeto de Software e Qualidade de Software.
 
