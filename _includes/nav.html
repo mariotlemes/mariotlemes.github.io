@@ -10,12 +10,6 @@
 			{% endif %}
 			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
 		{% endfor %}
-		<li>
-			<a href="#">Posts</a>
-			<ul class="dl-submenu">
-				<li><a href="{{ site.url }}/posts/">All Posts</a></li>
-				<li><a href="{{ site.url }}/tags/">All Tags</a></li>
-			</ul>
-		</li>
+			<li><a href="{{ site.url }}/posts/">Tutoriais</a></li>
 	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
