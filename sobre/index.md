@@ -5,23 +5,8 @@ title: Sobre o professor
 date: 2018-05-18
 comments: false
 ---
-Mario Teixeira Lemes é professor do Ensino Básico Técnico Tecnológico (EBTT), em regime de dedicação
-exclusiva, do Instituto Federal de Goiás (IFG) - Campus Formosa, na área de Ciência da Computação.
 
-## Formação Acadêmica
-* Mestre em Ciência da Computação pela Universidade Federal de Goiás (2011-2014).
-* Bacharel em Engenharia de Computação pela Pontifícia Universidade Católica de Goiás (2006-2011).
-
-## Formação Complementar
-* Tutor em Educação a Distância pela Universidade Oeste Paulista (2016).
-
-## Atuação Profissional Acadêmica
-* 2015 - Atual:  Professor efetivo do IFG - Campus Formosa.
-* 2014 - 2015: Professor substituto do IFG - Campus Inhumas.
-
-## Experiências Administrativas no IFG
-* 2017 - 2017: Coordenador Acadêmico do Departamento de Áreas Acadêmicas.
-* 2016 -2017: Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).
+Possui graduação em Engenharia de Computação pela Pontifícia Universidade Católica de Goiás (2011) e mestrado em Ciência da Computação pela Universidade Federal de Goiás (2014). Atualmente é Professor EBTT do Instituto Federal de Educação, Ciência e Tecnologia Goiás (IFG), Câmpus Formosa. Atuou como Coordenador do Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (março/2016 a abril/2017), período no qual o curso passou por reconhecimento perante o MEC, e obteve nota 4. No período compreendido entre abril/2017 a novembro/207 atuou como Coordenador Acadêmico do Departamento de Áreas Acadêmicas (DAA). No IFG - Campus Formosa executa projetos relacionados a Maratona de Programação (voltado para o Curso de Tecnologia em Análise e Desenvolvimento de Sistemas) e a Installfests (voltado para o Curso de Manutenção e Suporte em Informática). Desde 2015 atua como idealizador e coordenador do Projeto denominado Informática Cidadã no qual o objetivo é ofertar cursos de curta duração para a comunidade externa do IFG. O projeto Informática Cidadã já ofertou mais de 300 horas de atividades de inclusão digital para a comunidade de Formosa-GO, o que contribui com a diminuição do analfabetismo digital.
 
 ## Áreas de Interesse (Linhas de Pesquisa)
 * Redes de Computadores.
@@ -34,4 +19,4 @@ exclusiva, do Instituto Federal de Goiás (IFG) - Campus Formosa, na área de Ci
 * Sistemas Embarcados.
 * Internet das Coisas (IoT).
 
-Acesso o Currículo lates para mais informações [Currículo Lates](http://lattes.cnpq.br/4918126641251231){: .btn}
+Para mais informações, <a href="http://lattes.cnpq.br/4918126641251231" target="_blank">clique aqui</a>.
