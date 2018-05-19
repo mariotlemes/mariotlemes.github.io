@@ -3,11 +3,11 @@
 - title: Disciplinas Ministradas
   url: /disciplinas/
 
-- title: Projetos de Extensão
-  url: /projetos-extensao/
-
-- title: Projetos de Pesquisa
-  url: /projetos-pesquisa/
-
 - title: Projetos de Ensino
   url: /projetos-ensino/
+
+- title: Projetos de Pesquisa
+    url: /projetos-pesquisa/
+
+- title: Projetos de Extensão
+  url: /projetos-extensao/
