@@ -11,7 +11,7 @@ comments: false
 * Integrantes: Mario Teixeira Lemes (coordenador) e Vinicius Sousa Ferreira.
 
 ### 2018: Informática Cidadã - Informática Básica para Leigos
-* O objetivo do projeto “Informática Cidadã” é oferecer à comunidade um projeto de inclusão digital, por meio de cursos de informática de curta duração. Neste curso serão ofertadas 3 (três) turmas com 20 horas cada.
+* Descrição: O objetivo do projeto “Informática Cidadã” é oferecer à comunidade um projeto de inclusão digital, por meio de cursos de informática de curta duração. Neste curso serão ofertadas 3 (três) turmas com 20 horas cada.
 
 * Integrantes: Mario Teixeira Lemes (coordenador), Uyara Ferreira Silva e Josilene de Sousa Santos Fernandes.
 
