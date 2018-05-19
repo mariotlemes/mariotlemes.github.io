@@ -1,7 +1,7 @@
 # Site
 title:              Mario Teixeira Lemes
-bio:                'Professor de Informática do IFG - Campus Formosa'
-#description:        "Teste de descrição."
+bio:                'Professor de Informática do IFG - Câmpus Formosa'
+description:        "Mestre em Ciência da Computação - UFG"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
