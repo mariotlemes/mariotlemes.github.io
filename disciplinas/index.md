@@ -6,41 +6,41 @@ date: 2018-05-18
 comments: false
 ---
 
-## 2018/1 - Instituto Federal de Goiás - Campus Formosa
+## 2018/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Administração de Serviços para Internet (TADS).
 * Organização e Manutenção de Computadores II (Proeja - Informática).
 * Sistemas Operacionais (Proeja - Informática)
 
-## 2017/2 - Instituto Federal de Goiás - Campus Formosa
+## 2017/2 - Instituto Federal de Goiás - Câmpus Formosa
 * Trabalho de Conclusão de Curso I (TADS).
 * Informática Básica (Proeja - Edificações).
 * Organização e Manutenção de Computadores II (Proeja - Informática).
 
-## 2017/1 - Instituto Federal de Goiás - Campus Formosa
+## 2017/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Administração de Serviços para Internet (TADS).
 * Informática Básica (Proeja - Edificações).
 
-## 2016/2 - Instituto Federal de Goiás - Campus Formosa
+## 2016/2 - Instituto Federal de Goiás - Câmpus Formosa
 * Informática Básica(Proeja - Edificações).
 * Arquitetura de Computadores (Proeja - Informática).
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 
-## 2016/1 - Instituto Federal de Goiás - Campus Formosa
+## 2016/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Trabalho de Conclusão de Curso I (TADS).
 * Informática Básica (Proeja - Edificações).
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 
-## 2015/2 - Instituto Federal de Goiás - Campus Formosa
+## 2015/2 - Instituto Federal de Goiás - Câmpus Formosa
 * Sistemas Distribuídos (TADS).
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 * Informática Básica (Proeja - Edificações).
 
-## 2015/1 - Instituto Federal de Goiás - Campus Formosa
+## 2015/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Sistemas Operacionais e Redes de Computadores III (Técnico em Informática para Internet).
 * Redes de Computadores II (Proeja - Informática).
 * Administração de Redes de Computadores (Proeja - Informática).
 
-## 2014/2 - Instituto Federal de Goiás - Campus Inhumas
+## 2014/2 - Instituto Federal de Goiás - Câmpus Inhumas
 * Qualidade de Software (Bacharelado em Informática).
 * Análise e Projeto de Sistemas II (Bacharelado em Sistemas de Informação).
 * Ética e Legislação em Informática (Bacharelado em Sistemas de Informação).
