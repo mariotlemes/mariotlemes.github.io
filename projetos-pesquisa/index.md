@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projetos de Pesquisa
+title: Atividades de Pesquisa
 #tags: [, Jekyll, theme, moon]
 date: 2018-05-18
 comments: false
