@@ -5,7 +5,7 @@ title: Sobre o professor
 date: 2018-05-18
 comments: false
 ---
-div style="float: left; width: 45%">
+<div style="float: left; width: 45%">
 <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
 </div>
 <div style="float: right; width: 45%">
