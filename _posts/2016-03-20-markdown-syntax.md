@@ -74,7 +74,7 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 
 ## Code Snippets
 
-{% highlight c++ %}
+{% highlight c %}
 // Daremos um nome ao pino que está conectado o LED
 int led = 7;
 unsigned int valorLido;
