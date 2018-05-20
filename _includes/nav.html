@@ -2,6 +2,13 @@
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
 		<li><a href="{{ site.url }}/">Home</a></li>
+		<li>
+			<a href="#">Orientações</a>
+			<ul class="dl-submenu">
+				<li><a href="{{ site.url }}/orientacoes-em-andamento/">Em andamento</a></li>
+				<li><a href="{{ site.url }}/orientacoes-concluidas/">Concluídas</a></li>
+			</ul>
+		</li>
 		{% for link in site.data.navigation %}
 			{% if link.url contains 'http' %}
 					{% assign domain = '' %}
@@ -12,12 +19,5 @@
 		{% endfor %}
 			<li><a href="{{ site.url }}/posts/">Tutoriais</a></li>
 			<li><a href="{{ site.url }}/sobre/">Sobre</a></li>
-			<li>
-				<a href="#">Orientações</a>
-				<ul class="dl-submenu">
-					<li><a href="{{ site.url }}/posts/">All Posts</a></li>
-					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
-				</ul>
-			</li>
 	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
