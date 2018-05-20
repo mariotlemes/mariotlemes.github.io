@@ -5,7 +5,7 @@ title: Orientações em andamento
 date: 2018-05-18
 comments: false
 ---
-### Trabalhos de Conclusão de Curso (TCC)
+### Trabalho de Conclusão de Curso (TCC)
 * Jhuan Victor Spindola Pereira. Estudo e Implementação de Código Livre para Comunicação de Objetos Inteligentes no Contexto de Internet das Coisas. Início: 2018.
 
 
