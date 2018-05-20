@@ -5,11 +5,11 @@ title: Orientações em andamento
 date: 2018-05-18
 comments: false
 ---
-# Trabalhos de Conclusão de Curso (TCC)
+### Trabalhos de Conclusão de Curso (TCC)
+* Jhuan Victor Spindola Pereira. Estudo e Implementação de Código Livre para Comunicação de Objetos Inteligentes no Contexto de Internet das Coisas. Início: 2018.
 
-###  Jhuan Victor Spindola Pereira. Estudo e Implementação de Código Livre para Comunicação de Objetos Inteligentes no Contexto de Internet das Coisas. Início: 2018. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia de Goiás. (Orientador).
 
+### Iniciação Científica (IC)
+* Alice Alves Lima e Yan Willian Medeiros dos Reis. Sistema de Controle de Temperatura, Luminosidade e Umidade para Ambientes de Cultivo Protegido Utilizando NodeMCU e MQTT. Início: 2018
 
-# Iniciação Científica (IC)
-
-### 
+* Daniele dos Santos Araújo. IFGAccess: Sistema de Controle de Acesso Web Utilizando RFID e o Microcontrolador ESP8266 (ESP-01). Início: 2018
