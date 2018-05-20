@@ -1,11 +1,14 @@
 # Site navigation links
 
+- title: Horário 2018/1
+  url: /horario/
+
 - title: Disciplinas
   url: /disciplinas/
 
 - title: Orientações em andamento
   url: /orientacoes-em-andamento/
-  
+
 - title: Atividades de Ensino
   url: /projetos-ensino/
 
