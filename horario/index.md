@@ -11,9 +11,9 @@ comments: false
 
    <tr align='center'><td align='center'>Matutino </td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> ASI - 5º TADS </td> <td align='center'> Linha 2, Coluna 5 </td> <td align='center'> Linha 2, Coluna 5 </td>  </tr>
 
-   <tr align='center'><td align='center'>Vespertino </td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> ASI - 5º TAD </td>  <td align='center'> Linha 2, Coluna 5 </td> <td align='center'> Linha 2, Coluna 5 </td>  </tr>
+   <tr align='center'><td align='center'>Vespertino </td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'>Atendimento </td>  <td align='center'> Linha 2, Coluna 5 </td> <td align='center'> Linha 2, Coluna 5 </td>  </tr>
 
-   <tr align='center'><td align='center'>Noturno </td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> ASI - 5º TAD </td>  <td align='center'> Linha 2, Coluna 5 </td> <td align='center'> Linha 2, Coluna 5 </td>  </tr>
+   <tr align='center'><td align='center'>Noturno </td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> SO e OMC II (Proja) </td>  <td align='center'> Linha 2, Coluna 5 </td> <td align='center'> Linha 2, Coluna 5 </td>  </tr>
 
 
 </table>
