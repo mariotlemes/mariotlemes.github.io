@@ -7,7 +7,7 @@ comments: false
 ---
 
 <table border="2" align='center'>
-   <b><tr align='center'><TH><td align='center'>Horário</td><td align='center'>Segunda-feira</td><td align='center'> Terça-feira </td> <td align='center'> Quarta-feira </td> <td align='center'> Quinta-feira </td> <td align='center'> Sexta-feira</td></TH></tr></b>
+   <b><tr align='center'><td align='center'>Horário</td><td align='center'>Segunda-feira</td><td align='center'> Terça-feira </td> <td align='center'> Quarta-feira </td> <td align='center'> Quinta-feira </td> <td align='center'> Sexta-feira</td></tr></b>
 
    <tr align='center'><td align='center'>Matutino </td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> ASI - 5º TADS </td> <td align='center'> Linha 2, Coluna 5 </td> <td align='center'> Linha 2, Coluna 5 </td>  </tr>
 
