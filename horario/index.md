@@ -7,7 +7,9 @@ comments: false
 ---
 
 <table border="2" align='center'>
-   <tr align='center'><td >Segunda-feira</td><td> Terça-feira </td> <td> Quarta-feira </td> <td> Quinta-feira </td> <td> Sexta-feira</td></tr>
-   <tr><td>Linha 2, Coluna 1</td> <td> Teste </td> <td> Linha 2, Coluna 3 </td> <td> Linha 2, Coluna 4 </td> <td> Linha 2, Coluna 5 </td> </tr>
-   <tr><td>Linha 2, Coluna 1</td> <td> Teste </td> <td> Linha 2, Coluna 3 </td> <td> Linha 2, Coluna 4 </td> <td> Linha 2, Coluna 5 </td> </tr>
+   <tr align='center'><td align='center'>Segunda-feira</td><tdalign='center'> Terça-feira </td> <td align='center'> Quarta-feira </td> <td align='center'> Quinta-feira </td> <td align='center'> Sexta-feira</td></tr>
+
+   <tr align='center'><td align='center'>Linha 2, Coluna 1</td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> Linha 2, Coluna 4 </td> <td align='center'> Linha 2, Coluna 5 </td> </tr>
+
+   <tr align='center'><td>Linha 2, Coluna 1</td> <td align='center'> Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> Linha 2, Coluna 4 </td> <td align='center'> Linha 2, Coluna 5 </td> </tr>
 </table>
