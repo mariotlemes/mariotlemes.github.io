@@ -1,8 +1,4 @@
 # Site navigation links
-
-- title: Horário 2018-1
-  url: /horario/
-
 - title: Disciplinas
   url: /disciplinas/
 
@@ -14,3 +10,6 @@
 
 - title: Atividades de Extensão
   url: /projetos-extensao/
+
+- title: Horário
+  url: /horario/
