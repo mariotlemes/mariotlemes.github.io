@@ -11,5 +11,6 @@ comments: false
 
    <tr align='center'><td align='center'>Linha 2, Coluna 1</td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> Linha 2, Coluna 4 </td> <td align='center'> Linha 2, Coluna 5 </td> </tr>
 
-   <tr align='center'><td>Linha 2, Coluna 1</td> <td align='center'> Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> Linha 2, Coluna 4 </td> <td align='center'> Linha 2, Coluna 5 </td> </tr>
+   <tr align='center'><td align='center'>Linha 2, Coluna 1</td> <td align='center' > Teste </td> <td align='center'> Linha 2, Coluna 3 </td> <td align='center'> Linha 2, Coluna 4 </td> <td align='center'> Linha 2, Coluna 5 </td> </tr>
+
 </table>
