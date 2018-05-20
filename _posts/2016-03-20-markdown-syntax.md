@@ -4,7 +4,7 @@ title:  "Markdown Syntax"
 date:   2016-03-15
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
-- markdown 
+- markdown
 - syntax
 - sample
 - test
@@ -74,12 +74,24 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 
 ## Code Snippets
 
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
+{% highlight c++ %}
+// Daremos um nome ao pino que está conectado o LED
+int led = 7;
+unsigned int valorLido;
+unsigned int pwm;
+
+// Esta função "setup" roda uma vez quando a placa e ligada ou resetada
+void setup() {
+   pinMode(led, OUTPUT); // Configura o pino do led (digital) como saída
 }
+// Função que se repete infinitamente quando a placa é ligada
+void loop() {
+  valorLido = analogRead(A0); // valor entre 0 e 1024
+  pwm = map(valorLido, 0, 1023, 0, 255); // Mudança de escala
+  analogWrite(led, pwm);//Escreve no led um sinal PWM proporcional ao valorLido
+}
+
+
 {% endhighlight %}
 
 ## Buttons
