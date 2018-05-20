@@ -4,7 +4,7 @@ title:  "Markdown Syntax"
 date:   2016-03-15
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
-- markdown 
+- markdown
 - syntax
 - sample
 - test
@@ -74,11 +74,11 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 
 ## Code Snippets
 
-{% highlight css %}
+{% highlight c++ %}
 #container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
+sfsdfsd
+
+
 }
 {% endhighlight %}
 
