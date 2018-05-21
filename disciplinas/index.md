@@ -32,11 +32,13 @@ comments: false
 
 ## 2015/2 - Instituto Federal de Goiás - Câmpus Formosa
 * Sistemas Distribuídos (TADS).
+* Sistemas Operacionais e Redes de Computadores III (Técnico em Informática para Internet).
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 * Informática Básica (Proeja - Edificações).
 
 ## 2015/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Sistemas Operacionais e Redes de Computadores III (Técnico em Informática para Internet).
+* Projeto e Design de Interfaces II (Técnico em Informática para Internet).
 * Redes de Computadores II (Proeja - Informática).
 * Administração de Redes de Computadores (Proeja - Informática).
 
@@ -45,4 +47,5 @@ comments: false
 * Análise e Projeto de Sistemas II (Bacharelado em Sistemas de Informação).
 * Ética e Legislação em Informática (Bacharelado em Sistemas de Informação).
 * Tecnologia da Informação e da Comunicação (Licenciatura em Química).
+* Informática Básica (Licenciatura em Química).
 * Fundamentos da Computação (Técnico em Informática).
