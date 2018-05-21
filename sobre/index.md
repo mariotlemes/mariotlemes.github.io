@@ -11,8 +11,8 @@ Possui graduação em Engenharia de Computação pela Pontifícia Universidade C
 Para acessar o Currículo Lattes, <a href="http://lattes.cnpq.br/4918126641251231" target="_blank">
 clique aqui</a>.
 
-<a href="{{ site.url }}">
-    <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+<a>
+    <img src="{{ site.logo }}">
 </a>
 
 ## Áreas de Interesse
