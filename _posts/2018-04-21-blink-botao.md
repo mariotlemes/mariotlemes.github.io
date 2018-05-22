@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blink controlado por botão"
-date:   2016-03-15
+date:   2018-04-21
 excerpt: "Este projeto mostra como acender o led através de um botão (push button)."
 comments: true
 ---
