@@ -5,6 +5,10 @@ title: Disciplinas
 date: 2018-05-18
 comments: false
 ---
+## 2018/2 - Instituto Federal de Goiás - Câmpus Formosa
+* Sistemas Distribuídos (TADS).
+* Organização e Manutenção de Computadores II (Proeja - Informática).
+* Sistemas Operacionais (Proeja - Informática)
 
 ## 2018/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Administração de Serviços para Internet (TADS)
