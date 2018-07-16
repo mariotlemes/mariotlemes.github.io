@@ -7,7 +7,7 @@ comments: false
 ---
 
 ## 2018/1 - Instituto Federal de Goiás - Câmpus Formosa
-* Administração de Serviços para Internet (TADS).
+* Administração de Serviços para Internet (TADS)
 * Organização e Manutenção de Computadores II (Proeja - Informática).
 * Sistemas Operacionais (Proeja - Informática)
 
