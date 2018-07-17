@@ -6,22 +6,22 @@ date: 2018-05-18
 comments: false
 ---
 ## 2018/2 - Instituto Federal de Goiás - Câmpus Formosa
-* Sistemas Distribuídos (TADS).
+* Sistemas Distribuídos (Tecnologia em Análise e Desenvolvimento de Sistemas).
 * Organização e Manutenção de Computadores II (Proeja - Informática).
 * Sistemas Operacionais (Proeja - Informática)
 
 ## 2018/1 - Instituto Federal de Goiás - Câmpus Formosa
-* Administração de Serviços para Internet (TADS)
+* Administração de Serviços para Internet (Tecnologia em Análise e Desenvolvimento de Sistemas)
 * Organização e Manutenção de Computadores II (Proeja - Informática).
 * Sistemas Operacionais (Proeja - Informática)
 
 ## 2017/2 - Instituto Federal de Goiás - Câmpus Formosa
-* Trabalho de Conclusão de Curso I (TADS).
+* Trabalho de Conclusão de Curso I (Tecnologia em Análise e Desenvolvimento de Sistemas).
 * Informática Básica (Proeja - Edificações).
 * Organização e Manutenção de Computadores II (Proeja - Informática).
 
 ## 2017/1 - Instituto Federal de Goiás - Câmpus Formosa
-* Administração de Serviços para Internet (TADS).
+* Administração de Serviços para Internet (Tecnologia em Análise e Desenvolvimento de Sistemas).
 * Informática Básica (Proeja - Edificações).
 
 ## 2016/2 - Instituto Federal de Goiás - Câmpus Formosa
@@ -30,12 +30,12 @@ comments: false
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 
 ## 2016/1 - Instituto Federal de Goiás - Câmpus Formosa
-* Trabalho de Conclusão de Curso I (TADS).
+* Trabalho de Conclusão de Curso I (Tecnologia em Análise e Desenvolvimento de Sistemas).
 * Informática Básica (Proeja - Edificações).
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 
 ## 2015/2 - Instituto Federal de Goiás - Câmpus Formosa
-* Sistemas Distribuídos (TADS).
+* Sistemas Distribuídos (Tecnologia em Análise e Desenvolvimento de Sistemas).
 * Sistemas Operacionais e Redes de Computadores III (Técnico em Informática para Internet).
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 * Informática Básica (Proeja - Edificações).
