@@ -6,7 +6,7 @@ date: 2018-07-23
 comments: false
 ---
 
-##__Dados da Disciplina__
+__Dados da Disciplina__
 {: .notice}
 
 * __Turma__: Tecnologia em Análise e Desenvolvimento de Sistemas - 4º Período.
@@ -15,7 +15,7 @@ comments: false
 * __Aulas__: Quarta-feira (08h45 - 10h15 e 10h30 - 12h00) e Quinta-feira (07h00 - 08h30).
 * [__Plano de Ensino__]().
 
-##__Cronograma de aulas__
+__Cronograma de aulas__
 {: .notice}
 
 | Data | Conteúdo | Materiais de aula |
@@ -102,5 +102,24 @@ comments: false
 |----
 {: rules="groups"}
 
-##__Bibliografia__
+__Bibliografia__
 {: .notice}
+
+BÁSICA:
+* COULOURIS, G; DOLLIMORE, J.; KINDBERG, T.; BLAIR, G. Sistemas
+Distribuídos – Conceitos e Projeto – 5ª Ed. Editora Pearson, 2013.
+* TANENBAUM A. S.; STEEN M. V. Sistemas distribuídos: princípios e
+paradigmas. 2ª ed. São Paulo: Pearson, 2007.
+* TANENBAUM A. S.; WETHERALL D. J. Redes de Computadores. 5ª ed. São
+Paulo: Pearson, 2011.
+
+COMPLEMENTAR:
+* MORIMOTO, C. E. Redes: guia prático. 2ª ed. Porto Alegre: GdHPress, 2011.
+* TORRES, G. Redes de Computadores 2ª ed. Porto Alegre: Rio de Janeiro,
+2009.
+* KUROSE, J. F. Redes de Computadores e a Internet. 5ª ed. São Paulo:
+Pearson, 2010.
+* RIBEIRO, Uira. Sistemas Distribuídos: Desenvolvimento aplicações de alta
+performance no Linux. Editora Axcel. 2005.
+* ALBUQUERQUE, Fernando. TCP/IP Internet: Programação de sistemas
+distribuídos – HTML, JAVASCRIPT e JAVA. Editora Axcel. 2001.
