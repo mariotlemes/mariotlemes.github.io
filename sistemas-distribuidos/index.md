@@ -6,7 +6,7 @@ date: 2018-07-23
 comments: false
 ---
 
-__Dados da Disciplina__
+##__Dados da Disciplina__
 {: .notice}
 
 * __Turma__: Tecnologia em Análise e Desenvolvimento de Sistemas - 4º Período.
@@ -15,7 +15,7 @@ __Dados da Disciplina__
 * __Aulas__: Quarta-feira (08h45 - 10h15 e 10h30 - 12h00) e Quinta-feira (07h00 - 08h30).
 * [__Plano de Ensino__]().
 
-__Cronograma de aulas__
+##__Cronograma de aulas__
 {: .notice}
 
 | Data | Conteúdo | Materiais de aula |
@@ -101,3 +101,6 @@ __Cronograma de aulas__
 | 13/12/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
 |----
 {: rules="groups"}
+
+##__Bibliografia__
+{: .notice}
