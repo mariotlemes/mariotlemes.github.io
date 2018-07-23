@@ -19,7 +19,7 @@ Cronograma de aulas
 {: .notice}
 
 | Data |Conteúdo | Materiais de aula |
-|:--------|:-------:|--------:|
+|:--------:|:-------:|:--------:|
 | 08/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 1]() |
 |----
 
