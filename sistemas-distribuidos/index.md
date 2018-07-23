@@ -9,10 +9,12 @@ comments: false
 __Dados da Disciplina__
 {: .notice}
 
-* __Turma__: Tecnologia em Análise e Desenvolvimento de Sistemas - 4º Período.
+* __Turma__: Tecnologia em Análise e Desenvolvimento de Sistemas (4º Período).
 * __Turno__: Matutino.
-* __Carga-horária__: 81 h/a.
-* __Aulas__: Quarta-feira (08h45 - 10h15 e 10h30 - 12h00) e Quinta-feira (07h00 - 08h30).
+* __Carga-horária__: 108h/a.
+* __Aulas__:
+  * Quarta-feira (08h45 - 10h15 e 10h30 - 12h00).
+  * Quinta-feira (07h00 - 08h30).
 * [__Plano de Ensino__]().
 
 __Cronograma de aulas__
