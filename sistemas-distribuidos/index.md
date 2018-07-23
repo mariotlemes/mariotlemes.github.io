@@ -19,7 +19,7 @@ Aulas
 
 | Data | Conteúdo | Materiais de aula |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
+| 08/08/2018   | Apresentação da disciplina   | [Aula01](https://drive.google.com/open?id=1eNThZVNGhHv31Y3Ui1yY2M6X2NhxXmeV)   |
 |----
 | cell4   | cell5   | cell6   |
 |----
