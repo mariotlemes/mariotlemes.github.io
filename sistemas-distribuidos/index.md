@@ -7,11 +7,11 @@ comments: false
 ---
 
 
->  Dados da Disciplina
-
 <figure>
     <a href="/images/dados-disciplina.png"><img src="/images/dados-disciplina.png"></a>
 </figure>
+
+# Dados da Disciplina
 
 * Turma: Tecnologia em Análise e Desenvolvimento de Sistemas - 4º Período
 * Turno: Matutino
