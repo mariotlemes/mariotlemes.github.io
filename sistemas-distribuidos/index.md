@@ -22,47 +22,47 @@ __Cronograma de aulas__
 |:--------:|:-------:|:--------:|
 | 08/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 1]() |
 |----
-| 09/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 2]() |
+| 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2]() |
 |----
-| 15/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 3]() |
+| 15/08/2018 | Caracterização de Sistemas Distribuídos - Parte 2 | [Aula 3]() |
 |----
-| 16/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 4]() |
+| 16/08/2018 | Conceitos relacionados e principais desafios | [Aula 4]() |
 |----
-| 22/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 5]() |
+| 22/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 1 | [Aula 5]() |
 |----
-| 23/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 6]() |
+| 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 2 | [Aula 6]() |
 |----
-| 29/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 29/08/2018 | Comunicação entre processos (Soquetes) | [Aula 7]() |
 |----
-| 30/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 30/08/2018 | Atividade Prática de Soquetes  | [Aula 8]() |
 |----
-| 05/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 05/09/2018 | Invocação Remota (RPC)| [Aula 9]() |
 |----
-| 06/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 06/09/2018 | Atividade Prática de RPC | [Aula 10]() |
 |----
-| 12/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 12/09/2018 | Invocação Remota (RMI) | [Aula 11]() |
 |----
-| 13/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 13/09/2018 | Atividade Prática de RMI | [Aula 12]() |
 |----
-| 19/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 19/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 13]() |
 |----
-| 20/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 20/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 14]() |
 |----
-| 26/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 26/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 15]() |
 |----
-| 27/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 27/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 16]() |
 |----
-| 03/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 03/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 17]() |
 |----
-| 04/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 04/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 18]() |
 |----
-| 10/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 10/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 19]() |
 |----
-| 11/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 11/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 20]() |
 |----
-| 17/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 17/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 21]() |
 |----
-| 18/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 18/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 22]() |
 |----
 | 24/10/2018 | Em atividades da IX Secitec |  |
 |----
