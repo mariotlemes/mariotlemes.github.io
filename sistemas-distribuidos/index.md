@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sistemas Distribuídos
+title: Sistemas Distribuídos - 2018/2
 #tags: [, Jekyll, theme, moon]
 date: 2018-07-23
 comments: false
@@ -8,6 +8,10 @@ comments: false
 
 
 >  Dados da Disciplina
+
+<figure>
+    <a href="/images/dados-disciplina.png"><img src="/images/dados-disciplina.png"></a>
+</figure>
 
 * Turma: Tecnologia em Análise e Desenvolvimento de Sistemas - 4º Período
 * Turno: Matutino
