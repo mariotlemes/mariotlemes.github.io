@@ -65,7 +65,7 @@ lattes:             4918126641251231
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
