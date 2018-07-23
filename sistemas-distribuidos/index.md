@@ -22,5 +22,6 @@ Cronograma de aulas
 |:--------:|:-------:|:--------:|
 | 08/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 1]() |
 |----
+| 08/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 1]() |
 
 {: rules="groups"}
