@@ -19,7 +19,7 @@ Cronograma de aulas
 {: .notice}
 
 | Data | Carga-horária |Conteúdo | Materiais de aula |
-|:--------|:-------:|--------:| --------:|
+|:--------|:-------:|--------:| :--------:|
 | 08/08/2018 | 4 h/a | Apresentação da disciplina, professor e alunos | [Aula 1]() |
 |----
 
