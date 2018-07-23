@@ -107,21 +107,21 @@ __Cronograma de aulas__
 __Bibliografia__
 {: .notice}
 
-BÁSICA:
-* COULOURIS, G; DOLLIMORE, J.; KINDBERG, T.; BLAIR, G. Sistemas
-Distribuídos – Conceitos e Projeto – 5ª Ed. Editora Pearson, 2013.
-* TANENBAUM A. S.; STEEN M. V. Sistemas distribuídos: princípios e
-paradigmas. 2ª ed. São Paulo: Pearson, 2007.
-* TANENBAUM A. S.; WETHERALL D. J. Redes de Computadores. 5ª ed. São
+* Básica:
+  * COULOURIS, G; DOLLIMORE, J.; KINDBERG, T.; BLAIR, G. __Sistemas
+Distribuídos – Conceitos e Projeto__ – 5ª Ed. Editora Pearson, 2013.
+  * TANENBAUM A. S.; STEEN M. V. __Sistemas distribuídos: princípios e
+paradigmas__. 2ª ed. São Paulo: Pearson, 2007.
+  * TANENBAUM A. S.; WETHERALL D. J. __Redes de Computadores.__ 5ª ed. São
 Paulo: Pearson, 2011.
 
-COMPLEMENTAR:
-* MORIMOTO, C. E. Redes: guia prático. 2ª ed. Porto Alegre: GdHPress, 2011.
-* TORRES, G. Redes de Computadores 2ª ed. Porto Alegre: Rio de Janeiro,
+* Complementar:
+  * MORIMOTO, C. E. __Redes: guia prático 2ª ed.__ Porto Alegre: GdHPress, 2011.
+  * TORRES, G. __Redes de Computadores 2ª ed.__ Porto Alegre: Rio de Janeiro,
 2009.
-* KUROSE, J. F. Redes de Computadores e a Internet. 5ª ed. São Paulo:
+  * KUROSE, J. F. __Redes de Computadores e a Internet 5ª ed.__ São Paulo:
 Pearson, 2010.
-* RIBEIRO, Uira. Sistemas Distribuídos: Desenvolvimento aplicações de alta
-performance no Linux. Editora Axcel. 2005.
-* ALBUQUERQUE, Fernando. TCP/IP Internet: Programação de sistemas
-distribuídos – HTML, JAVASCRIPT e JAVA. Editora Axcel. 2001.
+  * RIBEIRO, Uira. __Sistemas Distribuídos: Desenvolvimento aplicações de alta
+performance no Linux.__ Editora Axcel. 2005.
+  * ALBUQUERQUE, Fernando. __TCP/IP Internet: Programação de sistemas
+distribuídos – HTML, JAVASCRIPT e JAVA.__ Editora Axcel. 2001.
