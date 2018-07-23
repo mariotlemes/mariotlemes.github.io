@@ -20,8 +20,7 @@ Cronograma de aulas
 
 | Data | Carga-horária |Conteúdo | Materiais de aula |
 |:--------|:-------:|--------:| --------:|
-| 08/08/2018  | 4 h/a   | Apresentação da disciplina, professor e alunos   | [Aula 1]()   |
+| 08/08/2018 | 4 h/a | Apresentação da disciplina, professor e alunos | [Aula 1]() |
 |----
-| 09/08/2018  | 2 h/a   | Caracterização de Sistemas Distribuídos   | [Aula 2]()   |
-|----
+
 {: rules="groups"}
