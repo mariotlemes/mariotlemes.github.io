@@ -6,10 +6,10 @@ date: 2018-07-23
 comments: false
 ---
 
-### Dados da Disciplina
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.* Turma: Tecnologia em Análise e Desenvolvimento de Sistemas - 4º Período
+>  Dados da Disciplina
 
+* Turma: Tecnologia em Análise e Desenvolvimento de Sistemas - 4º Período
 * Turno: Matutino
 * Carga-horária: 81 horas-aula
 * Aulas: Quarta-feira (07h00 - 08h30 e 08h45 - 10h15).
