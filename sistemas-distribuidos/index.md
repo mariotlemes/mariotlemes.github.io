@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Orientações em andamento
+title: Sistemas Distribuídos
 #tags: [, Jekyll, theme, moon]
-date: 2018-05-18
+date: 2018-07-23
 comments: false
 ---
-### Trabalho de Conclusão de Curso (TCC)
-* Jhuan Victor Spindola Pereira. Estudo e Implementação de Código Livre para Comunicação de Objetos Inteligentes no Contexto de Internet das Coisas. Início: 2018.
 
+### Dados da Disciplina
 
-### Iniciação Científica (IC)
-* Alice Alves Lima e Yan Willian Medeiros dos Reis. Sistema de Controle de Temperatura, Luminosidade e Umidade para Ambientes de Cultivo Protegido Utilizando NodeMCU e MQTT. Início: 2018
+> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.* Turma: Tecnologia em Análise e Desenvolvimento de Sistemas - 4º Período
 
-* Daniele dos Santos Araújo. IFGAccess: Sistema de Controle de Acesso Web Utilizando RFID e o Microcontrolador ESP8266 (ESP-01). Início: 2018
+* Turno: Matutino
+* Carga-horária: 81 horas-aula
+* Aulas: Quarta-feira (07h00 - 08h30 e 08h45 - 10h15).
