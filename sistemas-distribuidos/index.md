@@ -22,85 +22,85 @@ __Cronograma de aulas__
 
 | Data | Conteúdo | Materiais de aula |
 |:--------:|:-------:|:--------:|
-| 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1]() |
+| 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1](https://drive.google.com/file/d/1sJlEcZhz3Rw1mUWU2RVldsfs_Mtt8aab/view?usp=sharing) |
 |----
-| 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2] () |
+| 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2() |
 |----
-| 15/08/2018 | Caracterização de Sistemas Distribuídos - Parte 2 | [Aula 3]() |
+| 15/08/2018 | Caracterização de Sistemas Distribuídos - Parte 2 | |
 |----
 | 16/08/2018 | Conceitos relacionados e principais desafios | [Aula 4]() |
 |----
-| 22/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 1 | [Aula 5]() |
+| 22/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 1 |  |
 |----
-| 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 2 | [Aula 6]() |
+| 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 2 |  |
 |----
-| 29/08/2018 | Comunicação entre processos (Soquetes) | [Aula 7]() |
+| 29/08/2018 | Comunicação entre processos (Soquetes) | |
 |----
-| 30/08/2018 | Atividade Prática de Verificação de Aprendizagem (Soquetes)  | [Aula 8]() |
+| 30/08/2018 | Atividade Prática de Verificação de Aprendizagem (Soquetes)  | |
 |----
-| 05/09/2018 | Invocação Remota (RPC)| [Aula 9]() |
+| 05/09/2018 | Invocação Remota (RPC)|  |
 |----
-| 06/09/2018 | Atividade Prática de Verificação de Aprendizagem (RPC) | [Aula 10]() |
+| 06/09/2018 | Atividade Prática de Verificação de Aprendizagem (RPC) | |
 |----
-| 12/09/2018 | Invocação Remota (RMI) | [Aula 11]() |
+| 12/09/2018 | Invocação Remota (RMI) | |
 |----
-| 13/09/2018 | Atividade Prática de Verificação de Aprendizagem (Java RMI) | [Aula 12]() |
+| 13/09/2018 | Atividade Prática de Verificação de Aprendizagem (Java RMI) | |
 |----
-| 19/09/2018 | Data da 1a prova avaliativa de Sistemas Distribuídos | [Aula 13]() |
+| 19/09/2018 | Data da 1a prova avaliativa de Sistemas Distribuídos | |
 |----
-| 20/09/2018 | Discussão, correção e entrega da 1a prova avaliativa | [Aula 14]() |
+| 20/09/2018 | Discussão, correção e entrega da 1a prova avaliativa |  |
 |----
-| 26/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 15]() |
+| 26/09/2018 |  |  |
 |----
-| 27/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 16]() |
+| 27/09/2018 |  | |
 |----
-| 03/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 17]() |
+| 03/10/2018 | | |
 |----
-| 04/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 18]() |
+| 04/10/2018 |  | |
 |----
-| 10/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 19]() |
+| 10/10/2018 |  |  |
 |----
-| 11/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 20]() |
+| 11/10/2018 | | |
 |----
-| 17/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 21]() |
+| 17/10/2018 |  | |
 |----
-| 18/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 22]() |
+| 18/10/2018 | | |
 |----
 | 24/10/2018 | Em atividades da IX Secitec |  |
 |----
 | 25/10/2018 | Em atividades da IX Secitec |  |
 |----
-| 31/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 31/10/2018 | | |
 |----
-| 01/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 01/11/2018 |  | |
 |----
-| 31/10/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 31/10/2018 | | |
 |----
-| 01/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 01/11/2018 | | |
 |----
-| 07/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 07/11/2018 | |  |
 |----
-| 08/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 08/11/2018 |  |  |
 |----
-| 14/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 14/11/2018 | | |
 |----
 | 15/11/2018 | Recesso - Proclamação da República | |
 |----
-| 21/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 21/11/2018 |  |  |
 |----
-| 22/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 22/11/2018 |  |  |
 |----
-| 28/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 28/11/2018 |  |  |
 |----
-| 29/11/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 29/11/2018 | | |
 |----
-| 05/12/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 05/12/2018 | |  |
 |----
-| 06/12/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 06/12/2018 | |  |
 |----
-| 12/12/2018 | Apresentação da disciplina, professor e alunos | [Aula 7]() |
+| 12/12/2018 | | |
 |----
-| 13/12/2018 | Apresentação da disciplina, professor e alunos | [Aula 8]() |
+| 13/12/2018 | | |
 |----
 {: rules="groups"}
 
