@@ -5,6 +5,7 @@ title: Sistemas Distribuídos (2018/2)
 date: 2018-07-23
 comments: false
 ---
+## Professor: Mario Teixeira Lemes
 
 __Dados da Disciplina__
 {: .notice}
@@ -24,11 +25,11 @@ __Cronograma de aulas__
 |:--------:|:-------:|:--------:|
 | 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1](https://drive.google.com/file/d/1sJlEcZhz3Rw1mUWU2RVldsfs_Mtt8aab/view?usp=sharing) |
 |----
-| 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2() |
+| 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2]() |
 |----
 | 15/08/2018 | Caracterização de Sistemas Distribuídos - Parte 2 | |
 |----
-| 16/08/2018 | Conceitos relacionados e principais desafios | [Aula 4]() |
+| 16/08/2018 | Conceitos relacionados e principais desafios |  |
 |----
 | 22/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 1 |  |
 |----
