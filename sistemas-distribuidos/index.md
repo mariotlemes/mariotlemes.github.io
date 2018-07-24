@@ -36,19 +36,19 @@ __Cronograma de aulas__
 |----
 | 29/08/2018 | Comunicação entre processos (Soquetes) | [Aula 7]() |
 |----
-| 30/08/2018 | Atividade Prática de Soquetes  | [Aula 8]() |
+| 30/08/2018 | Atividade Prática de Verificação de Aprendizagem (Soquetes)  | [Aula 8]() |
 |----
 | 05/09/2018 | Invocação Remota (RPC)| [Aula 9]() |
 |----
-| 06/09/2018 | Atividade Prática de RPC | [Aula 10]() |
+| 06/09/2018 | Atividade Prática de Verificação de Aprendizagem (RPC) | [Aula 10]() |
 |----
 | 12/09/2018 | Invocação Remota (RMI) | [Aula 11]() |
 |----
-| 13/09/2018 | Atividade Prática de RMI | [Aula 12]() |
+| 13/09/2018 | Atividade Prática de Verificação de Aprendizagem (Java RMI) | [Aula 12]() |
 |----
-| 19/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 13]() |
+| 19/09/2018 | Data da 1a prova avaliativa de Sistemas Distribuídos | [Aula 13]() |
 |----
-| 20/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 14]() |
+| 20/09/2018 | Discussão, correção e entrega da 1a prova avaliativa | [Aula 14]() |
 |----
 | 26/09/2018 | Apresentação da disciplina, professor e alunos | [Aula 15]() |
 |----
