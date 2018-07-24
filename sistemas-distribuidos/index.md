@@ -22,9 +22,9 @@ __Cronograma de aulas__
 
 | Data | Conteúdo | Materiais de aula |
 |:--------:|:-------:|:--------:|
-| 08/08/2018 | Apresentação da disciplina, professor e alunos | [Aula 1]() |
+| 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1]() |
 |----
-| 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2]() |
+| 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2] () |
 |----
 | 15/08/2018 | Caracterização de Sistemas Distribuídos - Parte 2 | [Aula 3]() |
 |----
@@ -104,15 +104,22 @@ __Cronograma de aulas__
 |----
 {: rules="groups"}
 
+__Material complementar__
+{: .notice}
+* [Como funciona o Youtube](http://www.tecmundo.com.br/youtube/48298-como-funciona-o-youtube-ilustracao-.htm)
+* [O que é um Sistema Distribuído?](https://pt.coursera.org/lecture/cloud-computing/2-2-what-is-a-distributed-system-nvMXE)
+
+
+
 __Bibliografia__
 {: .notice}
 
 * Básica:
   * COULOURIS, G; DOLLIMORE, J.; KINDBERG, T.; BLAIR, G. __Sistemas
-Distribuídos – Conceitos e Projeto__ – 5ª Ed. Editora Pearson, 2013.
+Distribuídos – Conceitos e Projeto–  5ª Ed.__ Editora Pearson, 2013.
   * TANENBAUM A. S.; STEEN M. V. __Sistemas distribuídos: princípios e
-paradigmas__. 2ª ed. São Paulo: Pearson, 2007.
-  * TANENBAUM A. S.; WETHERALL D. J. __Redes de Computadores.__ 5ª ed. São
+paradigmas 2ª ed.__ São Paulo: Pearson, 2007.
+  * TANENBAUM A. S.; WETHERALL D. J. __Redes de Computadores 5ª ed.__ São
 Paulo: Pearson, 2011.
 
 * Complementar:
@@ -124,4 +131,4 @@ Pearson, 2010.
   * RIBEIRO, Uira. __Sistemas Distribuídos: Desenvolvimento aplicações de alta
 performance no Linux.__ Editora Axcel. 2005.
   * ALBUQUERQUE, Fernando. __TCP/IP Internet: Programação de sistemas
-distribuídos – HTML, JAVASCRIPT e JAVA.__ Editora Axcel. 2001.
+distribuídos – Html, Javascript e Java.__ Editora Axcel. 2001.
