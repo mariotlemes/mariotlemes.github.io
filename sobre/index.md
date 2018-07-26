@@ -11,7 +11,7 @@ Possui graduação em Engenharia de Computação pela Pontifícia Universidade C
 Para acessar o Currículo Lattes, <a href="http://lattes.cnpq.br/4918126641251231" target="_blank">
 clique aqui</a>.
 
-## Áreas de Interesse
+## Áreas de Interesse:
 * Redes Definidas por Software.
 * Segurança de Sistemas Computacionais.
 * Sistemas Inteligentes.
