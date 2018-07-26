@@ -5,7 +5,8 @@ title: Sistemas Distribuídos (2018/2)
 date: 2018-07-23
 comments: false
 ---
-## Professor: Mario Teixeira Lemes
+## Professor: M. Sc. Mario Teixeira Lemes
+
 
 __Dados da Disciplina__
 {: .notice}
