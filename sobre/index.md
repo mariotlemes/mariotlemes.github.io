@@ -12,12 +12,9 @@ Para acessar o Currículo Lattes, <a href="http://lattes.cnpq.br/491812664125123
 clique aqui</a>.
 
 ## Áreas de Interesse
-* Redes de Computadores.
-* Redes Móveis de Comunicação.
-* Redes Definidas por Software (SDN).
-* Segurança de Redes de Computadores.
+* Redes Definidas por Software.
+* Segurança de Sistemas Computacionais.
 * Sistemas Inteligentes.
 * Computação Paralela e Distribuída.
 * Software/Hardware Livre.
-* Sistemas Embarcados.
 * Internet das Coisas (IoT).
