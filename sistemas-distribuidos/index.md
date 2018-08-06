@@ -20,19 +20,19 @@ __Dados da Disciplina__
 __Cronograma de aulas__
 {: .notice}
 
-| Data | Conteúdo | Materiais de aula |
-|:--------:|:-------:|:--------:|
-| 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1]() |
+Aula | Data | Conteúdo | Materiais de aula |
+|:--------:|:--------:|:-------:|:--------:|
+| 1 | 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1](https://drive.google.com/file/d/15FEIqBbN29padU3ccjpYh-sG7oyKX6uO/view?usp=sharing) |
 |----
-| 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2]() |
+| 09/08/2018 | Caracterização de Sistemas Distribuídos | [Aula 2](https://drive.google.com/file/d/1EUfxbgbd36FkzuxK4Pf2T5frVr0D_Tpj/view?usp=sharing) |
 |----
-| 15/08/2018 | Caracterização de Sistemas Distribuídos - Parte 2 | |
+| 15/08/2018 | Conceitos relacionados e principais desafios | |
 |----
-| 16/08/2018 | Conceitos relacionados e principais desafios |  |
+| 16/08/2018 |  Modelos de Arquitetura de Sistemas Distribuídos - Parte 1|  |
 |----
-| 22/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 1 |  |
+| 22/08/2018 |  Modelos de Arquitetura de Sistemas Distribuídos - Parte 2 |  |
 |----
-| 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 2 |  |
+| 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 3|  |
 |----
 | 29/08/2018 | Comunicação entre processos (Sockets) | |
 |----
@@ -48,15 +48,15 @@ __Cronograma de aulas__
 |----
 | 19/09/2018 | Diferença entre RPC e RMI | |
 |----
-| 20/09/2018 | Data da 1a prova avaliativa |  |
+| 20/09/2018 | Data da 1ª prova avaliativa |  |
 |----
-| 26/09/2018 |  Discussão, correção e entrega da 1a prova avaliativa|  |
+| 26/09/2018 | Discussão, correção e entrega da 1a prova avaliativa|  |
 |----
 | 27/09/2018 | Comunicação indireta - Parte 1| |
 |----
 | 03/10/2018 | Comunicação indireta - Parte 2| |
 |----
-| 04/10/2018 |  Atividade prática de comunicação indireta (JGroups Toolkit)| |
+| 04/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
 |----
 | 10/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
 |----
@@ -64,7 +64,7 @@ __Cronograma de aulas__
 |----
 | 17/10/2018 | Atividade Prática (Corba)| |
 |----
-| 18/10/2018 | Data da 2a prova avaliativa| |
+| 18/10/2018 | Data da 2ª prova avaliativa| |
 |----
 | 24/10/2018 | Em atividades da IX Secitec |  |
 |----
@@ -82,9 +82,9 @@ __Cronograma de aulas__
 |----
 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |----
-| 21/11/2018 |  Segurança em Sistemas Distribuídos - Parte 1|  |
+| 21/11/2018 | Segurança em Sistemas Distribuídos - Parte 1|  |
 |----
-| 22/11/2018 |  Introdução a computação móvel e ubíqua - Parte 1 |  |
+| 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
 |----
 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
 |----
@@ -92,7 +92,7 @@ __Cronograma de aulas__
 |----
 | 05/12/2018 | Data de apresentação de trabalhos práticos|  |
 |----
-| 06/12/2018 | Data da 3a prova avaliativa |  |
+| 06/12/2018 | Data da 3ª prova avaliativa |  |
 |----
 | 12/12/2018 | Entrega, discussão e correção da atividade avaliativa | |
 |----
