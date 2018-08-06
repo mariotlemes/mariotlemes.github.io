@@ -36,9 +36,9 @@ __Cronograma de aulas__
 |----
 | 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 2 |  |
 |----
-| 29/08/2018 | Comunicação entre processos (Soquetes) | |
+| 29/08/2018 | Comunicação entre processos (Sockets) | |
 |----
-| 30/08/2018 | Atividade Prática de Verificação de Aprendizagem (Soquetes)  | |
+| 30/08/2018 | Atividade Prática de Verificação de Aprendizagem (Sockets)  | |
 |----
 | 05/09/2018 | Invocação Remota (RPC)|  |
 |----
