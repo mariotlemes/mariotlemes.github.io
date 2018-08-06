@@ -86,7 +86,7 @@ __Cronograma de aulas__
 |----
 | 14/11/2018 | | |
 |----
-| 15/11/2018 | Recesso - Proclamação da República | |
+| 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |----
 | 21/11/2018 |  |  |
 |----
