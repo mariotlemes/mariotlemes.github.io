@@ -20,7 +20,7 @@ __Dados da Disciplina__
 __Cronograma de aulas__
 {: .notice}
 
-Aula | Data | Conteúdo | Materiais de aula |
+| Aula | Data | Conteúdo | Materiais de aula |
 |:--------:|:--------:|:-------:|:--------:|
 | 1 | 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1](https://drive.google.com/file/d/15FEIqBbN29padU3ccjpYh-sG7oyKX6uO/view?usp=sharing) |
 |----
