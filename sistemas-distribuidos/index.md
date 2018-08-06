@@ -15,7 +15,7 @@ __Dados da Disciplina__
 * __Aulas__:
   * Quarta-feira (08h45 - 10h15 e 10h30 - 12h00).
   * Quinta-feira (07h00 - 08h30).
-* [__Plano de Ensino__]().
+* [__Ver Plano de Ensino__](https://drive.google.com/file/d/1kA_1bX1dNHBfTEmH2bMMQR90qG5uiZYt/view?usp=sharing).
 
 __Cronograma de aulas__
 {: .notice}
@@ -50,7 +50,7 @@ __Cronograma de aulas__
 |---
 | 14 | 20/09/2018 | Data da 1ª prova avaliativa |  |
 |---
-| 15 | 26/09/2018 | Discussão, correção e entrega da 1a prova avaliativa|  |
+| 15 | 26/09/2018 | Discussão, correção e entrega da 1ª prova avaliativa|  |
 |---
 | 16 | 27/09/2018 | Comunicação indireta - Parte 1| |
 |---
@@ -70,7 +70,7 @@ __Cronograma de aulas__
 |---
 | 24 | 25/10/2018 | Em atividades da IX Secitec |  |
 |---
-| 25 | 31/10/2018 | Entrega, discussão e correção da 2a prova avaliativa| |
+| 25 | 31/10/2018 | Entrega, discussão e correção da 2ª prova avaliativa| |
 |---
 | 26 | 01/11/2018 | Web Services: Introdução a Arquitetura | |
 |---
@@ -82,7 +82,7 @@ __Cronograma de aulas__
 |---
 | 30 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |---
-| 31 | 21/11/2018 | Segurança em Sistemas Distribuídos - Parte 1|  |
+| 31 | 21/11/2018 | Segurança em Sistemas Distribuídos|  |
 |---
 | 32 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
 |---
@@ -94,7 +94,7 @@ __Cronograma de aulas__
 |---
 | 36 | 06/12/2018 | Data da 3ª prova avaliativa |  |
 |---
-| 37 | 12/12/2018 | Entrega, discussão e correção da atividade avaliativa | |
+| 37 | 12/12/2018 | Entrega, discussão e correção da 3ª avaliativa | |
 |---
 | 38 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
