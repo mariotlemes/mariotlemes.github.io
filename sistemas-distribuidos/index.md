@@ -15,7 +15,7 @@ __Dados da Disciplina__
 * __Aulas__:
   * Quarta-feira (08h45 - 10h15 e 10h30 - 12h00).
   * Quinta-feira (07h00 - 08h30).
-* [__Ver Plano de Ensino__](https://drive.google.com/file/d/1kA_1bX1dNHBfTEmH2bMMQR90qG5uiZYt/view?usp=sharing).
+* [__Ver Plano de Ensino__](https://drive.google.com/file/d/1HO1TWd_j6KpQICgDlSmfj_je9xSX_EO5/view?usp=sharing).
 
 __Cronograma de aulas__
 {: .notice}
