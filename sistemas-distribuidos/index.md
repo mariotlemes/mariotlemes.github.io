@@ -23,6 +23,7 @@ __Cronograma de aulas__
 | Aula | Data | Conteúdo | Material |
 |:--------:|:--------:|:-------:|:--------:|
 | 1 | 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1](https://drive.google.com/file/d/15FEIqBbN29padU3ccjpYh-sG7oyKX6uO/view?usp=sharing) |
+|---
 | 2 | 09/08/2018 | Caracterização de Sistemas Distribuídos | [Aula 2](https://drive.google.com/file/d/1EUfxbgbd36FkzuxK4Pf2T5frVr0D_Tpj/view?usp=sharing) |
 | 3 | 15/08/2018 | Conceitos relacionados e principais desafios | |
 | 4 | 16/08/2018 |  Modelos de Arquitetura de Sistemas Distribuídos - Parte 1|  |
