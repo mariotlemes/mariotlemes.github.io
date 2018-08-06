@@ -20,84 +20,46 @@ __Dados da Disciplina__
 __Cronograma de aulas__
 {: .notice}
 
-| Aula | Data | Conteúdo | Materiais de aula |
+| Aula | Data | Conteúdo | Material |
 |:--------:|:--------:|:-------:|:--------:|
 | 1 | 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1](https://drive.google.com/file/d/15FEIqBbN29padU3ccjpYh-sG7oyKX6uO/view?usp=sharing) |
-|----
-| 09/08/2018 | Caracterização de Sistemas Distribuídos | [Aula 2](https://drive.google.com/file/d/1EUfxbgbd36FkzuxK4Pf2T5frVr0D_Tpj/view?usp=sharing) |
-|----
-| 15/08/2018 | Conceitos relacionados e principais desafios | |
-|----
-| 16/08/2018 |  Modelos de Arquitetura de Sistemas Distribuídos - Parte 1|  |
-|----
-| 22/08/2018 |  Modelos de Arquitetura de Sistemas Distribuídos - Parte 2 |  |
-|----
-| 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 3|  |
-|----
-| 29/08/2018 | Comunicação entre processos (Sockets) | |
-|----
-| 30/08/2018 | Atividade Prática de Verificação de Aprendizagem (Sockets)  | |
-|----
-| 05/09/2018 | Invocação Remota (RPC)|  |
-|----
-| 06/09/2018 | Atividade Prática de Verificação de Aprendizagem (RPC) | |
-|----
-| 12/09/2018 | Invocação Remota (RMI) | |
-|----
-| 13/09/2018 | Atividade Prática de Verificação de Aprendizagem (Java RMI) | |
-|----
-| 19/09/2018 | Diferença entre RPC e RMI | |
-|----
-| 20/09/2018 | Data da 1ª prova avaliativa |  |
-|----
-| 26/09/2018 | Discussão, correção e entrega da 1a prova avaliativa|  |
-|----
-| 27/09/2018 | Comunicação indireta - Parte 1| |
-|----
-| 03/10/2018 | Comunicação indireta - Parte 2| |
-|----
-| 04/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
-|----
-| 10/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
-|----
-| 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
-|----
-| 17/10/2018 | Atividade Prática (Corba)| |
-|----
-| 18/10/2018 | Data da 2ª prova avaliativa| |
-|----
-| 24/10/2018 | Em atividades da IX Secitec |  |
-|----
-| 25/10/2018 | Em atividades da IX Secitec |  |
-|----
-| 31/10/2018 | Entrega, discussão e correção da 2a prova avaliativa| |
-|----
-| 01/11/2018 | Web Services: Introdução a Arquitetura | |
-|----
-| 07/11/2018 | Web Services REST|  |
-|----
-| 08/11/2018 |  Web Services SOAP|  |
-|----
-| 14/11/2018 |Atividade prática (REST e SOAP) | |
-|----
-| 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
-|----
-| 21/11/2018 | Segurança em Sistemas Distribuídos - Parte 1|  |
-|----
-| 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
-|----
-| 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
-|----
-| 29/11/2018 | Data de apresentação de trabalhos práticos| |
-|----
-| 05/12/2018 | Data de apresentação de trabalhos práticos|  |
-|----
-| 06/12/2018 | Data da 3ª prova avaliativa |  |
-|----
-| 12/12/2018 | Entrega, discussão e correção da atividade avaliativa | |
-|----
-| 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
-|----
+| 2 | 09/08/2018 | Caracterização de Sistemas Distribuídos | [Aula 2](https://drive.google.com/file/d/1EUfxbgbd36FkzuxK4Pf2T5frVr0D_Tpj/view?usp=sharing) |
+| 3 | 15/08/2018 | Conceitos relacionados e principais desafios | |
+| 4 | 16/08/2018 |  Modelos de Arquitetura de Sistemas Distribuídos - Parte 1|  |
+| 5 | 22/08/2018 |  Modelos de Arquitetura de Sistemas Distribuídos - Parte 2 |  |
+| 6 | 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 3|  |
+| 7 | 29/08/2018 | Comunicação entre processos (Sockets) | |
+| 8 | 30/08/2018 | Atividade Prática de Verificação de Aprendizagem (Sockets)  | |
+| 9 | 05/09/2018 | Invocação Remota (RPC)|  |
+| 10 | 06/09/2018 | Atividade Prática de Verificação de Aprendizagem (RPC) | |
+| 11 | 12/09/2018 | Invocação Remota (RMI) | |
+| 12 | 13/09/2018 | Atividade Prática de Verificação de Aprendizagem (Java RMI) |
+| 13 | 19/09/2018 | Diferença entre RPC e RMI | |
+| 14 | 20/09/2018 | Data da 1ª prova avaliativa |  |
+| 15 | 26/09/2018 | Discussão, correção e entrega da 1a prova avaliativa|  |
+| 16 | 27/09/2018 | Comunicação indireta - Parte 1| |
+| 17 | 03/10/2018 | Comunicação indireta - Parte 2| |
+| 18 | 04/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
+| 19 | 10/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
+| 20 | 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
+| 21 | 17/10/2018 | Atividade Prática (Corba)| |
+| 22 | 18/10/2018 | Data da 2ª prova avaliativa| |
+| 23 | 24/10/2018 | Em atividades da IX Secitec |  |
+| 24 | 25/10/2018 | Em atividades da IX Secitec |  |
+| 25 | 31/10/2018 | Entrega, discussão e correção da 2a prova avaliativa| |
+| 26 | 01/11/2018 | Web Services: Introdução a Arquitetura | |
+| 27 | 07/11/2018 | Web Services REST|  |
+| 28 | 08/11/2018 |  Web Services SOAP|  |
+| 29 | 14/11/2018 |Atividade prática (REST e SOAP) | |
+| 30 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
+| 31 | 21/11/2018 | Segurança em Sistemas Distribuídos - Parte 1|  |
+| 32 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
+| 33 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
+| 34 | 29/11/2018 | Data de apresentação de trabalhos práticos| |
+| 35 | 05/12/2018 | Data de apresentação de trabalhos práticos|  |
+| 36 | 06/12/2018 | Data da 3ª prova avaliativa |  |
+| 37 | 12/12/2018 | Entrega, discussão e correção da atividade avaliativa | |
+| 38 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
 __Material complementar__
