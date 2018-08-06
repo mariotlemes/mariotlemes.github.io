@@ -46,61 +46,57 @@ __Cronograma de aulas__
 |----
 | 13/09/2018 | Atividade Prática de Verificação de Aprendizagem (Java RMI) | |
 |----
-| 19/09/2018 | Data da 1a prova avaliativa de Sistemas Distribuídos | |
+| 19/09/2018 | Diferença entre RPC e RMI | |
 |----
-| 20/09/2018 | Discussão, correção e entrega da 1a prova avaliativa |  |
+| 20/09/2018 | Data da 1a prova avaliativa |  |
 |----
-| 26/09/2018 |  |  |
+| 26/09/2018 |  Discussão, correção e entrega da 1a prova avaliativa|  |
 |----
-| 27/09/2018 |  | |
+| 27/09/2018 | Comunicação indireta - Parte 1| |
 |----
-| 03/10/2018 | | |
+| 03/10/2018 | Comunicação indireta - Parte 2| |
 |----
-| 04/10/2018 |  | |
+| 04/10/2018 |  Atividade prática de comunicação indireta (JGroups Toolkit)| |
 |----
-| 10/10/2018 |  |  |
+| 10/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
 |----
-| 11/10/2018 | | |
+| 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
 |----
-| 17/10/2018 |  | |
+| 17/10/2018 | Atividade Prática (Corba)| |
 |----
-| 18/10/2018 | | |
+| 18/10/2018 | Data da 2a prova avaliativa| |
 |----
 | 24/10/2018 | Em atividades da IX Secitec |  |
 |----
 | 25/10/2018 | Em atividades da IX Secitec |  |
 |----
-| 31/10/2018 | | |
+| 31/10/2018 | Entrega, discussão e correção da 2a prova avaliativa| |
 |----
-| 01/11/2018 |  | |
+| 01/11/2018 | Web Services: Introdução a Arquitetura | |
 |----
-| 31/10/2018 | | |
+| 07/11/2018 | Web Services REST|  |
 |----
-| 01/11/2018 | | |
+| 08/11/2018 |  Web Services SOAP|  |
 |----
-| 07/11/2018 | |  |
-|----
-| 08/11/2018 |  |  |
-|----
-| 14/11/2018 | | |
+| 14/11/2018 |Atividade prática (REST e SOAP) | |
 |----
 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |----
-| 21/11/2018 |  |  |
+| 21/11/2018 |  Segurança em Sistemas Distribuídos - Parte 1|  |
 |----
-| 22/11/2018 |  |  |
+| 22/11/2018 |  Introdução a computação móvel e ubíqua - Parte 1 |  |
 |----
-| 28/11/2018 |  |  |
+| 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
 |----
-| 29/11/2018 | | |
+| 29/11/2018 | Data de apresentação de trabalhos práticos| |
 |----
-| 05/12/2018 | |  |
+| 05/12/2018 | Data de apresentação de trabalhos práticos|  |
 |----
-| 06/12/2018 | |  |
+| 06/12/2018 | Data da 3a prova avaliativa |  |
 |----
-| 12/12/2018 | | |
+| 12/12/2018 | Entrega, discussão e correção da atividade avaliativa | |
 |----
-| 13/12/2018 | | |
+| 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 |----
 {: rules="groups"}
 
