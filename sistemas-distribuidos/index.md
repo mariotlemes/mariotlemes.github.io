@@ -24,7 +24,7 @@ __Cronograma de aulas__
 
 | Data | Conteúdo | Materiais de aula |
 |:--------:|:-------:|:--------:|
-| 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1](https://drive.google.com/file/d/1sJlEcZhz3Rw1mUWU2RVldsfs_Mtt8aab/view?usp=sharing) |
+| 08/08/2018 | Apresentação do plano de ensino da disciplina, professor e alunos | [Aula 1]() |
 |----
 | 09/08/2018 | Caracterização de Sistemas Distribuídos - Parte 1 | [Aula 2]() |
 |----
