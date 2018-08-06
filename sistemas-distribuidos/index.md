@@ -97,7 +97,6 @@ __Cronograma de aulas__
 | 37 | 12/12/2018 | Entrega, discussão e correção da atividade avaliativa | |
 |---
 | 38 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
-|---
 {: rules="groups"}
 
 __Material complementar__
