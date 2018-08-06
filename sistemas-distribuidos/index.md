@@ -5,12 +5,10 @@ title: Sistemas Distribuídos (2018/2)
 date: 2018-07-23
 comments: false
 ---
-## Professor: M. Sc. Mario Teixeira Lemes
-
-
 __Dados da Disciplina__
 {: .notice}
 
+* __Professor__: Mario Teixeira Lemes
 * __Turma__: Tecnologia em Análise e Desenvolvimento de Sistemas (4º Período).
 * __Turno__: Matutino.
 * __Carga-horária__: 108h/a.
