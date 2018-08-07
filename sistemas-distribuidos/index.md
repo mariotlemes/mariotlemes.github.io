@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sistemas Distribuídos (2018/2)
+title: Sistemas Distribuídos
 #tags: [, Jekyll, theme, moon]
 date: 2018-07-23
 comments: false
@@ -11,6 +11,7 @@ __Dados da Disciplina__
 * __Professor__: Mario Teixeira Lemes
 * __Turma__: Tecnologia em Análise e Desenvolvimento de Sistemas (4º Período).
 * __Turno__: Matutino.
+* __Semestre__: 2018-2
 * __Carga-horária__: 108h/a.
 * __Aulas__:
   * Quarta-feira (08h45 - 10h15 e 10h30 - 12h00).
