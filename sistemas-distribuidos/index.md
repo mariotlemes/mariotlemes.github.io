@@ -8,7 +8,7 @@ comments: false
 __Dados da Disciplina__
 {: .notice}
 
-* __Curso__: Tecnologia em Análise e Desenvolvimento de Sistemas.
+* __Curso__: Tecnologia em Análise e Desenvolvimento de Sistemas
 * __Professor__: M. Sc. Mario Teixeira Lemes
 * __Turno__: Matutino.
 * __Período__: 4º
