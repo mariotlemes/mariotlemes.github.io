@@ -102,6 +102,7 @@ __Cronograma__
 {: rules="groups"}
 
 __Data das provas__
+{: .notice}
 * 1ª prova: 20/09/2018 (quinta-feira), 7h (pontualmente).
 * 2ª prova: 18/10/2018 (quinta-feira), 7h (pontualmente).
 * 3ª prova: 06/12/2018 (quinta-feira), 7h (pontualmente).
