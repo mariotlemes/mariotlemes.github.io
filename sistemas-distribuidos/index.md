@@ -101,6 +101,11 @@ __Cronograma__
 | 38 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
+__Data das provas__
+* 1ª prova: 20/09/2018 (quinta-feira), 7h (pontualmente).
+* 2ª prova: 18/10/2018 (quinta-feira), 7h (pontualmente).
+* 3ª prova: 06/12/2018 (quinta-feira), 7h (pontualmente).
+
 __Material complementar__
 {: .notice}
 * [Caracterização de Sistemas Distribuídos - Mapa Mental](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing)
