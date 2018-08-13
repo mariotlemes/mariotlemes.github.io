@@ -12,7 +12,7 @@ Para acessar o Currículo Lattes, <a href="http://lattes.cnpq.br/491812664125123
 clique aqui</a>.
 
 ## Áreas de Interesse:
-* Redes 5G.
+* Redes Definidas por Software.
 * Segurança da Informação
 * Sistemas Inteligentes.
 * Computação Paralela e Distribuída.
