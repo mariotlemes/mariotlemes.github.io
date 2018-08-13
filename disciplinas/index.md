@@ -24,7 +24,7 @@ comments: false
 * Informática Básica (Proeja - Edificações).
 
 ## 2016/2 - Instituto Federal de Goiás - Câmpus Formosa
-* Informática Básica(Proeja - Edificações).
+* Informática Básica (Proeja - Edificações).
 * Arquitetura de Computadores (Proeja - Informática).
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 
