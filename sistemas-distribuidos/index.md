@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sistemas Distribuídos
+title: Sistemas Distribuídos (SDs)
 #tags: [, Jekyll, theme, moon]
 date: 2018-07-23
 comments: false
@@ -13,7 +13,7 @@ __Dados da Disciplina__
 * __Turno__: Matutino.
 * __Período__: 4º
 * __Semestre__: 2018-2
-* __Carga-horária__: 108 h/a.
+* __Carga-horária__: 81h (108h/a).
 * __Horário das aulas__:
   * Quarta-feira (08h45 - 10h15 e 10h30 - 12h00).
   * Quinta-feira (07h00 - 08h30).
