@@ -108,8 +108,13 @@ __Data das provas__
 
 __Material complementar__
 {: .notice}
-* [Conceitos Relacionados a Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=1NdZdpxLTopeXUysGoKyGS_WUC2TTkToz)
+
 * [Caracterização de Sistemas Distribuídos - Mapa Mental](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing)
+* [Conceitos Relacionados a Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=1NdZdpxLTopeXUysGoKyGS_WUC2TTkToz)
+* [Modelos de Sistema e Paradigmas de Comunicação em Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=14svXM9L6XMgqHiSPCSDzAdGyhrDQZd09)
+
+__Links Interessantes__
+{: .notice}
 * [Como funciona o Youtube](http://www.tecmundo.com.br/youtube/48298-como-funciona-o-youtube-ilustracao-.htm)
 * [O que é um Sistema Distribuído?](https://pt.coursera.org/lecture/cloud-computing/2-2-what-is-a-distributed-system-nvMXE)
 
