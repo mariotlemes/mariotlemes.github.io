@@ -121,7 +121,7 @@ __Links Interessantes__
 __Bibliografia__
 {: .notice}
 
-* Básica:
+* __Básica__:
   * COULOURIS, G; DOLLIMORE, J.; KINDBERG, T.; BLAIR, G. __Sistemas
 Distribuídos – Conceitos e Projeto–  5ª Ed.__ Editora Pearson, 2013.
   * TANENBAUM A. S.; STEEN M. V. __Sistemas distribuídos: princípios e
@@ -129,7 +129,7 @@ paradigmas 2ª ed.__ São Paulo: Pearson, 2007.
   * TANENBAUM A. S.; WETHERALL D. J. __Redes de Computadores 5ª ed.__ São
 Paulo: Pearson, 2011.
 
-* Complementar:
+* __Complementar__:
   * MORIMOTO, C. E. __Redes: guia prático 2ª ed.__ Porto Alegre: GdHPress, 2011.
   * TORRES, G. __Redes de Computadores 2ª ed.__ Porto Alegre: Rio de Janeiro,
 2009.
