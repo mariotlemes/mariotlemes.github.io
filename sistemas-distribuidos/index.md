@@ -31,7 +31,7 @@ __Cronograma__
 |---
 | 4 | 16/08/2018 | Caracterização de SDs: características, conceitos relacionados e *middleware*| [Aula 3](https://drive.google.com/open?id=1LI9MBerI0bur6jcL1Csu8oeXenYsrBHA) |
 |---
-| 5 | 22/08/2018 |  Modelos de Sistema | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |
+| 5 | 22/08/2018 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |
 |---
 | 6 | 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 3|  |
 |---
