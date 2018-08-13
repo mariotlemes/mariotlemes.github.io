@@ -24,14 +24,14 @@ __Cronograma__
 
 | Aula | Data | Conteúdo | Material |
 |:--------:|:--------:|:-------:|:--------:|
-| 1 | 08/08/2018 | Apresentação do [plano de ensino](https://drive.google.com/file/d/1HO1TWd_j6KpQICgDlSmfj_je9xSX_EO5/view?usp=sharing) da disciplina, professor e alunos | [Aula 1](https://drive.google.com/file/d/15FEIqBbN29padU3ccjpYh-sG7oyKX6uO/view?usp=sharing) |
+| 1 | 08/08/2018 | Apresentação do [plano de ensino](https://drive.google.com/file/d/1HO1TWd_j6KpQICgDlSmfj_je9xSX_EO5/view?usp=sharing) da disciplina, professor e alunos | [Aula 1](https://drive.google.com/open?id=1y_pWgVAWACYm7bArwR8rLyEPC1-gAh5K) |
 |---
-| 2 | 09/08/2018 | Caracterização de SDs: definição de diferentes autores, conceitos-chave e consequências diretas da distribuição | [Aula 2](https://drive.google.com/file/d/1EUfxbgbd36FkzuxK4Pf2T5frVr0D_Tpj/view?usp=sharing) |
+| 2 | 09/08/2018 | Caracterização de SDs: definição de diferentes autores, conceitos-chave e consequências diretas da distribuição | [Aula 2](https://drive.google.com/open?id=1x1ymVZP1kYtY4eRDPyr2N9AYeVMzt_Y1) |
 | 3 | 15/08/2018 | Caracterização de SDs: motivação, exemplos e tendências modernas |  |
 |---
-| 4 | 16/08/2018 | Caracterização de SDs: características, conceitos relacionados e *middleware*| [Aula 3](https://drive.google.com/open?id=1KEUex1GvufGqUxKfUEobrNHn4LsleIZj) |
+| 4 | 16/08/2018 | Caracterização de SDs: características, conceitos relacionados e *middleware*| [Aula 3](https://drive.google.com/open?id=1LI9MBerI0bur6jcL1Csu8oeXenYsrBHA) |
 |---
-| 5 | 22/08/2018 |  Modelos de Arquitetura de Sistemas Distribuídos: |  |
+| 5 | 22/08/2018 |  Modelos de Sistema | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |
 |---
 | 6 | 23/08/2018 | Modelos de Arquitetura de Sistemas Distribuídos - Parte 3|  |
 |---
