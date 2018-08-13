@@ -23,7 +23,7 @@ __Cronograma__
 {: .notice}
 
 | Aula | Data | Conteúdo | Material |
-|:--------:|:--------:|:-------:|:--------:|
+|:----:|:----:|:--------:|:--------:|
 | 1 | 08/08/2018 | Apresentação do [plano de ensino](https://drive.google.com/file/d/1HO1TWd_j6KpQICgDlSmfj_je9xSX_EO5/view?usp=sharing) da disciplina, professor e alunos | [Aula 1](https://drive.google.com/open?id=1y_pWgVAWACYm7bArwR8rLyEPC1-gAh5K) |
 |---
 | 2 | 09/08/2018 | Caracterização de SDs: definição de diferentes autores, conceitos-chave e consequências diretas da distribuição | [Aula 2](https://drive.google.com/open?id=1x1ymVZP1kYtY4eRDPyr2N9AYeVMzt_Y1) |
