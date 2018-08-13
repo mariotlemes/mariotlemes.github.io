@@ -49,7 +49,7 @@ __Cronograma__
 |---
 | 13 | 19/09/2018 | Diferença entre RPC e RMI | |
 |---
-| 14 | 20/09/2018 | Data da 1ª prova avaliativa |  |
+| 14 | 20/09/2018 | {c:red}Data da 1ª prova avaliativa{/c}  |  |
 |---
 | 15 | 26/09/2018 | Discussão, correção e entrega da 1ª prova avaliativa|  |
 |---
@@ -65,7 +65,7 @@ __Cronograma__
 |---
 | 21 | 17/10/2018 | Atividade Prática (Corba)| |
 |---
-| 22 | 18/10/2018 | Data da 2ª prova avaliativa| |
+| 22 | 18/10/2018 | {c:red}Data da 2ª prova avaliativa{/c}| |
 |---
 | 23 | 24/10/2018 | Em atividades da IX Secitec |  |
 |---
@@ -93,7 +93,7 @@ __Cronograma__
 |---
 | 35 | 05/12/2018 | Data de apresentação de trabalhos práticos|  |
 |---
-| 36 | 06/12/2018 | Data da 3ª prova avaliativa |  |
+| 36 | 06/12/2018 | {c:red}Data da 3ª prova avaliativa{/c} |  |
 |---
 | 37 | 12/12/2018 | Entrega, discussão e correção da 3ª avaliativa | |
 |---
