@@ -32,7 +32,7 @@ __Cronograma__
 | 4 | 16/08/2018 | Computação distribuída como serviço público: exemplos. A questão da heterogeneidade. Mapa mental sobre caracterização de SDs.| [Aula 3](https://drive.google.com/open?id=1LI9MBerI0bur6jcL1Csu8oeXenYsrBHA)
 | 5 | 22/08/2018 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware* |  |
 |---
-| 6 | 22/08/2018 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |  |
+| 6 | 23/08/2018 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |  |
 |---
 | 7 | 29/08/2018 | Comunicação entre processos (Sockets) | |
 |---
