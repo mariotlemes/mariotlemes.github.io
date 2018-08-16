@@ -11,7 +11,7 @@ __Dados da Disciplina__
 * __Curso__: Tecnologia em Análise e Desenvolvimento de Sistemas.
 * __Professor__: M. Sc. Mario Teixeira Lemes.
 * __Turno__: Matutino.
-* __Período__: 4º
+* __Período__: 4º.
 * __Semestre__: 2018/2
 * __Carga-horária__: 81h (108h/a).
 * __Horário das aulas__:
