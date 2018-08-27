@@ -33,8 +33,9 @@ __Cronograma__
 | 5 | 22/08/2018 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. |  |
 |---
 | 6 | 23/08/2018 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |  |
+| 7 | 29/08/2018 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5](https://drive.google.com/open?id=14KTCzSiTcTaJWKnUqfv18wVJBxDqr_d7)|
 |---
-| 7 | 29/08/2018 | Comunicação entre processos (Sockets) | |
+| 8 | 30/08/2018 | Comunicação entre processos (Soquetes) | |
 |---
 | 8 | 30/08/2018 | Atividade Prática de Verificação de Aprendizagem (Sockets)  | |
 |---
