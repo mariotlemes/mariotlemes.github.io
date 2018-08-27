@@ -35,7 +35,7 @@ __Cronograma__
 | 6 | 23/08/2018 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |  |
 | 7 | 29/08/2018 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5](https://drive.google.com/open?id=14KTCzSiTcTaJWKnUqfv18wVJBxDqr_d7)|
 |---
-| 8 | 30/08/2018 | Comunicação entre processos. Atividade prática de Sockets com Datagrama UDP | [Aula 6](https://drive.google.com/open?id=1iPzlXFUbaXh_XsUPJymLlD6Xc7VX7cms) |
+| 8 | 30/08/2018 | Comunicação entre processos. Atividade prática de Sockets com Datagrama UDP | [Aula 6](https://drive.google.com/open?id=1Aa5eUZ7UueC5CU61J2F4WP1MfLK7DTxV) |
 |---
 | 9 | 05/09/2018 | Comunicação entre processos. Atividade prática de Sockets com fluxo TCP e Multicast IP | [Aula 7]() |
 |---
