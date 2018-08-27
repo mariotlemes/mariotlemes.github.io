@@ -37,7 +37,7 @@ __Cronograma__
 |---
 | 8 | 30/08/2018 | Comunicação entre processos (Soquetes) | [Aula 6]() |
 |---
-| 9 | 05/09/2018 | [Trabalho prático de Soquetes]()  | [Upload]()|
+| 9 | 05/09/2018 | [Trabalho de programação com Soquetes]()  | [Upload]()|
 |---
 | 9 | 05/09/2018 | Invocação Remota (RPC)|  |
 |---
