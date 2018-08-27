@@ -39,17 +39,15 @@ __Cronograma__
 |---
 | 9 | 05/09/2018 | [Comunicação entre processos. Atividade prática de Sockets com fluxo TCP e Multicast IP | [Aula 7]() |
 |---
-| 10 | 06/09/2018 | Aula destinada a realização do [Trabalho de programação com Sockets]()  | [Envio (upload)]()|
+| 10 | 06/09/2018 | Aula destinada a realização do [Trabalho de programação com Sockets]()  |  (Upload)]()|
 |---
-| 11 | 12/09/2018 | [Trabalho de programação com Sockets]()  | [Upload]()|
+| 11 | 12/09/2018 |  Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| | |
 |---
-| 12 | 13/09/2018 | Invocação Remota (RPC)|  |
-|---
-| 13 | | Atividade Prática de Verificação de Aprendizagem (RPC) | |
+| 12 | 13/09/2018 |  Introdução a invocação remota de métodos | |
 |---
 | 14 |  | Invocação Remota (RMI) | |
 |---
-| 15 |  | Atividade Prática de Verificação de Aprendizagem (Java RMI) |
+| 15 |  | Atividade Prática de Verificação de Aprendizagem (Java RMI) | |
 |---
 | 16 | | Diferença entre RPC e RMI | |
 |---
