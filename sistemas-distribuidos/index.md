@@ -39,7 +39,7 @@ __Cronograma__
 |---
 | 9 | 05/09/2018 | [Comunicação entre processos. Atividade prática de Sockets com fluxo TCP e Multicast IP | [Aula 7]() |
 |---
-| 10 | 06/09/2018 | [Aula destinada a realização do [Trabalho de programação com Sockets]()  | [Upload]()|
+| 10 | 06/09/2018 | Aula destinada a realização do [Trabalho de programação com Sockets]()  | [Envio (upload)]()|
 |---
 | 11 | 12/09/2018 | [Trabalho de programação com Sockets]()  | [Upload]()|
 |---
