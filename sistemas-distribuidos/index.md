@@ -35,69 +35,73 @@ __Cronograma__
 | 6 | 23/08/2018 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |  |
 | 7 | 29/08/2018 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5](https://drive.google.com/open?id=14KTCzSiTcTaJWKnUqfv18wVJBxDqr_d7)|
 |---
-| 8 | 30/08/2018 | Comunicação entre processos (Sockets) | [Aula 6](https://drive.google.com/open?id=1iPzlXFUbaXh_XsUPJymLlD6Xc7VX7cms) |
+| 8 | 30/08/2018 | Comunicação entre processos. Atividade prática de Sockets com Datagrama UDP | [Aula 6](https://drive.google.com/open?id=1iPzlXFUbaXh_XsUPJymLlD6Xc7VX7cms) |
 |---
-| 9 | 05/09/2018 | [Trabalho de programação com Sockets]()  | [Upload]()|
+| 9 | 05/09/2018 | [Comunicação entre processos. Atividade prática de Sockets com fluxo TCP e Multicast IP | [Aula 7]() |
 |---
-| 9 | 05/09/2018 | Invocação Remota (RPC)|  |
+| 10 | 06/09/2018 | [Aula destinada a realização do [Trabalho de programação com Sockets]()  | [Upload]()|
 |---
-| 10 | 06/09/2018 | Atividade Prática de Verificação de Aprendizagem (RPC) | |
+| 11 | 12/09/2018 | [Trabalho de programação com Sockets]()  | [Upload]()|
 |---
-| 11 | 12/09/2018 | Invocação Remota (RMI) | |
+| 12 | 13/09/2018 | Invocação Remota (RPC)|  |
 |---
-| 12 | 13/09/2018 | Atividade Prática de Verificação de Aprendizagem (Java RMI) |
+| 13 | | Atividade Prática de Verificação de Aprendizagem (RPC) | |
 |---
-| 13 | 19/09/2018 | Diferença entre RPC e RMI | |
+| 14 |  | Invocação Remota (RMI) | |
 |---
-| 14 | 20/09/2018 | __Data da 1ª prova avaliativa__  |  |
+| 15 |  | Atividade Prática de Verificação de Aprendizagem (Java RMI) |
 |---
-| 15 | 26/09/2018 | Discussão, correção e entrega da 1ª prova avaliativa|  |
+| 16 | | Diferença entre RPC e RMI | |
 |---
-| 16 | 27/09/2018 | Comunicação indireta - Parte 1| |
+| 17 | 20/09/2018 | __Data da 1ª prova avaliativa__  |  |
 |---
-| 17 | 03/10/2018 | Comunicação indireta - Parte 2| |
+| 18 | 26/09/2018 | Discussão, correção e entrega da 1ª prova avaliativa|  |
 |---
-| 18 | 04/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
+| 19 | 27/09/2018 | Comunicação indireta - Parte 1| |
 |---
-| 19 | 10/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
+| 20 | 03/10/2018 | Comunicação indireta - Parte 2| |
 |---
-| 20 | 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
+| 21 | 04/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
 |---
-| 21 | 17/10/2018 | Atividade Prática (Corba)| |
+| 22 | 10/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
 |---
-| 22 | 18/10/2018 | __Data da 2ª prova avaliativa__| |
+| 23 | 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
 |---
-| 23 | 24/10/2018 | Em atividades da IX Secitec |  |
+| 24 | 17/10/2018 | Atividade Prática (Corba)| |
 |---
-| 24 | 25/10/2018 | Em atividades da IX Secitec |  |
+| 25 | 18/10/2018 | __Data da 2ª prova avaliativa__| |
 |---
-| 25 | 31/10/2018 | Entrega, discussão e correção da 2ª prova avaliativa| |
+| 26 | 24/10/2018 | Em atividades da IX Secitec |  |
 |---
-| 26 | 01/11/2018 | Web Services: Introdução a Arquitetura | |
+| 27 | 25/10/2018 | Em atividades da IX Secitec |  |
 |---
-| 27 | 07/11/2018 | Web Services REST|  |
+| 28 | 31/10/2018 | Entrega, discussão e correção da 2ª prova avaliativa| |
 |---
-| 28 | 08/11/2018 |  Web Services SOAP|  |
+| 29 | 01/11/2018 | Web Services: Introdução a Arquitetura | |
 |---
-| 29 | 14/11/2018 |Atividade prática (REST e SOAP) | |
+| 30 | 07/11/2018 | Web Services REST|  |
 |---
-| 30 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
+| 31 | 08/11/2018 |  Web Services SOAP|  |
 |---
-| 31 | 21/11/2018 | Segurança em Sistemas Distribuídos|  |
+| 32 | 14/11/2018 |Atividade prática (REST e SOAP) | |
 |---
-| 32 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
+| 32 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |---
-| 33 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
+| 34 | 21/11/2018 | Segurança em Sistemas Distribuídos|  |
 |---
-| 34 | 29/11/2018 | Data de apresentação de trabalhos práticos| |
+| 35 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
 |---
-| 35 | 05/12/2018 | Data de apresentação de trabalhos práticos|  |
+| 36 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
 |---
-| 36 | 06/12/2018 | __Data da 3ª prova avaliativa__ |  |
+| 37 | 29/11/2018 | Data de apresentação de trabalhos práticos| |
 |---
-| 37 | 12/12/2018 | Entrega, discussão e correção da 3ª avaliativa | |
+| 38 | 05/12/2018 | Data de apresentação de trabalhos práticos|  |
 |---
-| 38 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 39 | 06/12/2018 | __Data da 3ª prova avaliativa__ |  |
+|---
+| 40 | 12/12/2018 | Entrega, discussão e correção da 3ª avaliativa | |
+|---
+| 41 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
 __Data das provas__
