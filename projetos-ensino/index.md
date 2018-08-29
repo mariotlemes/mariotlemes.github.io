@@ -5,8 +5,8 @@ title: Atividades de Ensino
 date: 2018-05-18
 comments: false
 ---
-### 2018/2 - Química para o vestibular
-* Descrição: Oferecer aulas sobre os assuntos abordados no ENEM aos alunos dos Cursos de Ensino Médio do Câmpus Formosa.
+### 2018/2 - Tópicos em química para o vestibular
+* Descrição: Oferecer aulas sobre os assuntos abordados nos vestibulares que não são tratados em sala de aula das disciplinas regulares
 
 * Integrantes: Vinicius Sousa Ferreira (coordenador) e Mario Teixeira Lemes.
 
