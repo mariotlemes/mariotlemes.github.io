@@ -111,11 +111,11 @@ __Data das provas__
 __Material complementar__
 {: .notice}
 
-
+* [JSockets - Exemplos do livro texto](http://www.cdk5.net/wp/extra-material/supplementary-material-for-chapter-4)
 * [Exemplo 1: Programação com Sockets (UDP) - Servidor Eco - Tiro único](https://drive.google.com/open?id=1rK_qPqs3jO6NN8hvnmtSHYsOYhr77g7b)
 * [Exemplo 1: Programação com Sockets (UDP) - Cliente Eco - Tiro único](https://drive.google.com/open?id=1YqE7CpOt2_fThaQyBdBq6-4xgAk-_ESw)
-* [Exemplo 2: Programação com Sockets (UDP) - Envio e recebimento de dados do teclado - Servidor](https://drive.google.com/open?id=15BJnSM4VHzYPdPckf4an764srdTLqyh7)
-* [Exemplo 2: Programação com Sockets (UDP) - Envio e recebimento de dados do teclado - Cliente](https://drive.google.com/open?id=17Kd6WXhLcwM30YVYyo5TYsQtdJ_JLo6k)
+* [Exemplo 2: Programação com Sockets (TCP) - Envio e recebimento de dados do teclado - Servidor](https://drive.google.com/open?id=15BJnSM4VHzYPdPckf4an764srdTLqyh7)
+* [Exemplo 2: Programação com Sockets (TCP) - Envio e recebimento de dados do teclado - Cliente](https://drive.google.com/open?id=17Kd6WXhLcwM30YVYyo5TYsQtdJ_JLo6k)
 * [Caracterização de Sistemas Distribuídos - Mapa Mental](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing)
 * [Conceitos Relacionados a Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=1NdZdpxLTopeXUysGoKyGS_WUC2TTkToz)
 * [Modelos de Sistema e Paradigmas de Comunicação em Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=14svXM9L6XMgqHiSPCSDzAdGyhrDQZd09)
