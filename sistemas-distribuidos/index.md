@@ -34,7 +34,7 @@ __Cronograma__
 |---
 | 6 | 23/08/2018 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4](https://drive.google.com/open?id=1dSM6CvtCq8n6OC0s6IviyxUWplUz4SkB) |  |
 | 7 | 29/08/2018 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5](https://drive.google.com/open?id=14KTCzSiTcTaJWKnUqfv18wVJBxDqr_d7)|
-| 8 | 29/08/2018 | Comunicação entre processos. Programando de Sockets com Datagrama UDP | [Aula 6](https://drive.google.com/open?id=1Aa5eUZ7UueC5CU61J2F4WP1MfLK7DTxV) |
+| 8 | 29/08/2018 | Comunicação entre processos. Sockets com JSockets (UDP) | [Aula 6](https://drive.google.com/open?id=1Aa5eUZ7UueC5CU61J2F4WP1MfLK7DTxV) |
 |---
 | 9 | 30/08/2018 | Aula destinada à realizada da [AVA 2 - Programando com JSockets](https://www.edmodo.com/home#/group?id=27416307) |  |
 | 10 | 05/09/2018 | Aula destinada à realizada da [AVA 2 - Programando com JSockets](https://www.edmodo.com/home#/group?id=27416307) | [Upload](https://www.edmodo.com/home#/assignment?mid=674094340) |
