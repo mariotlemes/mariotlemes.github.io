@@ -39,6 +39,7 @@ __Cronograma__
 | 9 | 30/08/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets ](https://www.edmodo.com/home#/group?id=27416307) |  |
 | 10 | 05/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) | [Upload](https://www.edmodo.com/home#/assignment?mid=674094340) |
 | 11 | 06/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) |  |
+|---
 | 11 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7]()|
 |---
 | 11 | 12/09/2018 |  Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| | |
