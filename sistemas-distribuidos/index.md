@@ -38,7 +38,7 @@ __Cronograma__
 |---
 | 9 | 30/08/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets ](https://www.edmodo.com/home#/group?id=27416307) |  |
 | 10 | 05/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) | [Upload](https://www.edmodo.com/home#/assignment?mid=674094340) |
-| 11 | 06/09/2018 | Aula destinada à realização do [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=1gAAw_klfKvkX_6EOtzFT0jd7hFm3uL2L). |  |
+| 11 | 06/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) |  |
 |---
 | 11 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7]()|
 |---
