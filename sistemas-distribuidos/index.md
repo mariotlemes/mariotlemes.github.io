@@ -105,7 +105,7 @@ __Cronograma__
 
 __Data dos trabalhos__
 {: .notice}
-* __1ª trabalho de programação (Entrega até 25/09/2018):__ [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=1gAAw_klfKvkX_6EOtzFT0jd7hFm3uL2L).
+* __1º Trabalho de Programação (Entrega até 25/09/2018):__ [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=1gAAw_klfKvkX_6EOtzFT0jd7hFm3uL2L).
 
 __Data das provas__
 {: .notice}
