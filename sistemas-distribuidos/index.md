@@ -103,9 +103,9 @@ __Cronograma__
 | 41 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
-__Data dos trabalhos__
+__Data de entrega dos trabalhos de implementação__
 {: .notice}
-* __1º Trabalho de Programação (Entrega até 25/09/2018):__ [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=1gAAw_klfKvkX_6EOtzFT0jd7hFm3uL2L).
+* __1º Trabalho de Programação:__ (Entrega até 25/09/2018) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=1gAAw_klfKvkX_6EOtzFT0jd7hFm3uL2L).
 
 __Data das provas__
 {: .notice}
