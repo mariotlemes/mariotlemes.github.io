@@ -37,7 +37,7 @@ __Cronograma__
 | 8 | 29/08/2018 | Comunicação entre processos (*sockets*). Programação com JSockets | [Aula 6](https://drive.google.com/open?id=1Aa5eUZ7UueC5CU61J2F4WP1MfLK7DTxV) |
 |---
 | 9 | 30/08/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets ](https://www.edmodo.com/home#/group?id=27416307) |  |
-| 10 | 05/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) | [Upload](https://www.edmodo.com/post/674094340) |
+| 10 | 05/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) | [Upload](https://www.edmodo.com/home#/assignment?mid=674094340) |
 | 11 | 06/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) |  |
 |---
 | 11 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7]()|
@@ -102,6 +102,9 @@ __Cronograma__
 |---
 | 41 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
+
+__Data dos trabalhos__
+* __1ª trabalho de programação (Entrega até 25/09/2018):__ [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=1gAAw_klfKvkX_6EOtzFT0jd7hFm3uL2L).
 
 __Data das provas__
 {: .notice}
