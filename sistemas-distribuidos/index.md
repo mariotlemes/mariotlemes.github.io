@@ -121,6 +121,8 @@ __Material complementar__
 * [Exemplo 1: Programação com Sockets (UDP) - Cliente Eco - Tiro único](https://drive.google.com/open?id=1YqE7CpOt2_fThaQyBdBq6-4xgAk-_ESw)
 * [Exemplo 2: Programação com Sockets (TCP) - Envio e recebimento de dados do teclado - Servidor](https://drive.google.com/open?id=15BJnSM4VHzYPdPckf4an764srdTLqyh7)
 * [Exemplo 2: Programação com Sockets (TCP) - Envio e recebimento de dados do teclado - Cliente](https://drive.google.com/open?id=17Kd6WXhLcwM30YVYyo5TYsQtdJ_JLo6k)
+* [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Servidor](https://drive.google.com/open?id=1ZS_lduXGYup09JvlPJN6hm9w-LgEgURL)
+* [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Cliente](https://drive.google.com/open?id=1WvAtGO4ovOjs4No1Nf_Igii5aJhl2OG_ ) 
 * [Caracterização de Sistemas Distribuídos - Mapa Mental](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing)
 * [Conceitos Relacionados a Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=1NdZdpxLTopeXUysGoKyGS_WUC2TTkToz)
 * [Modelos de Sistema e Paradigmas de Comunicação em Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=14svXM9L6XMgqHiSPCSDzAdGyhrDQZd09)
