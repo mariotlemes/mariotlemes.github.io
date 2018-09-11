@@ -41,8 +41,8 @@ __Cronograma__
 | 11 | 06/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) |  |
 |---
 | 12 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7](https://drive.google.com/open?id=1_eiNqWyAJdTQhAGz0ZsctBW-enbUTxkN)|
-| 13 | 12/09/2018 |  Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| [Aula 8]() |
-| 14 | 13/09/2018 |  Aula destinada à realização do [Trabalho de Sistema Distribuído de Correção de Provas](https://drive.google.com/open?id=1gAAw_klfKvkX_6EOtzFT0jd7hFm3uL2L)) | |
+| 13 | 12/09/2018 | Aula destinada à realização do [Trabalho de Sistema Distribuído de Correção de Provas](https://drive.google.com/open?id=1gAAw_klfKvkX_6EOtzFT0jd7hFm3uL2L)) | [Upload](https://www.edmodo.com/home#/group?id=27416307) |
+| 14 | 13/09/2018 | Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| [Aula 8]()|
 |---
 | 15 | 19/09/2019 |  __Data da 1ª prova avaliativa__  | |
 |---
