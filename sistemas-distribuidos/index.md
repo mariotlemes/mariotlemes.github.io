@@ -36,9 +36,9 @@ __Cronograma__
 | 7 | 29/08/2018 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5](https://drive.google.com/open?id=14KTCzSiTcTaJWKnUqfv18wVJBxDqr_d7)|
 | 8 | 29/08/2018 | Comunicação entre processos (*sockets*). Programação com JSockets | [Aula 6](https://drive.google.com/open?id=1Aa5eUZ7UueC5CU61J2F4WP1MfLK7DTxV) |
 |---
-| 9 | 30/08/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets ](https://www.edmodo.com/home#/group?id=27416307) |  |
-| 10 | 05/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) | [Upload](https://www.edmodo.com/home#/assignment?mid=674094340) |
-| 11 | 06/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) |  |
+| 9 | 30/08/2018 |  |  |
+| 10 | 05/09/2018 | Aulas destinadas à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) | [Upload](https://www.edmodo.com/home#/assignment?mid=674094340) |
+| 11 | 06/09/2018 |  |  |
 |---
 | 12 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7](https://drive.google.com/open?id=1_eiNqWyAJdTQhAGz0ZsctBW-enbUTxkN)|
 | 13 | 12/09/2018 | Aula destinada à realização do [1º Trabalho de Programação](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ) | [Upload](https://www.edmodo.com/home#/group?id=27416307) |
