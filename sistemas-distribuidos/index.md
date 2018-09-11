@@ -42,19 +42,19 @@ __Cronograma__
 |---
 | 12 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7](https://drive.google.com/open?id=1_eiNqWyAJdTQhAGz0ZsctBW-enbUTxkN)|
 |---
-| 11 | 12/09/2018 |  Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| | |
+| 13 | 12/09/2018 |  Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| |[Aula 8]() |
 |---
-| 12 | 13/09/2018 |  Introdução a invocação remota de métodos | |
+| 14 | 13/09/2018 |  Aula destinada à realização do Trabalho de Sistema Distribuído de Correção de Provas | |
 |---
-| 13 |  | Invocação Remota (RMI) | |
+| 15 | 19/09/2019 |  __Data da 1ª prova avaliativa__  | |
 |---
-| 14 |  | Atividade Prática de Verificação de Aprendizagem (Java RMI) | |
+| 16 | 20/09/2018 | Discussão, correção e entrega da 1ª prova avaliativa  | |
 |---
 | 16 | | Diferença entre RPC e RMI | |
 |---
-| 17 | 20/09/2018 | __Data da 1ª prova avaliativa__  |  |
+| 17 | 20/09/2018 |  |  |
 |---
-| 18 | 26/09/2018 | Discussão, correção e entrega da 1ª prova avaliativa|  |
+| 18 | 26/09/2018 | |  |
 |---
 | 19 | 27/09/2018 | Comunicação indireta - Parte 1| |
 |---
