@@ -41,9 +41,7 @@ __Cronograma__
 | 11 | 06/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) |  |
 |---
 | 12 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7](https://drive.google.com/open?id=1_eiNqWyAJdTQhAGz0ZsctBW-enbUTxkN)|
-|---
-| 13 | 12/09/2018 |  Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| |[Aula 8]() |
-|---
+| 13 | 12/09/2018 |  Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| [Aula 8]() |
 | 14 | 13/09/2018 |  Aula destinada à realização do Trabalho de Sistema Distribuído de Correção de Provas | |
 |---
 | 15 | 19/09/2019 |  __Data da 1ª prova avaliativa__  | |
@@ -124,7 +122,7 @@ __Material complementar__
 * [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Servidor](https://drive.google.com/open?id=1ZS_lduXGYup09JvlPJN6hm9w-LgEgURL)
 * [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Cliente](https://drive.google.com/open?id=1WvAtGO4ovOjs4No1Nf_Igii5aJhl2OG_ )
 * [Caracterização de Sistemas Distribuídos - Mapa Mental](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing)
-* [Comunicação entre Processo usando Sockets - Mapa Mental](https://drive.google.com/open?id=19wCk_ycSxvcZ0o5oVrNC-Anfie9H8okf)
+* [Comunicação entre Processos usando Sockets - Mapa Mental](https://drive.google.com/open?id=19wCk_ycSxvcZ0o5oVrNC-Anfie9H8okf)
 * [Conceitos Relacionados a Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=1NdZdpxLTopeXUysGoKyGS_WUC2TTkToz)
 * [Modelos de Sistema e Paradigmas de Comunicação em Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=14svXM9L6XMgqHiSPCSDzAdGyhrDQZd09)
 
