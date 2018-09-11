@@ -42,7 +42,7 @@ __Cronograma__
 |---
 | 12 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7](https://drive.google.com/open?id=1_eiNqWyAJdTQhAGz0ZsctBW-enbUTxkN)|
 | 13 | 12/09/2018 | Aula destinada à realização do [1º Trabalho de Programação](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ) | [Upload](https://www.edmodo.com/home#/group?id=27416307) |
-| 14 | 13/09/2018 | Invocação Remota (RPC)| [Aula 8](https://drive.google.com/open?id=15Kgpjvhy8r51X0Y0p1z2xsbygcp0vgDG)|
+| 14 | 13/09/2018 | Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=15Kgpjvhy8r51X0Y0p1z2xsbygcp0vgDG)|
 |---
 | 15 | 19/09/2019 |  __Data da 1ª prova avaliativa__  | |
 | 16 | 20/09/2018 | Discussão, correção e entrega da 1ª prova avaliativa  | |
