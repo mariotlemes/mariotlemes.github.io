@@ -45,12 +45,10 @@ __Cronograma__
 | 14 | 13/09/2018 | Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| [Aula 8](https://drive.google.com/open?id=15Kgpjvhy8r51X0Y0p1z2xsbygcp0vgDG)|
 |---
 | 15 | 19/09/2019 |  __Data da 1ª prova avaliativa__  | |
-|---
 | 16 | 20/09/2018 | Discussão, correção e entrega da 1ª prova avaliativa  | |
 |---
-| 16 | | Diferença entre RPC e RMI | |
-|---
-| 17 | 20/09/2018 |  |  |
+| 17 |26/09/2018 | Invocação Remota (RMI)| |
+| 18 |27/09/2018 |  Atividade prática de RMI (Java RMI)|  |
 |---
 | 18 | 26/09/2018 | |  |
 |---
