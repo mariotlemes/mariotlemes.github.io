@@ -40,7 +40,7 @@ __Cronograma__
 | 10 | 05/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) | [Upload](https://www.edmodo.com/home#/assignment?mid=674094340) |
 | 11 | 06/09/2018 | Aula destinada à realização da [AVA 2 - Programação com JSockets](https://www.edmodo.com/home#/group?id=27416307) |  |
 |---
-| 11 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7]()|
+| 12 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7](https://drive.google.com/open?id=1_eiNqWyAJdTQhAGz0ZsctBW-enbUTxkN)|
 |---
 | 11 | 12/09/2018 |  Invocação Remota (RPC). Atividade de Verificação de Aprendizagem (RPC)| | |
 |---
@@ -109,7 +109,7 @@ __Data de entrega dos trabalhos de implementação__
 
 __Data das provas__
 {: .notice}
-* __1ª prova:__ 20/09/2018 (quinta-feira), 7h (pontualmente).
+* __1ª prova:__ 19/09/2018 (quarta-feira), 8h45 (pontualmente).
 * __2ª prova:__ 18/10/2018 (quinta-feira), 7h (pontualmente).
 * __3ª prova:__ 06/12/2018 (quinta-feira), 7h (pontualmente).
 
@@ -122,8 +122,9 @@ __Material complementar__
 * [Exemplo 2: Programação com Sockets (TCP) - Envio e recebimento de dados do teclado - Servidor](https://drive.google.com/open?id=15BJnSM4VHzYPdPckf4an764srdTLqyh7)
 * [Exemplo 2: Programação com Sockets (TCP) - Envio e recebimento de dados do teclado - Cliente](https://drive.google.com/open?id=17Kd6WXhLcwM30YVYyo5TYsQtdJ_JLo6k)
 * [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Servidor](https://drive.google.com/open?id=1ZS_lduXGYup09JvlPJN6hm9w-LgEgURL)
-* [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Cliente](https://drive.google.com/open?id=1WvAtGO4ovOjs4No1Nf_Igii5aJhl2OG_ ) 
+* [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Cliente](https://drive.google.com/open?id=1WvAtGO4ovOjs4No1Nf_Igii5aJhl2OG_ )
 * [Caracterização de Sistemas Distribuídos - Mapa Mental](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing)
+* [Comunicação entre Processo usando Sockets - Mapa Mental](https://drive.google.com/open?id=19wCk_ycSxvcZ0o5oVrNC-Anfie9H8okf)
 * [Conceitos Relacionados a Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=1NdZdpxLTopeXUysGoKyGS_WUC2TTkToz)
 * [Modelos de Sistema e Paradigmas de Comunicação em Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=14svXM9L6XMgqHiSPCSDzAdGyhrDQZd09)
 
