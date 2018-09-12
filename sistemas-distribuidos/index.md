@@ -119,6 +119,7 @@ __Material complementar__
 * [Exemplo 2: Programação com Sockets (TCP) - Envio e recebimento de dados do teclado - Cliente](https://drive.google.com/open?id=17Kd6WXhLcwM30YVYyo5TYsQtdJ_JLo6k)
 * [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Servidor](https://drive.google.com/open?id=1ZS_lduXGYup09JvlPJN6hm9w-LgEgURL)
 * [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Cliente](https://drive.google.com/open?id=1WvAtGO4ovOjs4No1Nf_Igii5aJhl2OG_ )
+* [Exemplo 4: Chat distribuído utilizando Multicast IP](https://drive.google.com/open?id=1tTsl0vD_NKJyXwYf4Hyy9BkM4ktYA83U)
 * [Caracterização de Sistemas Distribuídos - Mapa Mental](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing)
 * [Comunicação entre Processos usando Sockets - Mapa Mental](https://drive.google.com/open?id=19wCk_ycSxvcZ0o5oVrNC-Anfie9H8okf)
 * [Conceitos Relacionados a Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=1NdZdpxLTopeXUysGoKyGS_WUC2TTkToz)
