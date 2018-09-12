@@ -42,23 +42,24 @@ __Cronograma__
 |---
 | 12 | 12/09/2018 | Programação JSockets (Multicast IP) | [Aula 7](https://drive.google.com/open?id=1_eiNqWyAJdTQhAGz0ZsctBW-enbUTxkN)|
 | 13 | 12/09/2018 | Aula destinada à realização do [1º Trabalho de Programação](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ) | [Upload](https://www.edmodo.com/home#/group?id=27416307) |
-| 14 | 13/09/2018 | Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=15Kgpjvhy8r51X0Y0p1z2xsbygcp0vgDG)|
+| 14 | 13/09/2018 | Aula destinada à realização do [1º Trabalho de Programação](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ)| [Upload](https://www.edmodo.com/home#/group?id=27416307)|
 |---
 | 15 | 19/09/2019 |  __1ª prova avaliativa__  | |
 | 16 | 20/09/2018 | Discussão, correção e entrega da __1ª prova avaliativa__  | |
 |---
-| 17 |26/09/2018 | Invocação Remota (RMI)| |
-| 18 |27/09/2018 |  Atividade prática de RMI (Java RMI)|  |
+| 17 |26/09/2018 |  Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=15Kgpjvhy8r51X0Y0p1z2xsbygcp0vgDG) |
+| 18 |27/09/2018 | Invocação Remota (RMI) | [Aula 9]() |
 |---
-| 18 | 26/09/2018 | |  |
+|
+| 19 | 03/10/2018 |Atividade prática de RMI (Java RMI)| |
 |---
-| 19 | 27/09/2018 | Comunicação indireta - Parte 1| |
+| 19 | 04/10/2018 | Comunicação indireta - Parte 1| |
 |---
-| 20 | 03/10/2018 | Comunicação indireta - Parte 2| |
+| 20 | 10/10/2018 | Comunicação indireta - Parte 2| |
 |---
-| 21 | 04/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
+| 21 | 11/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
 |---
-| 22 | 10/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
+| 22 | 17/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
 |---
 | 23 | 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
 |---
