@@ -45,7 +45,7 @@ __Cronograma__
 | 14 | 13/09/2018 | Aula destinada à realização do [1º Trabalho de Programação](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ)| [Upload](https://www.edmodo.com/home#/group?id=27416307)|
 |---
 | 15 | 19/09/2019 |  __1ª prova avaliativa__  | |
-| 16 | 20/09/2018 | Discussão, correção e entrega da __1ª prova avaliativa__  | |
+| 16 | 20/09/2018 | Discussão, [correção](https://drive.google.com/open?id=1t3Rkfr43SmrGZ9HwkZdZWd1BFkEKtOs0) e entrega da __1ª prova avaliativa__  | |
 |---
 | 17 |26/09/2018 |  Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=15Kgpjvhy8r51X0Y0p1z2xsbygcp0vgDG) |
 | 18 |27/09/2018 | Invocação Remota (RMI) | [Aula 9]() |
