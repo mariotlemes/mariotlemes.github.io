@@ -50,7 +50,6 @@ __Cronograma__
 | 17 |26/09/2018 |  Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=15Kgpjvhy8r51X0Y0p1z2xsbygcp0vgDG) |
 | 18 |27/09/2018 | [AVA 4 - Programação com RPC](https://www.edmodo.com/post/676313044)|
 |---
-|
 | 19 | 03/10/2018 |Aula destinada à realização do [AVA 4](https://www.edmodo.com/post/676313044)| [Upload](https://www.edmodo.com/post/676313044)|
 |---
 | 20 | 04/10/2018 | Invocação Remota (RMI)| |
