@@ -47,7 +47,7 @@ __Cronograma__
 | 15 | 19/09/2019 |  __1ª prova avaliativa__  | |
 | 16 | 20/09/2018 | Discussão, [correção](https://drive.google.com/open?id=1t3Rkfr43SmrGZ9HwkZdZWd1BFkEKtOs0) e entrega da __1ª prova avaliativa__  | |
 |---
-| 17 |26/09/2018 |  Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=15Kgpjvhy8r51X0Y0p1z2xsbygcp0vgDG) |
+| 17 |26/09/2018 |  Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=12zrmnIbYsNjh_CMk6lvkW18Ums8vYlb1) |
 | 18 |27/09/2018 | [AVA 4 - Programação com RPC](https://www.edmodo.com/post/676313044)|
 |---
 | 19 | 03/10/2018 |Aula destinada à realização do [AVA 4](https://www.edmodo.com/post/676313044)| [Upload](https://www.edmodo.com/post/676313044)|
