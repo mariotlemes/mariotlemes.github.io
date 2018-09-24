@@ -52,11 +52,11 @@ __Cronograma__
 |---
 | 19 | 03/10/2018 |Aula destinada à realização do [AVA 4](https://www.edmodo.com/post/676313044)| [Upload](https://www.edmodo.com/post/676313044)|
 |---
-| 20 | 04/10/2018 | Invocação Remota (RMI)| |
+| 20 | 04/10/2018 | Invocação Remota (RMI)| [Aula 9]() |
 |---
-| 20 | 10/10/2018 | Comunicação indireta | |
+| 21 | 10/10/2018 | Comunicação indireta | [Aula 10]()|
 |---
-| 21 | 11/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
+| 22 | 11/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
 |---
 | 22 | 17/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
 |---
