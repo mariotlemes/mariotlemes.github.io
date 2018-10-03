@@ -53,7 +53,7 @@ __Cronograma__
 |---
 | 17 |26/09/2018 |  Atividade suspensa - memorando 234/2018/gab/ifg/for |  |
 |---
-| 18 |27/09/2018 |  Invocação Remota (RPC) | [Aula 8](https://drive.google.com/open?id=12zrmnIbYsNjh_CMk6lvkW18Ums8vYlb1) |
+| 18 |27/09/2018 |  Invocação Remota e Chamada de Procedimento Remoto (RPC) | [Aula 8](https://drive.google.com/open?id=12zrmnIbYsNjh_CMk6lvkW18Ums8vYlb1) |
 |---
 | 19 | 03/10/2018 |[AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Upload](https://www.edmodo.com/post/675090846)|
 |---
