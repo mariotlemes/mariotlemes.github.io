@@ -47,14 +47,15 @@ __Cronograma__
 | 15 | 19/09/2019 |  __1ª prova avaliativa__  | |
 | 16 | 20/09/2018 | Discussão, [correção](https://drive.google.com/open?id=1t3Rkfr43SmrGZ9HwkZdZWd1BFkEKtOs0) e entrega da __1ª prova avaliativa__  | |
 |---
-| 17 |26/09/2018 |  Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=12zrmnIbYsNjh_CMk6lvkW18Ums8vYlb1) |
-| 18 |27/09/2018 | [AVA 4 - Programação com RPC](https://www.edmodo.com/post/676313044)|
+| 17 |26/09/2018 |  Atividade suspensa - memorando 234/2018/gab/ifg/for |  |
+| 18 |27/09/2018 |  Invocação Remota (RPC) e [AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Aula 8](https://drive.google.com/open?id=12zrmnIbYsNjh_CMk6lvkW18Ums8vYlb1) |
+| 19 |03/10/2018 | [AVA 4 - Programação com RPC](https://www.edmodo.com/post/676313044)|
 |---
-| 19 | 03/10/2018 |Aula destinada à realização da [AVA 4](https://www.edmodo.com/post/676313044)| [Upload](https://www.edmodo.com/post/676313044)|
+| 20 | 04/10/2018 |Aula destinada à realização da AVA 3 e AVA 4| |
 |---
-| 20 | 04/10/2018 | Invocação Remota (RMI)| [Aula 9]() |
+| 20 | 10/10/2018 | Invocação Remota (RMI)| [Aula 9]() |
 |---
-| 21 | 10/10/2018 | Comunicação indireta | [Aula 10]()|
+| 21 | 11/10/2018 | Comunicação indireta | [Aula 10]()|
 |---
 | 22 | 11/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
 |---
