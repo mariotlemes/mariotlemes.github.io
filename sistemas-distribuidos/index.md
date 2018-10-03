@@ -48,12 +48,15 @@ __Cronograma__
 | 14 | 13/09/2018 | Aula destinada à realização do [1º Trabalho de Programação](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ)| [Upload](https://www.edmodo.com/home#/group?id=27416307)|
 |---
 | 15 | 19/09/2019 |  __1ª prova avaliativa__  | |
+|---
 | 16 | 20/09/2018 | Discussão, [correção](https://drive.google.com/open?id=1t3Rkfr43SmrGZ9HwkZdZWd1BFkEKtOs0) e entrega da __1ª prova avaliativa__  | |
 |---
 | 17 |26/09/2018 |  Atividade suspensa - memorando 234/2018/gab/ifg/for |  |
 |---
 | 18 |27/09/2018 |  Invocação Remota (RPC) | [Aula 8](https://drive.google.com/open?id=12zrmnIbYsNjh_CMk6lvkW18Ums8vYlb1) |
+|---
 | 19 | 03/10/2018 |[AVA 3 - Estudo de Caso: RPC](https://www.edmodo.com/post/675090846)| [Upload](https://www.edmodo.com/post/675090846)|
+|---
 | 20 | 04/10/2018 | [AVA 4 - Programação com RPC](https://www.edmodo.com/post/676313044)| [Upload](https://www.edmodo.com/post/676313044) |
 |---
 | 20 | 10/10/2018 | Invocação Remota (RMI)| [Aula 9]() |
