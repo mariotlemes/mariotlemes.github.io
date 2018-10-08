@@ -59,7 +59,7 @@ __Cronograma__
 |---
 | 20 | 04/10/2018 | [AVA 4 - Programação com RPC](https://www.edmodo.com/post/676313044)| [Upload](https://www.edmodo.com/post/676313044) |
 |---
-| 20 | 10/10/2018 | Invocação Remota (RMI)| [Aula 9](https://drive.google.com/open?id=1h_zHCXtxFRrV4vnbSTaZ-NwweMEHGMv1) |
+| 20 | 10/10/2018 | Invocação Remota (RMI)| [Aula 9](https://drive.google.com/open?id=1yXl71esa2lRmFf_yHD93BiIyjwmPtVhB) |
 |---
 | 21 | 11/10/2018 | Invocação Remota (RMI) - Atividade prática de programação| [Upload](https://www.edmodo.com/post/677678272)|
 |---
