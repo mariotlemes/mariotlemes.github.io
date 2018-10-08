@@ -61,37 +61,37 @@ __Cronograma__
 |---
 | 20 | 10/10/2018 | Invocação Remota (RMI)| [Aula 9](https://drive.google.com/open?id=1h_zHCXtxFRrV4vnbSTaZ-NwweMEHGMv1) |
 |---
-| 21 | 11/10/2018 | Invocação Remota (RMI) - Atividade prática de programação||
+| 21 | 11/10/2018 | Invocação Remota (RMI) - Atividade prática de programação| [Upload](https://www.edmodo.com/post/677678272)|
 |---
-| 22 | 11/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
+| 22 | 17/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
 |---
-| 22 | 17/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
+| 23 | 18/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
 |---
-| 23 | 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
+| 24 | 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
 |---
-| 24 | 17/10/2018 | Atividade Prática (Corba)| |
+| 25 | 17/10/2018 | Atividade Prática (Corba)| |
 |---
-| 25 | 18/10/2018 | __Data da 2ª prova avaliativa__| |
+| 26 | 18/10/2018 | Atividade Prática (Corba) | |
 |---
-| 26 | 24/10/2018 | Em atividades da IX Secitec |  |
+| 27 | 24/10/2018 | Em atividades da IX Secitec |  |
 |---
-| 27 | 25/10/2018 | Em atividades da IX Secitec |  |
+| 28 | 25/10/2018 | Em atividades da IX Secitec |  |
 |---
-| 28 | 31/10/2018 | Entrega, discussão e correção da 2ª prova avaliativa| |
+| 29 | 31/10/2018 | __Data da 2ª prova avaliativa__ | |
 |---
-| 29 | 01/11/2018 | Web Services: Introdução a Arquitetura | |
+| 30 | 01/11/2018 | Entrega, discussão e correção da 2ª prova avaliativa | |
 |---
-| 30 | 07/11/2018 | Web Services REST|  |
+| 31 | 07/11/2018 | Web Services REST|  |
 |---
-| 31 | 08/11/2018 |  Web Services SOAP|  |
+| 32 | 08/11/2018 |  Web Services SOAP|  |
 |---
-| 32 | 14/11/2018 |Atividade prática (REST e SOAP) | |
+| 33 | 14/11/2018 |Atividade prática (REST e SOAP) | |
 |---
-| 32 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
+| 34 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |---
-| 34 | 21/11/2018 | Segurança em Sistemas Distribuídos|  |
+| 35 | 21/11/2018 | Segurança em Sistemas Distribuídos|  |
 |---
-| 35 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
+| 36 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
 |---
 | 36 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
 |---
@@ -115,7 +115,7 @@ __Data de entrega dos trabalhos de implementação__
 __Data das provas__
 {: .notice}
 * __1ª prova:__ 19/09/2018 (quarta-feira), 8h45 (pontualmente).
-* __2ª prova:__ 18/10/2018 (quinta-feira), 7h (pontualmente).
+* __2ª prova:__ 31/10/2018 (quarta-feira), 8h45 (pontualmente).
 * __3ª prova:__ 06/12/2018 (quinta-feira), 7h (pontualmente).
 
 __Material complementar__
