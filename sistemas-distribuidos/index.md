@@ -59,9 +59,9 @@ __Cronograma__
 |---
 | 20 | 04/10/2018 | [AVA 4 - Programação com RPC](https://www.edmodo.com/post/676313044)| [Upload](https://www.edmodo.com/post/676313044) |
 |---
-| 20 | 10/10/2018 | Invocação Remota (RMI)| [Aula 9]() |
+| 20 | 10/10/2018 | Invocação Remota (RMI)| [Aula 9](https://drive.google.com/open?id=1h_zHCXtxFRrV4vnbSTaZ-NwweMEHGMv1) |
 |---
-| 21 | 11/10/2018 | Comunicação indireta | [Aula 10]()|
+| 21 | 11/10/2018 | Invocação Remota (RMI) - Atividade prática de programação||
 |---
 | 22 | 11/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
 |---
@@ -127,6 +127,9 @@ __Material complementar__
 * [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Servidor](https://drive.google.com/open?id=1ZS_lduXGYup09JvlPJN6hm9w-LgEgURL)
 * [Exemplo 3: Programação com Sockets (TCP) - Envio de dados do teclado com thread - Cliente](https://drive.google.com/open?id=1WvAtGO4ovOjs4No1Nf_Igii5aJhl2OG_ )
 * [Exemplo 4: Chat distribuído utilizando Multicast IP](https://drive.google.com/open?id=1tTsl0vD_NKJyXwYf4Hyy9BkM4ktYA83U)
+* [Exemplo 5: Olá Mundo - Java RMI - Interface](https://drive.google.com/open?id=1cn1S_BQLDDmoJz65S4tVjbGgPVlO3AbF)
+* [Exemplo 5: Olá Mundo - Java RMI - Servidor](https://drive.google.com/open?id=1OSnkcXb96_-IcZsW5BYTXXKgYHFDjK-s)
+* [Exemplo 5: Olá Mundo - Java RMI - Cliente](https://drive.google.com/open?id=1wB3sl4w-fQ7R3aSM_V8WZMa41stiGg3W)
 * [Caracterização de Sistemas Distribuídos - Mapa Mental](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing)
 * [Comunicação entre Processos usando Sockets - Mapa Mental](https://drive.google.com/open?id=19wCk_ycSxvcZ0o5oVrNC-Anfie9H8okf)
 * [Conceitos Relacionados a Sistemas Distribuídos - Mapa Mental](https://drive.google.com/open?id=1NdZdpxLTopeXUysGoKyGS_WUC2TTkToz)
