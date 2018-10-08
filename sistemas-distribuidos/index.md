@@ -79,7 +79,7 @@ __Cronograma__
 |---
 | 29 | 31/10/2018 | __Data da 2ª prova avaliativa__ | |
 |---
-| 30 | 01/11/2018 | Entrega, discussão e correção da 2ª prova avaliativa | |
+| 30 | 01/11/2018 | Entrega, discussão e correção da __2ª prova avaliativa__ | |
 |---
 | 31 | 07/11/2018 | Web Services REST|  |
 |---
@@ -101,7 +101,7 @@ __Cronograma__
 |---
 | 39 | 06/12/2018 | __Data da 3ª prova avaliativa__ |  |
 |---
-| 40 | 12/12/2018 | Entrega, discussão e correção da 3ª avaliativa | |
+| 40 | 12/12/2018 | Entrega, discussão e correção da __3ª avaliativa__ | |
 |---
 | 41 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
