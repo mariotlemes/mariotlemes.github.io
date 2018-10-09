@@ -73,9 +73,9 @@ __Cronograma__
 |---
 | 26 | 18/10/2018 | Atividade Prática (Corba) | |
 |---
-| 27 | 24/10/2018 | Em atividades da IX Secitec |  |
+| 27 | 24/10/2018 | Em atividades da [IX Secitec](https://www.ifg.edu.br/index.php/component/content/article?id=10068) |  |
 |---
-| 28 | 25/10/2018 | Em atividades da IX Secitec |  |
+| 28 | 25/10/2018 | Em atividades da [IX Secitec](https://www.ifg.edu.br/index.php/component/content/article?id=10068) |  |
 |---
 | 29 | 31/10/2018 | __Data da 2ª prova avaliativa__ | |
 |---
@@ -110,6 +110,8 @@ __Data de entrega dos trabalhos de implementação__
 {: .notice}
 * __1º Trabalho de Programação:__ (Entrega até 25/09/2018) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ).
 * __2º Trabalho de Programação:__ (Entrega até 06/11/2018) [Chat Distribuído com Java RMI ](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP).
+* __3º Trabalho de Programação:__ (A definir) 
+
 
 
 __Data das provas__
