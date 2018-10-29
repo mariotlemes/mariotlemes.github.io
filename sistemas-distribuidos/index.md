@@ -75,19 +75,19 @@ __Cronograma__
 |---
 | 27 | 01/11/2018 | Entrega, discussão e correção da __2ª prova avaliativa__ | |
 |---
-| 28 | 07/11/2018 |Comunicação indireta | |
+| 28 | 07/11/2018 |Comunicação indireta | [Aula 10]()|
 |---
 | 29 | 08/11/2018 |Atividade Prática de Comunicação indireta (JGroups Toolkit) | |
 |---
-| 30 | 14/11/2018 | Web Services REST/SOAP|  |
+| 30 | 14/11/2018 | Web Services REST/SOAP | [Aula 11]()  |
 |---
 | 31 | 14/11/2018 |Atividade prática (REST e SOAP) | |
 |---
 | 34 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |---
-| 36 | 21/11/2018 | Segurança em Sistemas Distribuídos|  |
+| 36 | 21/11/2018 | Segurança em Sistemas Distribuídos | [Aula 12]()  |
 |---
-| 37 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
+| 37 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |[Aula 13]()  |
 |---
 | 38 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
 |---
