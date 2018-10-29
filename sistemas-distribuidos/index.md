@@ -63,54 +63,50 @@ __Cronograma__
 |---
 | 21 | 11/10/2018 | Invocação Remota (RMI) - Atividade prática de programação| [Upload](https://www.edmodo.com/post/677678272)|
 |---
-| 22 | 17/10/2018 | Atividade prática de comunicação indireta (JGroups Toolkit)| |
+| 22 | 17/10/2018 | Não houve aula| |
 |---
-| 23 | 18/10/2018 | Objetos e Componentes Distribuídos: EJB e Corba - Parte 1|  |
+| 23 | 18/10/2018 | Não houve aula|  |
 |---
-| 24 | 11/10/2018 | Objetos e Componentes Distribuídos. EJB e Corba - Parte 2| |
+| 24 | 24/10/2018 | Em atividades da [IX Secitec](https://www.ifg.edu.br/index.php/component/content/article?id=10068) |  |
 |---
-| 25 | 17/10/2018 | Atividade Prática (Corba)| |
+| 25 | 25/10/2018 | Em atividades da [IX Secitec](https://www.ifg.edu.br/index.php/component/content/article?id=10068) |  |
 |---
-| 26 | 18/10/2018 | Atividade Prática (Corba) | |
+| 26 | 31/10/2018 | __Data da 2ª prova avaliativa__ | |
 |---
-| 27 | 24/10/2018 | Em atividades da [IX Secitec](https://www.ifg.edu.br/index.php/component/content/article?id=10068) |  |
+| 27 | 01/11/2018 | Entrega, discussão e correção da __2ª prova avaliativa__ | |
 |---
-| 28 | 25/10/2018 | Em atividades da [IX Secitec](https://www.ifg.edu.br/index.php/component/content/article?id=10068) |  |
+| 28 | 07/11/2018 |Comunicação indireta | |
 |---
-| 29 | 31/10/2018 | __Data da 2ª prova avaliativa__ | |
+| 29 | 08/11/2018 |Atividade Prática de Comunicação indireta (JGroups Toolkit) | |
 |---
-| 30 | 01/11/2018 | Entrega, discussão e correção da __2ª prova avaliativa__ | |
+| 30 | 14/11/2018 | Web Services REST/SOAP|  |
 |---
-| 31 | 07/11/2018 | Web Services REST|  |
-|---
-| 32 | 08/11/2018 |  Web Services SOAP|  |
-|---
-| 33 | 14/11/2018 |Atividade prática (REST e SOAP) | |
+| 31 | 14/11/2018 |Atividade prática (REST e SOAP) | |
 |---
 | 34 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |---
-| 35 | 21/11/2018 | Segurança em Sistemas Distribuídos|  |
+| 36 | 21/11/2018 | Segurança em Sistemas Distribuídos|  |
 |---
-| 36 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
+| 37 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |  |
 |---
-| 36 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
+| 38 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
 |---
-| 37 | 29/11/2018 | Data de apresentação de trabalhos práticos| |
+| 39 | 29/11/2018 | Data de apresentação de trabalhos práticos| |
 |---
-| 38 | 05/12/2018 | Data de apresentação de trabalhos práticos|  |
+| 40 | 05/12/2018 | Data de apresentação de trabalhos práticos|  |
 |---
-| 39 | 06/12/2018 | __Data da 3ª prova avaliativa__ |  |
+| 41 | 06/12/2018 | __Data da 3ª prova avaliativa__ |  |
 |---
-| 40 | 12/12/2018 | Entrega, discussão e correção da __3ª avaliativa__ | |
+| 42 | 12/12/2018 | Entrega, discussão e correção da __3ª avaliativa__ | |
 |---
-| 41 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 43 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
 __Data de entrega dos trabalhos de implementação__
 {: .notice}
 * __1º Trabalho de Programação:__ (Entrega até 25/09/2018) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ).
 * __2º Trabalho de Programação:__ (Entrega até 06/11/2018) [Chat Distribuído com Java RMI ](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP).
-* __3º Trabalho de Programação:__ (A definir) 
+* __3º Trabalho de Programação:__ (A definir)
 
 
 
