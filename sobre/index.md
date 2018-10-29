@@ -17,3 +17,4 @@ clique aqui</a>.
 * Sistemas Inteligentes.
 * Computação Paralela e Distribuída.
 * Internet das Coisas.
+* Software/Hardware Livre
