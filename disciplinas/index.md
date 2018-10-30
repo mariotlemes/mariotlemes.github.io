@@ -12,7 +12,6 @@ comments: false
 ## 2018/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Administração de Serviços para Internet (Tecnologia em Análise e Desenvolvimento de Sistemas)
 * Organização e Manutenção de Computadores II (Proeja - Informática).
-* Sistemas Operacionais (Proeja - Informática)
 
 ## 2017/2 - Instituto Federal de Goiás - Câmpus Formosa
 * Trabalho de Conclusão de Curso I (Tecnologia em Análise e Desenvolvimento de Sistemas).
@@ -22,10 +21,11 @@ comments: false
 ## 2017/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Administração de Serviços para Internet (Tecnologia em Análise e Desenvolvimento de Sistemas).
 * Informática Básica (Proeja - Edificações).
+* Organização e Manutenção de Computadores II (Proeja - Informática).
+
 
 ## 2016/2 - Instituto Federal de Goiás - Câmpus Formosa
 * Informática Básica (Proeja - Edificações).
-* Arquitetura de Computadores (Proeja - Informática).
 * Organização e Manutenção de Computadores I (Proeja - Informática).
 
 ## 2016/1 - Instituto Federal de Goiás - Câmpus Formosa
@@ -43,7 +43,9 @@ comments: false
 * Sistemas Operacionais e Redes de Computadores III (Técnico em Informática para Internet).
 * Projeto e Design de Interfaces II (Técnico em Informática para Internet).
 * Redes de Computadores II (Proeja - Informática).
+* Organização e Manutenção de Computadores I (Proeja - Informática).
 * Administração de Redes de Computadores (Proeja - Informática).
+* Informática Básica (Proeja - Edificações).
 
 ## 2014/2 - Instituto Federal de Goiás - Câmpus Inhumas
 * Qualidade de Software (Bacharelado em Informática).
