@@ -93,11 +93,11 @@ __Cronograma__
 |---
 | 39 | 29/11/2018 | Data de apresentação de trabalhos práticos| |
 |---
-| 40 | 05/12/2018 | Data de apresentação de trabalhos práticos|  |
+| 40 | 05/12/2018 | __Data da 3ª prova avaliativa__|  |
 |---
-| 41 | 06/12/2018 | __Data da 3ª prova avaliativa__ |  |
+| 41 | 06/12/2018 | Entrega, discussão e correção da __3ª prova avaliativa__ |  |
 |---
-| 42 | 12/12/2018 | Entrega, discussão e correção da __3ª avaliativa__ | |
+| 42 | 12/12/2018 |  Fechamento de notas e entrega de trabalhos e atividades | |
 |---
 | 43 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
@@ -114,7 +114,7 @@ __Data das provas__
 {: .notice}
 * __1ª prova:__ 19/09/2018 (quarta-feira), 8h45 (pontualmente).
 * __2ª prova:__ 31/10/2018 (quarta-feira), 8h45 (pontualmente).
-* __3ª prova:__ 06/12/2018 (quinta-feira), 7h (pontualmente).
+* __3ª prova:__ 05/12/2018 (quarta-feira), 8h45 (pontualmente).
 
 __Material complementar__
 {: .notice}
