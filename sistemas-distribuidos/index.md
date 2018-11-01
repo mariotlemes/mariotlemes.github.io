@@ -73,7 +73,7 @@ __Cronograma__
 |---
 | 26 | 31/10/2018 | __Data da 2ª prova avaliativa__ | |
 |---
-| 27 | 01/11/2018 | Entrega, discussão e correção da __2ª prova avaliativa__ | |
+| 27 | 01/11/2018 | Discussão, [correção](https://drive.google.com/open?id=1xTMVP60bYTfrlDZVB0MoS17XGou87Ay5) e entrega da __2ª prova avaliativa__ | |
 |---
 | 28 | 07/11/2018 |Comunicação indireta | [Aula 10]()|
 |---
@@ -95,7 +95,7 @@ __Cronograma__
 |---
 | 40 | 05/12/2018 | __Data da 3ª prova avaliativa__|  |
 |---
-| 41 | 06/12/2018 | Entrega, discussão e correção da __3ª prova avaliativa__ |  |
+| 41 | 06/12/2018 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
 |---
 | 42 | 12/12/2018 |  Fechamento de notas e entrega de trabalhos e atividades | |
 |---
