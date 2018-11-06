@@ -75,9 +75,9 @@ __Cronograma__
 |---
 | 27 | 01/11/2018 | Discussão, [correção](https://drive.google.com/open?id=1xTMVP60bYTfrlDZVB0MoS17XGou87Ay5) e entrega da __2ª prova avaliativa__ | |
 |---
-| 28 | 07/11/2018 |Comunicação indireta | [Aula 10]()|
+| 28 | 07/11/2018 |Comunicação indireta - Parte 1 | [Aula 10](https://drive.google.com/open?id=1-UvzxStHrkypiJ9b9kkFkUQ4U73STTV8)|
 |---
-| 29 | 08/11/2018 |Atividade Prática de Comunicação indireta (JGroups Toolkit) | |
+| 29 | 08/11/2018 |Comunicação indireta - Parte 2 | |
 |---
 | 30 | 14/11/2018 | Web Services REST/SOAP | [Aula 11]()  |
 |---
