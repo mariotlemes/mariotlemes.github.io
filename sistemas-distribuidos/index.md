@@ -75,46 +75,42 @@ __Cronograma__
 |---
 | 27 | 01/11/2018 | Discussão, [correção](https://drive.google.com/open?id=1xTMVP60bYTfrlDZVB0MoS17XGou87Ay5) e entrega da __2ª prova avaliativa__ | |
 |---
-| 28 | 07/11/2018 |Comunicação indireta - Parte 1 | [Aula 10](https://drive.google.com/open?id=1-UvzxStHrkypiJ9b9kkFkUQ4U73STTV8)|
+| 28 | 07/11/2018 |Comunicação indireta - JGroups toolkit | [Aula 10](https://drive.google.com/open?id=1-UvzxStHrkypiJ9b9kkFkUQ4U73STTV8)|
 |---
-| 29 | 08/11/2018 |Comunicação indireta - Parte 2 | |
+| 29 | 08/11/2018 |Comunicação indireta - JGroups toolkit | |
 |---
-| 30 | 14/11/2018 | Web Services REST/SOAP | [Aula 11]()  |
+| 30 | 14/11/2018 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11]() |
 |---
-| 31 | 14/11/2018 |Atividade prática (REST e SOAP) | |
+| 31 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |---
-| 34 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
+| 32 | 21/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12]()  |
 |---
-| 36 | 21/11/2018 | Segurança em Sistemas Distribuídos | [Aula 12]()  |
+| 33 | 22/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas|[Aula 13]()  |
 |---
-| 37 | 22/11/2018 | Introdução a computação móvel e ubíqua - Parte 1 |[Aula 13]()  |
+| 34 | 28/11/2018 | Computação Móvel e Ubíqua | [Aula 14]()|
 |---
-| 38 | 28/11/2018 | Introdução a computação móvel e ubíqua - Parte 2 |  |
+| 35 | 29/11/2018 |  Segurança em SDs | [Aula 15]() |
 |---
-| 39 | 29/11/2018 | Data de apresentação de trabalhos práticos| |
+| 36 | 05/12/2018 | __Data da 3ª prova avaliativa__|  |
 |---
-| 40 | 05/12/2018 | __Data da 3ª prova avaliativa__|  |
+| 37 | 06/12/2018 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
 |---
-| 41 | 06/12/2018 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
+| 38 | 12/12/2018 |  Data de apresentação oral dos trabalhos de programacão (Sockets e Java RMI) | |
 |---
-| 42 | 12/12/2018 |  Fechamento de notas e entrega de trabalhos e atividades | |
-|---
-| 43 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 39 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
 __Data de entrega dos trabalhos de implementação__
 {: .notice}
-* __1º Trabalho de Programação:__ (Entrega até 25/09/2018) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ).
-* __2º Trabalho de Programação:__ (Entrega até 06/11/2018) [Chat Distribuído com Java RMI ](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP).
-* __3º Trabalho de Programação:__ (A definir)
-
-
+* __1º Trabalho de Programação (Valor: 1,0):__ (Entrega até 25/09/2018) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ).
+* __2º Trabalho de Programação: (Valor: 2,0__ (Entrega até 06/11/2018) [Chat Distribuído com Java RMI ](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP).
+* __Atividades de Verificação de Aprendizagem_: Valor: 2,0
 
 __Data das provas__
 {: .notice}
-* __1ª prova:__ 19/09/2018 (quarta-feira), 8h45 (pontualmente).
-* __2ª prova:__ 31/10/2018 (quarta-feira), 8h45 (pontualmente).
-* __3ª prova:__ 05/12/2018 (quarta-feira), 8h45 (pontualmente).
+* __1ª prova (Valor: 1,0):__ 19/09/2018 (quarta-feira), 8h45 (pontualmente).
+* __2ª prova (Valor: 1,5):__ 31/10/2018 (quarta-feira), 8h45 (pontualmente).
+* __3ª prova (Valor: 2,5):__ 05/12/2018 (quarta-feira), 8h45 (pontualmente).
 
 __Material complementar__
 {: .notice}
