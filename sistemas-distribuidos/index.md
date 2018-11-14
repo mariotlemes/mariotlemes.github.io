@@ -79,7 +79,7 @@ __Cronograma__
 |---
 | 29 | 08/11/2018 |Comunicação indireta - JGroups toolkit | |
 |---
-| 30 | 14/11/2018 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11]() |
+| 30 | 14/11/2018 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11](https://drive.google.com/open?id=1WdeMk93WWIaGJ0Ev5XI7LxWfVxyLeVce) |
 |---
 | 31 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |---
