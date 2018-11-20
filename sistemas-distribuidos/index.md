@@ -83,9 +83,9 @@ __Cronograma__
 |---
 | 31 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
 |---
-| 32 | 21/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12]()  |
-|---
-| 33 | 22/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas|[Aula 13]()  |
+| 32 | 21/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12](https://drive.google.com/open?id=1JyrU2DWpZDf7r9-gQ9aOHeWassAGZikj)  |
+
+| 33 | 22/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas|  |
 |---
 | 34 | 28/11/2018 | Computação Móvel e Ubíqua | [Aula 14]()|
 |---
@@ -104,7 +104,7 @@ __Data de entrega dos trabalhos de implementação__
 {: .notice}
 * __1º Trabalho de Programação (Valor: 1,0):__ (Entrega até 25/09/2018) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ).
 * __2º Trabalho de Programação (Valor: 2,0):__ (Entrega até ~~06/11/2018~~ 20/11/2018) [Chat Distribuído com Java RMI ](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP).
-* __Atividades de Verificação de Aprendizagem (Valor: 2,0)__. 
+* __Atividades de Verificação de Aprendizagem (Valor: 2,0)__.
 
 __Data das provas__
 {: .notice}
