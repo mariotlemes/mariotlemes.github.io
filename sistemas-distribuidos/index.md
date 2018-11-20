@@ -82,9 +82,9 @@ __Cronograma__
 | 30 | 14/11/2018 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11](https://drive.google.com/open?id=1WdeMk93WWIaGJ0Ev5XI7LxWfVxyLeVce) |
 |---
 | 31 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
-| 32 | 21/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12](https://drive.google.com/open?id=1JyrU2DWpZDf7r9-gQ9aOHeWassAGZikj)  |
 |---
-| 33 | 22/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas|  |
+| 32 | 21/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12](https://drive.google.com/open?id=1JyrU2DWpZDf7r9-gQ9aOHeWassAGZikj)  |
+| 33 | 22/11/2018 | |  |
 |---
 | 34 | 28/11/2018 | Computação Móvel e Ubíqua | [Aula 14]()|
 |---
