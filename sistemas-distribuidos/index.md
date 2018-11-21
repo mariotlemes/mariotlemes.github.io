@@ -94,7 +94,7 @@ __Cronograma__
 |---
 | 37 | 06/12/2018 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
 |---
-| 38 | 12/12/2018 |  Data de apresentação oral dos trabalhos de programacão (Sockets e Java RMI) | |
+| 38 | 12/12/2018 |  Data de apresentação dos trabalhos de programacão ([Sockets](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ) e [Java RMI](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP)) | |
 |---
 | 39 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
