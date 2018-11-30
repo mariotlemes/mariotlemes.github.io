@@ -99,13 +99,13 @@ __Cronograma__
 | 39 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
-__Data de entrega dos trabalhos de implementação__
+__Trabalhos de Programação__
 {: .notice}
 * __1º Trabalho de Programação (Valor: 1,0):__ (Entrega até 25/09/2018) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ)
 * __2º Trabalho de Programação (Valor: 2,0):__ (Entrega até ~~06/11/2018~~ 20/11/2018) [Chat Distribuído com Java RMI ](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP)
 * __Atividades de Verificação de Aprendizagem (Valor: 2,0)__
 
-__Data das provas__
+__Provas__
 {: .notice}
 * __1ª prova (Valor: 1,0):__ 19/09/2018 (quarta-feira), 8h45 (pontualmente).
 * __2ª prova (Valor: 1,5):__ 31/10/2018 (quarta-feira), 8h45 (pontualmente).
