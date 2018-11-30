@@ -86,9 +86,9 @@ __Cronograma__
 | 32 | 21/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12](https://drive.google.com/open?id=1JyrU2DWpZDf7r9-gQ9aOHeWassAGZikj)  |
 | 33 | 22/11/2018 | Atividade de Verificação de Aprendizagem 8 - Java Spaces | [Upload](https://www.edmodo.com/post/681460148)  |
 |---
-| 34 | 28/11/2018 | Computação Móvel e Ubíqua | [Aula 13]()|
+| 34 | 28/11/2018 | Computação Móvel e Ubíqua | [Aula 13](https://drive.google.com/open?id=13vkPcns45QYKzlaKzDoTUY4tb93UgLVp)|
 |---
-| 35 | 29/11/2018 |  Segurança em SDs | [Aula 14]() |
+| 35 | 29/11/2018 |  Segurança em SDs | [Aula 14](https://drive.google.com/open?id=1BKFCveqxSs2eI-huzuMPVYQW3heOJtGW) |
 |---
 | 36 | 05/12/2018 | __Data da 3ª prova avaliativa__|  |
 |---
