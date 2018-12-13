@@ -12,4 +12,6 @@ comments: false
 
 
 ### Trabalho de Conclusão de Curso (TCC)
+* Jhuan Victor Spindola Pereira. A Importância de Código Livre para Padronização da Comunicação entre Objetos Inteligentes no Contexto de Internet das Coisas: Um Estudo de Caso do Framework Iotivity. Concluído: 2018.
+
 * Juliana Alves Vieira. MyTask: Sistema Baseado na Web para Geração Automatizada de Documentos Oficiais Emitidos pelo Instituto Federal de Goiás. Concluído em: 2017.
