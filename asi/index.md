@@ -23,16 +23,47 @@ __Cronograma__
 
 | Aula | Data | Conteúdo | Material |
 |:----|:----:|:--------:|--------:|
-| 1 | 13/02/2019 | Apresentação do [plano de ensino](https://drive.google.com/open?id=1ykDbhzFt6tcjY7UkYFkEuofuMpj__3Pa) da disciplina, professor e alunos | [Aula 1](https://drive.google.com/open?id=1Q4dOJxqPHvkZ652wuyF2SEWhBdIZhDYf) |
+| 1 | 13/02/2019 | Apresentação do [plano de ensino](https://drive.google.com/open?id=1ykDbhzFt6tcjY7UkYFkEuofuMpj__3Pa) da disciplina, professor e alunos | [Download](https://drive.google.com/open?id=1Q4dOJxqPHvkZ652wuyF2SEWhBdIZhDYf) |
 |---
-| 2 | 20/02/2019 | Switch x Hub (AVA 1) e Modelo de Referência OSI/ISO e Arquitetura de Rede TCP/IP | [Aula 2]() |
+| 2 | 20/02/2019 | Switch x Hub (AVA 1) e Modelo de Referência OSI/ISO e Arquitetura de Rede TCP/IP | [Download](https://drive.google.com/open?id=1lS4SMRWZSm-Pz43YqHN7qZFebk-YpY8O) |
+|---
+| 3 | 27/02/2019 |  |  |
+|---
+| 4 | 13/03/2019 |  |  |
+|---
+| 5 | 20/03/2019 |  |  |
+|---
+| 6 | 27/03/2019 |  |  |
+|---
+| 7 | 03/04/2019 |  |  |
+|---
+| 8 | 10/04/2019 |  |  |
+|---
+| 9 | 17/04/2019 | Data provável da realização da __1ª prova avaliativa__ |  |
+|---
+| 10 | 24/04/2019 |  |  |
+|---
+| 11 | 08/05/2019 |  |  |
+|---
+| 12 | 15/05/2019 |  |  |
+|---
+| 13 | 22/05/2019 |  |  |
+|---
+| 14 | 29/05/2019 |  |  |
+|---
+| 15 | 05/06/2019 |  |  |
+|---
+| 16 | 12/06/2019 |  Data provável da realização da __2ª prova avaliativa__|  |
+|---
+| 17 | 19/06/2019 |  |  |
 |---
 | 18 | 26/06/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
 __Atividades de Verificação de Aprendizagem__
 {: .notice}
-* __AVA 1 - Hub x Switch__ (Entrega até 20/02/2019) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ)
+* __AVA 1: Hub x Switch__ -  [Upload](https://www.edmodo.com/home#/assignment?mid=689653675)
+* __AVA 2: Protocolo da Camada de Aplicação do TCP/IP__ -  [Upload](https://www.edmodo.com/home#/assignment?mid=689653675)
 
 
 __Provas__
@@ -40,6 +71,10 @@ __Provas__
 * __1ª prova (Valor: 4,0):__ 17/04/2019 (quarta-feira).
 * __2ª prova (Valor: 4,0):__ 12/06/2019 (quarta-feira).
 
+__Material complementar__
+{: .notice}
+
+*
 
 __Bibliografia__
 {: .notice}
@@ -49,11 +84,10 @@ __Bibliografia__
   * MORIMOTO, C. E. __Redes: guia prático 2ª ed__. Porto Alegre: GdHPress, 2011.
   * TORRES, G. __Redes de Computadores  2ª ed__. Porto Alegre: Rio de Janeiro, 2009.
 
-
-* __Complementar__:
- * LUCIANO, A. M. __Linux para Servidores: das instalação à virtualização__. Editora Viena, 2013.
- * SCHRODER, C. __Redes Linux: Livro de Receitas__ . 1ª ed. Rio de Janeiro: Alta Books, 2009.
- * KUROSE, J. F. __Redes de Computadores e a Internet . 5ª ed__. São Paulo: Pearson, 2010.
- * TANENBAUM A. S.; WETHERALL D. J. __Redes de Computadores.  5ª ed__. São Paulo: Pearson, 2011.
- * COULOURIS G.; DOLLIMORE J.; KINDBERG T. __Sistemas Distribuídos: Conceitos e Projeto . 4ª ed.__ São Paulo: Bookman, 2007.
- * TANENBAUM A. S.; STEEN M. V. __Sistemas distribuídos: princípios e paradigmas . 2ª ed.__ São Paulo: Pearson, 2007.
+  * __Complementar__:
+    * LUCIANO, A. M. __Linux para Servidores: das instalação à virtualização__. Editora Viena, 2013.
+    * SCHRODER, C. __Redes Linux: Livro de Receitas__ . 1ª ed. Rio de Janeiro: Alta Books, 2009.
+    * KUROSE, J. F. __Redes de Computadores e a Internet . 5ª ed__. São Paulo: Pearson, 2010.
+    * LUCIANO, A. M. __Linux para Servidores: das instalação à virtualização__. Editora Viena, 2013.
+    * MORIMOTO, C. E. __Redes: guia prático 2ª ed__. Porto Alegre: GdHPress, 2011.
+    * TORRES, G. __Redes de Computadores  2ª ed__. Porto Alegre: Rio de Janeiro, 2009.
