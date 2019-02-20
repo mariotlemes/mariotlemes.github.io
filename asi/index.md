@@ -16,7 +16,7 @@ __Dados da Disciplina__
 * __Carga-horária__: 81h (108h/a).
 * __Horário das aulas__:
   * Quarta-feira (07h00 - 08h30, 08h45 - 10h15 e 10h30 - 12h00).
-* [__Ver Plano de Ensino__]().
+* [__Ver Plano de Ensino__](https://drive.google.com/open?id=1ykDbhzFt6tcjY7UkYFkEuofuMpj__3Pa).
 
 __Cronograma__
 {: .notice}
@@ -63,7 +63,7 @@ __Cronograma__
 __Atividades de Verificação de Aprendizagem__
 {: .notice}
 * __AVA 1: Hub x Switch__ -  [Upload](https://www.edmodo.com/home#/assignment?mid=689653675)
-* __AVA 2: Protocolo da Camada de Aplicação do TCP/IP__ -  [Upload](https://www.edmodo.com/home#/assignment?mid=689653675)
+* __AVA 2: Protocolo da Camada de Aplicação do TCP/IP__ -  [Upload](https://new.edmodo.com/post/689673671)
 
 
 __Provas__
@@ -82,10 +82,10 @@ __Bibliografia__
   * MORIMOTO, C. E. __Redes: guia prático 2ª ed__. Porto Alegre: GdHPress, 2011.
   * TORRES, G. __Redes de Computadores  2ª ed__. Porto Alegre: Rio de Janeiro, 2009.
 
-  * __Complementar__:
-    * LUCIANO, A. M. __Linux para Servidores: das instalação à virtualização__. Editora Viena, 2013.
-    * SCHRODER, C. __Redes Linux: Livro de Receitas__ . 1ª ed. Rio de Janeiro: Alta Books, 2009.
-    * KUROSE, J. F. __Redes de Computadores e a Internet . 5ª ed__. São Paulo: Pearson, 2010.
-    * LUCIANO, A. M. __Linux para Servidores: das instalação à virtualização__. Editora Viena, 2013.
-    * MORIMOTO, C. E. __Redes: guia prático 2ª ed__. Porto Alegre: GdHPress, 2011.
-    * TORRES, G. __Redes de Computadores  2ª ed__. Porto Alegre: Rio de Janeiro, 2009.
+* __Complementar__:
+  * LUCIANO, A. M. __Linux para Servidores: das instalação à virtualização__. Editora Viena, 2013.
+  * SCHRODER, C. __Redes Linux: Livro de Receitas__ . 1ª ed. Rio de Janeiro: Alta Books, 2009.
+  * KUROSE, J. F. __Redes de Computadores e a Internet . 5ª ed__. São Paulo: Pearson, 2010.
+  * LUCIANO, A. M. __Linux para Servidores: das instalação à virtualização__. Editora Viena, 2013.
+  * MORIMOTO, C. E. __Redes: guia prático 2ª ed__. Porto Alegre: GdHPress, 2011.
+  * TORRES, G. __Redes de Computadores  2ª ed__. Porto Alegre: Rio de Janeiro, 2009.
