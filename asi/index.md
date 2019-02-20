@@ -45,7 +45,7 @@ __Cronograma__
 |---
 | 11 | 08/05/2019 | Servidor DNS: arquivos de configuração e ferramentas de teste |  |
 |---
-| 12 | 15/05/2019 | Serviços de compartilhamento de arquivos me rede: NFS e FTP. Clientes gráficos. |  |
+| 12 | 15/05/2019 | Serviços de compartilhamento de arquivos em rede: NFS e FTP. Clientes gráficos. |  |
 |---
 | 13 | 22/05/2019 |  Servidor proxy: características, criação de ACLs. Servidor proxy transparente|  |
 |---
