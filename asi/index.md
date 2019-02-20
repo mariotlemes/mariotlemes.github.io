@@ -74,8 +74,6 @@ __Provas__
 __Material complementar__
 {: .notice}
 
-*
-
 __Bibliografia__
 {: .notice}
 
