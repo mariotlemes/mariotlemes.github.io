@@ -27,35 +27,35 @@ __Cronograma__
 |---
 | 2 | 20/02/2019 | Switch x Hub (AVA 1) e Modelo de Referência OSI/ISO e Arquitetura de Rede TCP/IP | [Download](https://drive.google.com/open?id=1lS4SMRWZSm-Pz43YqHN7qZFebk-YpY8O) |
 |---
-| 3 | 27/02/2019 |  |  |
+| 3 | 27/02/2019 | Endereçamento ip: classes, máscara de rede e criação de sub-redes e softwares de simulação. Instalação de Sistemas Operacionais Servidores.|  |
 |---
-| 4 | 13/03/2019 |  |  |
+| 4 | 13/03/2019 | Configuração do cenário de simulação. Servidores SSH e SCP |  |
 |---
-| 5 | 20/03/2019 |  |  |
+| 5 | 20/03/2019 |  Rotas e pacotes. Encaminhamento com ip_forward. Introdução ao iptables |  |
 |---
-| 6 | 27/03/2019 |  |  |
+| 6 | 27/03/2019 | Criação e regras do iptables. Criação de daemon. Lidando com o /etc/rc.local |  |
 |---
-| 7 | 03/04/2019 |  |  |
+| 7 | 03/04/2019 | Servidor DHCP: conceitos e características. Ip fixo x dinâmico. |  |
 |---
-| 8 | 10/04/2019 |  |  |
+| 8 | 10/04/2019 | DHCP x multiredes |  |
 |---
 | 9 | 17/04/2019 | Data provável da realização da __1ª prova avaliativa__ |  |
 |---
-| 10 | 24/04/2019 |  |  |
+| 10 | 24/04/2019 | Entrega e discussão da 1ª prova avaliativa. Servidor DNS |  |
 |---
-| 11 | 08/05/2019 |  |  |
+| 11 | 08/05/2019 | Servidor DNS: arquivos de configuração e ferramentas de teste |  |
 |---
-| 12 | 15/05/2019 |  |  |
+| 12 | 15/05/2019 | Serviços de compartilhamento de arquivos me rede: NFS e FTP. Clientes gráficos. |  |
 |---
-| 13 | 22/05/2019 |  |  |
+| 13 | 22/05/2019 |  Servidor proxy: características, criação de ACLs. Servidor proxy transparente|  |
 |---
-| 14 | 29/05/2019 |  |  |
+| 14 | 29/05/2019 | Servidor de impressão (cups) e email (postfix) |  |
 |---
-| 15 | 05/06/2019 |  |  |
+| 15 | 05/06/2019 | Em atividades da Semana do Meio Ambiente |  |
 |---
 | 16 | 12/06/2019 |  Data provável da realização da __2ª prova avaliativa__|  |
 |---
-| 17 | 19/06/2019 |  |  |
+| 17 | 19/06/2019 | Entrega e discussão da 2ª prova avaliativa. Data de apresentação do seminário.  |  |
 |---
 | 18 | 26/06/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
