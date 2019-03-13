@@ -65,6 +65,10 @@ __Atividades de Verificação de Aprendizagem__
 * __AVA 1: Hub x Switch__ -  [Upload](https://www.edmodo.com/home#/assignment?mid=689653675)
 * __AVA 2: Protocolo da Camada de Aplicação do TCP/IP__ -  [Upload](https://new.edmodo.com/post/689673671)
 
+__Práticas de Laboratório__
+{: .notice}
+* [Obtenção de Softwares de Simulação](https://drive.google.com/open?id=1adYPyIeb7oABVbcIjZ2i68xZbeFo2AcZ)
+* [Instalação de Sistemas Operacionais Servidores](https://drive.google.com/open?id=14dab1AHlw_h7jPIt1arsGVhnmpEz3tut)
 
 __Provas__
 {: .notice}
