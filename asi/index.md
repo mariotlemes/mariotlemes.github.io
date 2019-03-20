@@ -70,6 +70,11 @@ __Práticas de Laboratório__
 * [Obtenção de Softwares de Simulação](https://drive.google.com/open?id=1adYPyIeb7oABVbcIjZ2i68xZbeFo2AcZ)
 * [Instalação de Sistemas Operacionais Servidores](https://drive.google.com/open?id=14dab1AHlw_h7jPIt1arsGVhnmpEz3tut)
 
+__Figuras Importantes__
+{: .notice}
+
+* [Cenário de Simulação Final](https://drive.google.com/open?id=1F1icu9yFEPsMJkxIzrhfgqV3TOgTo5f3)
+
 __Provas__
 {: .notice}
 * __1ª prova (Valor: 4,0):__ 17/04/2019 (quarta-feira).
