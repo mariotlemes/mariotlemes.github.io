@@ -73,7 +73,11 @@ __Práticas de Laboratório__
 __Figuras Importantes__
 {: .notice}
 
+* [Interface de Rede em Modo Nat](https://drive.google.com/open?id=1G0QOHdX0FwpVcSj1Xeby3Jvq_ajCR_Y5)
+* [Interface de Rede em Modo Rede Interna (intnet)](https://drive.google.com/open?id=1m8Vjk2Sp5N32vhGh3b8iNqNoE02HOIbH)
+* [Interface de Rede no Modo Híbrido - Nat + Rede Interna](https://drive.google.com/open?id=1ghCrBDXH12tuPqqpX4gwL9P9TZD8e5N3)
 * [Cenário de Simulação Final](https://drive.google.com/open?id=1F1icu9yFEPsMJkxIzrhfgqV3TOgTo5f3)
+
 
 __Provas__
 {: .notice}
