@@ -80,7 +80,7 @@ __Material Complementar__
 
 __Provas__
 {: .notice}
-* __1ª prova (Valor: 4,0):__ 17/04/2019 (quarta-feira).
+* __1ª prova (Valor: 4,0):__ ~~17/04/2019~~ 24/04/2019 (quarta-feira).
 * __2ª prova (Valor: 4,0):__ 12/06/2019 (quarta-feira).
 
 __Bibliografia__
