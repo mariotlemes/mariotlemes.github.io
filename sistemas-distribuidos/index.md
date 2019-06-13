@@ -49,7 +49,7 @@ __Cronograma__
 |---
 | 15 | 19/09/2019 |  __1ª prova avaliativa__  | |
 |---
-| 16 | 20/09/2018 | Discussão, [correção](https://drive.google.com/open?id=1t3Rkfr43SmrGZ9HwkZdZWd1BFkEKtOs0) e entrega da __1ª prova avaliativa__  | |
+| 16 | 20/09/2018 | Discussão, correção e entrega da __1ª prova avaliativa__  | |
 |---
 | 17 |26/09/2018 |  Atividade suspensa - memorando 234/2018/gab/ifg/for |  |
 |---
@@ -73,7 +73,7 @@ __Cronograma__
 |---
 | 26 | 31/10/2018 | __Data da 2ª prova avaliativa__ | |
 |---
-| 27 | 01/11/2018 | Discussão, [correção](https://drive.google.com/open?id=1xTMVP60bYTfrlDZVB0MoS17XGou87Ay5) e entrega da __2ª prova avaliativa__ | |
+| 27 | 01/11/2018 | Discussão, correção e entrega da __2ª prova avaliativa__ | |
 |---
 | 28 | 07/11/2018 |Comunicação indireta - JGroups toolkit | [Aula 10](https://drive.google.com/open?id=1-UvzxStHrkypiJ9b9kkFkUQ4U73STTV8)|
 |---
@@ -92,7 +92,7 @@ __Cronograma__
 |---
 | 36 | 05/12/2018 | __Data da 3ª prova avaliativa__|  |
 |---
-| 37 | 06/12/2018 | Discussão, [correção](https://drive.google.com/open?id=1HZIv6alGQ1NzEt9iMO3_qKI_kVw7c_rC) e entrega da __3ª prova avaliativa__ |  |
+| 37 | 06/12/2018 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
 |---
 | 38 | 12/12/2018 |  Data de apresentação dos trabalhos de programacão ([Sockets](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ) e [Java RMI](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP)) | |
 |---
