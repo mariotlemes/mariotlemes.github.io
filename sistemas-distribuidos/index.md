@@ -18,7 +18,7 @@ __Dados da Disciplina__
   * Quarta-feira (07h00 - 08h30, 08h45 - 10h15 e 10h30 - 12h00).
   * [__Plano de Ensino__]().
 
-__Cronograma__
+__Cronograma (Previsão)__
 {: .notice}
 
 | Aula | Data | Conteúdo | Material |
@@ -96,7 +96,7 @@ __Cronograma__
 | 54 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
-__Trabalhos de Programação__
+__Trabalhos de Programação/Implementação__
 {: .notice}
 * __1º Trabalho de Implementação (Valor: 1,0):__ A definir.
 * __2º Trabalho de Implementação (Valor: 2,5):__ A definir.
