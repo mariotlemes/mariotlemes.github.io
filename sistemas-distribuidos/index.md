@@ -21,80 +21,79 @@ __Dados da Disciplina__
 __Cronograma__
 {: .notice}
 
-| Aula | Data | Conteúdo | Material |
+| Aula | Data | Conteúdo | Material/AVA |
 |:----|:----:|:--------:|--------:|
 | 1 | 07/08/2019 | Apresentação do [plano de ensino]() da disciplina, professor e alunos | [Aula 1]() |
 | 2 | 07/08/2019 | Apresentação do [plano de ensino]() da disciplina, professor e alunos | [Aula 1]() |
 | 3 | 07/08/2019 | Caracterização de SDs: definição de diferentes autores, conceitos-chave e consequências diretas da distribuição | [Aula 2]() |
 |---
-| 4 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. [AVA 1 - Cliente-servidor x P2P]() |  |
-| 5 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. [AVA 1 - Cliente-servidor x P2P]() |  |
+| 4 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. [AVA - Cliente-servidor x P2P]()  | [Upload]() |
+| 5 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. [AVA - Cliente-servidor x P2P]()  | [Upload]() |
 | 6 | 14/08/2019 | Computação distribuída como serviço público: exemplos. A questão da heterogeneidade. Mapa mental sobre caracterização de SDs.| [Aula 3]()
 |---
-| 5 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. |  |
-| 6 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. |  |
-| 7 | 21/08/2019 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4]() |  |
+| 7 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. |  |
+| 8 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. |  |
+| 9 | 21/08/2019 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4]() |  |
 |---
-| 7 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5]()|
-| 8 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5]()|
-| 9 | 28/08/2019 | Comunicação entre processos (*sockets*). Programação com JSockets | [Aula 6]() |
+| 10 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5]()|
+| 11 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5]()|
+| 12 | 28/08/2019 | Comunicação entre processos (*sockets*). Programação com JSockets | [Aula 6]() |
 |---
-| 10 | 04/09/2019 | Aulas destinadas à realização da [AVA 2 - Programação com JSockets]() | [Upload]() |
-| 11 | 04/09/2019 | Aulas destinadas à realização da [AVA 2 - Programação com JSockets]() | [Upload]() |
-| 12 | 04/09/2019 | Programação JSockets (Multicast IP) | [Aula 7]() |
+| 13 | 04/09/2019 | Aulas destinadas à realização da [AVA - Programação com JSockets]() | [Upload]() |
+| 14 | 04/09/2019 | Aulas destinadas à realização da [AVA - Programação com JSockets]() | [Upload]() |
+| 15 | 04/09/2019 | Programação JSockets (Multicast IP) | [Aula 7]() |
 |---
-| 13 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]() | [Upload]() |
-| 14 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]() | [Upload]() |
-| 15 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]()| [Upload]()|
+| 16 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]() | [Upload]() |
+| 17 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]() | [Upload]() |
+| 18 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]()| [Upload]()|
 |---
-| 15 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
-| 16 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
-| 17 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
+| 19 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
+| 20 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
+| 21 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
 |---
-| 18 | 25/09/2019 | Discussão, correção e entrega da __1ª prova avaliativa__  | |
-| 19 | 25/09/2019 | Invocação Remota e Chamada de Procedimento Remoto (RPC) | [Aula 8]() |
-| 20 | 25/09/2019 |[AVA 3 - Estudo de Caso: RPC]()| [Upload]()|
+| 22 | 25/09/2019 | Discussão, correção e entrega da __1ª prova avaliativa__  | |
+| 23 | 25/09/2019 | Invocação Remota e Chamada de Procedimento Remoto (RPC) | [Aula 8]() |
+| 24 | 25/09/2019 |[AVA - Estudo de Caso: RPC]()| [Upload]()|
 |---
-| 20 | 04/10/2018 | [AVA 4 - Programação com RPC](https://www.edmodo.com/post/676313044)| [Upload](https://www.edmodo.com/post/676313044) |
+| 25 | 02/10/2019 | [AVA - Programação com RPC]()| [Upload]() |
+| 26 | 02/10/2019 | Invocação Remota (RMI)| [Aula 9]() |
+| 27 | 02/10/2019 | Invocação Remota (RMI) - Atividade prática de programação| [Upload]()|
 |---
-| 20 | 10/10/2018 | Invocação Remota (RMI)| [Aula 9](https://drive.google.com/open?id=1T1LPaVIt7dk9U657RCbmOwdTjGkk1YAe) |
+| 28 | 09/10/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
+| 29 | 09/10/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
+| 30 | 09/10/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
 |---
-| 21 | 11/10/2018 | Invocação Remota (RMI) - Atividade prática de programação| [Upload](https://www.edmodo.com/post/677678272)|
+| 31 | 16/10/2019 | Discussão, correção e entrega da __2ª prova avaliativa__ | |
+| 32 | 16/10/2019 | Comunicação indireta - JGroups toolkit | [Aula 10]()|
+| 33 | 16/10/2019 | Comunicação indireta - JGroups toolkit | [Aula 10]()|
 |---
-| 22 | 17/10/2018 | Não houve aula| |
+| 34 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11]()
+| 35 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11]()
+| 36 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11]()
 |---
-| 23 | 18/10/2018 | Não houve aula|  |
+| 37 | 30/10/2019 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12]()  |
+| 38 | 30/10/2019 | AVA  - Java Spaces | [Upload]()  |
+| 39 | 30/10/2019 | AVA  - Java Spaces | [Upload]()  |
 |---
-| 24 | 24/10/2018 | Em atividades da [IX Secitec](https://www.ifg.edu.br/index.php/component/content/article?id=10068) |  |
+| 40 | 06/11/2019 | Computação Móvel e Ubíqua | [Aula 13]()|
+| 41 | 06/11/2019 | Computação Móvel e Ubíqua | [Aula 13]()|
+| 42 | 06/11/2019 | Segurança em Sistemas Distribuídos | [Aula 14]() |
 |---
-| 25 | 25/10/2018 | Em atividades da [IX Secitec](https://www.ifg.edu.br/index.php/component/content/article?id=10068) |  |
+| 43 | 13/11/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
+| 44 | 13/11/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
+| 45 | 13/11/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
 |---
-| 26 | 31/10/2018 | __Data da 2ª prova avaliativa__ | |
+| 46 | 20/11/2019 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
+| 47 | 20/11/2019 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
+| 48 | 20/11/2019 | Replicação: aspectos introdutórios [Aula 15] () |  |
 |---
-| 27 | 01/11/2018 | Discussão, correção e entrega da __2ª prova avaliativa__ | |
+| 49 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
+| 50 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
+| 51 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
 |---
-| 28 | 07/11/2018 |Comunicação indireta - JGroups toolkit | [Aula 10](https://drive.google.com/open?id=1-UvzxStHrkypiJ9b9kkFkUQ4U73STTV8)|
-|---
-| 29 | 08/11/2018 |Comunicação indireta - JGroups toolkit | |
-|---
-| 30 | 14/11/2018 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11](https://drive.google.com/open?id=1WdeMk93WWIaGJ0Ev5XI7LxWfVxyLeVce) |
-|---
-| 31 | 15/11/2018 | Recesso - [Proclamação da República](https://pt.wikipedia.org/wiki/Proclamação_da_República_do_Brasil) | |
-|---
-| 32 | 21/11/2018 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12](https://drive.google.com/open?id=1JyrU2DWpZDf7r9-gQ9aOHeWassAGZikj)  |
-| 33 | 22/11/2018 | Atividade de Verificação de Aprendizagem 8 - Java Spaces | [Upload](https://www.edmodo.com/post/681460148)  |
-|---
-| 34 | 28/11/2018 | Computação Móvel e Ubíqua | [Aula 13](https://drive.google.com/open?id=13vkPcns45QYKzlaKzDoTUY4tb93UgLVp)|
-|---
-| 35 | 29/11/2018 |  Segurança em SDs | [Aula 14](https://drive.google.com/open?id=1BKFCveqxSs2eI-huzuMPVYQW3heOJtGW) |
-|---
-| 36 | 05/12/2018 | __Data da 3ª prova avaliativa__|  |
-|---
-| 37 | 06/12/2018 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
-|---
-| 38 | 12/12/2018 |  Data de apresentação dos trabalhos de programacão ([Sockets](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ) e [Java RMI](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP)) | |
-|---
-| 39 | 13/12/2018 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 52 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 53 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 54 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
 __Trabalhos de Programação__
