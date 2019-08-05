@@ -6,6 +6,11 @@ date: 2018-05-18
 comments: false
 ---
 
+### 2019/2: 6º Installfest do IFG - Câmpus Formosa
+* Descrição: O objetivo do Installfest é ajudar os usuários participantes do projeto no processo de instalação e configuração, possibilitando que os mesmos tenham um sistema devidamente configurado em seus computadores. O 6º Installfest do IFG - Câmpus Formosa ocorrerá na X Semana de Educação, Ciência e Tecnologia do IFG - Câmpus Formosa.
+
+* Integrantes: Mario Teixeira Lemes (coordenador).
+
 ### 2018/2: 5º Installfest do IFG - Câmpus Formosa
 * Descrição: O objetivo do Installfest é ajudar os usuários participantes do projeto no processo de instalação e configuração, possibilitando que os mesmos tenham um sistema devidamente configurado em seus computadores. O 5º Installfest do IFG - Câmpus Formosa ocorrerá na IX Semana de Educação, Ciência e Tecnologia do IFG - Câmpus Formosa.
 
