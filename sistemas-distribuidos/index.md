@@ -85,7 +85,7 @@ __Cronograma (Previsão)__
 |---
 | 46 | 20/11/2019 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
 | 47 | 20/11/2019 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
-| 48 | 20/11/2019 | Replicação: Aspectos Introdutórios [Aula 15]() |  |
+| 48 | 20/11/2019 | Replicação: Aspectos Introdutórios  | [Aula 15]()  |
 |---
 | 49 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
 | 50 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
