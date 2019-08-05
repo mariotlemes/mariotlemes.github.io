@@ -21,7 +21,7 @@ __Dados da Disciplina__
 __Cronograma__
 {: .notice}
 
-| Aula | Data | Conteúdo | Material/AVA |
+| Aula | Data | Conteúdo | Material/ |
 |:----|:----:|:--------:|--------:|
 | 1 | 07/08/2019 | Apresentação do [plano de ensino]() da disciplina, professor e alunos | [Aula 1]() |
 | 2 | 07/08/2019 | Apresentação do [plano de ensino]() da disciplina, professor e alunos | [Aula 1]() |
@@ -79,9 +79,9 @@ __Cronograma__
 | 41 | 06/11/2019 | Computação Móvel e Ubíqua | [Aula 13]()|
 | 42 | 06/11/2019 | Segurança em Sistemas Distribuídos | [Aula 14]() |
 |---
-| 43 | 13/11/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
-| 44 | 13/11/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
-| 45 | 13/11/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
+| 43 | 13/11/2019 | Aula destinada à realização da __3ª prova avaliativa__  | |
+| 44 | 13/11/2019 | Aula destinada à realização da __3ª prova avaliativa__  | |
+| 45 | 13/11/2019 | Aula destinada à realização da __3ª prova avaliativa__  | |
 |---
 | 46 | 20/11/2019 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
 | 47 | 20/11/2019 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
@@ -98,15 +98,15 @@ __Cronograma__
 
 __Trabalhos de Programação__
 {: .notice}
-* __1º Trabalho de Programação (Valor: 1,0):__ (Entrega até 25/09/2018) [Sistema Distribuído de Correção de Provas (*Sockets*)](https://drive.google.com/open?id=12ysvdglZ6GJ_QS8ellVPpE2kflpi2sSJ)
-* __2º Trabalho de Programação (Valor: 2,0):__ (Entrega até ~~06/11/2018~~ 20/11/2018) [Chat Distribuído com Java RMI ](https://drive.google.com/open?id=1wjrWRzfw84-jcF58tWPPLMnLaj9D0yQP)
-* __Atividades de Verificação de Aprendizagem (Valor: 2,0)__
+* __1º Trabalho de Implementação (Valor: 1,0):__ A definir.
+* __2º Trabalho de Implementação (Valor: 2,5):__ A definir.
+* __Atividades de Verificação de Aprendizagem (Valor: 0,5)__
 
 __Provas__
 {: .notice}
-* __1ª prova (Valor: 1,0):__ 19/09/2018 (quarta-feira), 8h45 (pontualmente).
-* __2ª prova (Valor: 1,5):__ 31/10/2018 (quarta-feira), 8h45 (pontualmente).
-* __3ª prova (Valor: 2,5):__ 05/12/2018 (quarta-feira), 8h45 (pontualmente).
+* __1ª prova (Valor: 1,0):__ 18/09/2019 (quarta-feira), 07h30 (pontualmente).
+* __2ª prova (Valor: 1,5):__ 09/10/2019 (quarta-feira), 07h30 (pontualmente).
+* __3ª prova (Valor: 2,5):__ 20/11/2018 (quarta-feira), 07h30 (pontualmente).
 
 __Material complementar__
 {: .notice}
