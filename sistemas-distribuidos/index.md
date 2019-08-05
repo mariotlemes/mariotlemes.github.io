@@ -16,16 +16,16 @@ __Dados da Disciplina__
 * __Carga-horária__: 81h (108h/a).
 * __Horário das aulas__:
   * Quarta-feira (07h00 - 08h30, 08h45 - 10h15 e 10h30 - 12h00).
-  * [__Ver Plano de Ensino__]().
+  * [__Plano de Ensino__]().
 
 __Cronograma__
 {: .notice}
 
-| Aula | Data | Conteúdo | Material/ |
+| Aula | Data | Conteúdo | Material |
 |:----|:----:|:--------:|--------:|
-| 1 | 07/08/2019 | Apresentação do [plano de ensino]() da disciplina, professor e alunos | [Aula 1]() |
-| 2 | 07/08/2019 | Apresentação do [plano de ensino]() da disciplina, professor e alunos | [Aula 1]() |
-| 3 | 07/08/2019 | Caracterização de SDs: definição de diferentes autores, conceitos-chave e consequências diretas da distribuição | [Aula 2]() |
+| 1 | 07/08/2019 | Apresentação do [__plano de ensino__](https://drive.google.com/open?id=1pb183zFtLmTFhrDi_Df0MKKU8zIlR_W5) da disciplina, professor e alunos | [__Aula 1__](https://drive.google.com/open?id=1kYullsNmh6fQSBHBDCPCcvbIKSe1YUPj) |
+| 2 | 07/08/2019 | Apresentação do plano de ensino da disciplina, professor e alunos | |
+| 3 | 07/08/2019 | Caracterização de SDs: definição de diferentes autores, conceitos-chave e consequências diretas da distribuição | [__Aula 2__](https://drive.google.com/open?id=1E5JflWjjq9gYL2oQ9XZIqsh5ig8BHoTv) |
 |---
 | 4 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. [AVA - Cliente-servidor x P2P]()  | [Upload]() |
 | 5 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. [AVA - Cliente-servidor x P2P]()  | [Upload]() |
