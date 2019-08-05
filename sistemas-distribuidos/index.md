@@ -12,7 +12,7 @@ __Dados da Disciplina__
 * __Professor__: M. Sc. Mario Teixeira Lemes.
 * __Turno__: Matutino.
 * __Período__: 4º.
-* __Semestre__: 2018/2.
+* __Semestre__: 2019/2.
 * __Carga-horária__: 81h (108h/a).
 * __Horário das aulas__:
   * Quarta-feira (08h45 - 10h15 e 10h30 - 12h00).
