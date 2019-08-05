@@ -6,6 +6,10 @@ date: 2018-05-18
 comments: false
 ---
 
+## 2019/2 - Instituto Federal de Goiás - Câmpus Formosa
+* Sistemas Distribuídos (Tecnologia em Análise e Desenvolvimento de Sistemas).
+* Organização e Manutenção de Computadores II (Proeja - Informática).
+
 ## 2019/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Administração de Serviços para Internet (Tecnologia em Análise e Desenvolvimento de Sistemas)
 * Trabalho de Conclusão de Curso II (Tecnologia em Análise e Desenvolvimento de Sistemas)
