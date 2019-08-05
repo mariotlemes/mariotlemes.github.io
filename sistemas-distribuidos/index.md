@@ -28,7 +28,7 @@ __Cronograma__
 | 3 | 07/08/2019 | Caracterização de SDs: definição de diferentes autores, conceitos-chave e consequências diretas da distribuição | [__Aula 2__](https://drive.google.com/open?id=1E5JflWjjq9gYL2oQ9XZIqsh5ig8BHoTv) |
 |---
 | 4 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. [AVA - Cliente-servidor x P2P]()  | [Upload]() |
-| 5 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. [AVA - Cliente-servidor x P2P]()  | [Upload]() |
+| 5 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas. AVA - Cliente-servidor x P2P | |
 | 6 | 14/08/2019 | Computação distribuída como serviço público: exemplos. A questão da heterogeneidade. Mapa mental sobre caracterização de SDs.| [Aula 3]()
 |---
 | 7 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. |  |
@@ -36,16 +36,16 @@ __Cronograma__
 | 9 | 21/08/2019 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4]() |  |
 |---
 | 10 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5]()|
-| 11 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5]()|
+| 11 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | |
 | 12 | 28/08/2019 | Comunicação entre processos (*sockets*). Programação com JSockets | [Aula 6]() |
 |---
 | 13 | 04/09/2019 | Aulas destinadas à realização da [AVA - Programação com JSockets]() | [Upload]() |
-| 14 | 04/09/2019 | Aulas destinadas à realização da [AVA - Programação com JSockets]() | [Upload]() |
+| 14 | 04/09/2019 | Aulas destinadas à realização da AVA - Programação com JSockets |  |
 | 15 | 04/09/2019 | Programação JSockets (Multicast IP) | [Aula 7]() |
 |---
 | 16 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]() | [Upload]() |
-| 17 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]() | [Upload]() |
-| 18 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]()| [Upload]()|
+| 17 | 11/09/2019 | Aula destinada à realização do 1º Trabalho de Programação |  |
+| 18 | 11/09/2019 | Aula destinada à realização do 1º Trabalho de Programação| |
 |---
 | 19 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
 | 20 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
@@ -65,18 +65,18 @@ __Cronograma__
 |---
 | 31 | 16/10/2019 | Discussão, correção e entrega da __2ª prova avaliativa__ | |
 | 32 | 16/10/2019 | Comunicação indireta - JGroups toolkit | [Aula 10]()|
-| 33 | 16/10/2019 | Comunicação indireta - JGroups toolkit | [Aula 10]()|
+| 33 | 16/10/2019 | Comunicação indireta - JGroups toolkit | |
 |---
-| 34 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11]()
-| 35 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11]()
-| 36 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| [Aula 11]()
+| 34 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens|[Aula 11]() |
+| 35 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| |
+| 36 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| |
 |---
 | 37 | 30/10/2019 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12]()  |
 | 38 | 30/10/2019 | AVA  - Java Spaces | [Upload]()  |
-| 39 | 30/10/2019 | AVA  - Java Spaces | [Upload]()  |
+| 39 | 30/10/2019 | AVA  - Java Spaces | |
 |---
 | 40 | 06/11/2019 | Computação Móvel e Ubíqua | [Aula 13]()|
-| 41 | 06/11/2019 | Computação Móvel e Ubíqua | [Aula 13]()|
+| 41 | 06/11/2019 | Computação Móvel e Ubíqua | |
 | 42 | 06/11/2019 | Segurança em Sistemas Distribuídos | [Aula 14]() |
 |---
 | 43 | 13/11/2019 | Aula destinada à realização da __3ª prova avaliativa__  | |
