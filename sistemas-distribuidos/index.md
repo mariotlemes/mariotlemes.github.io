@@ -28,10 +28,10 @@ __Cronograma (Previsão)__
 | 3 | 07/08/2019 | Caracterização de SDs: definição de diferentes autores, conceitos-chave e consequências diretas da distribuição | [__Aula 2__](https://drive.google.com/open?id=1E5JflWjjq9gYL2oQ9XZIqsh5ig8BHoTv) |
 |---
 | 4 | 14/08/2019 | Caracterização de SDs: motivação, exemplos e tendências modernas.|  |
-| 5 | 14/08/2019 | Computação distribuída como serviço público: exemplos. A questão da heterogeneidade. [Mapa mental sobre caracterização de SDs](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing). | [__Aula 3__](https://drive.google.com/file/d/1enF4zot_v4abKDvXU4tQURK5xTMoiYUj/view?usp=sharing) |
+| 5 | 14/08/2019 | Computação distribuída como serviço público: exemplos. A questão da heterogeneidade. [Mapa mental sobre caracterização de SDs](https://drive.google.com/file/d/15UHVhsu4VIFYCaCASHQobzTAid0IEz8q/view?usp=sharing). |  |
 | 6 | 14/08/2019 | AVA 1 - Lista de Exercícios sobre Caracterização de SDs | [__Upload__](https://new.edmodo.com/assignment/assignment:43375387:43470043)  |
 |---
-| 7 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. |  |
+| 7 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. | [__Aula 3__](https://drive.google.com/file/d/1enF4zot_v4abKDvXU4tQURK5xTMoiYUj/view?usp=sharing) |
 | 8 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. |  |
 | 9 | 21/08/2019 |  Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [Aula 4]() |  |
 |---
