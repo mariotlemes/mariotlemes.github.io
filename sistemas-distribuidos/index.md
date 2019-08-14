@@ -100,7 +100,7 @@ __Trabalhos de Programação/Implementação__
 {: .notice}
 * __1º Trabalho de Implementação (Valor: 1,0):__ A definir.
 * __2º Trabalho de Implementação (Valor: 2,5):__ A definir.
-* __Atividades de Verificação de Aprendizagem (Valor: 0,5)__
+* __Atividades de Verificação de Aprendizagem (Valor: 0,5)__.
 
 __Provas__
 {: .notice}
