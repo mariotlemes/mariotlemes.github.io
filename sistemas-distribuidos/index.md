@@ -33,7 +33,7 @@ __Cronograma (Previsão)__
 |---
 | 7 | 21/08/2019 | Características de SDs: heterogeneidade (continuação). Conceitos relacionados. Principais desafios. Introdução ao *middleware*. | [__Aula 3__](https://drive.google.com/file/d/1enF4zot_v4abKDvXU4tQURK5xTMoiYUj/view?usp=sharing) |
 | 8 | 21/08/2019 | Modelos de Sistema: Modelo Físico e Paradigmas de Comunicação | [__Aula 4__](https://drive.google.com/open?id=1CQNn57desgvp1JvJGqajaJxlTJjAMt1S) |
-| 9 | 21/08/2019 |   |  |
+| 9 | 21/08/2019 | AVA 2 - Arquitetura Cliente-Servidor x Peer-to-Peer   | [__Upload__](https://new.edmodo.com/assignment/assignment:43402844:43470043)  |
 |---
 | 10 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [Aula 5]()|
 | 11 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | |
