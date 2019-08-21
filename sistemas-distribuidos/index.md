@@ -16,7 +16,7 @@ __Dados da Disciplina__
 * __Carga-horária__: 81h (108h/a).
 * __Horário das aulas__:
   * Quarta-feira (07h00 - 08h30, 08h45 - 10h15 e 10h30 - 12h00).
-  * [__Plano de Ensino__]().
+  * [__Plano de Ensino__](https://drive.google.com/open?id=1pb183zFtLmTFhrDi_Df0MKKU8zIlR_W5).
 
 __Cronograma (Previsão)__
 {: .notice}
