@@ -37,10 +37,10 @@ __Cronograma (Previsão)__
 |---
 | 10 | 28/08/2019 | Modelos de Sistema: Modelo Arquitetural e Modelo Fundamental | [__Aula 5__](https://drive.google.com/open?id=1VA7c9U4V6ofVya0fyPoXzFPkWHbGTZ8N)|
 | 11 | 28/08/2019 | Comunicação entre processos (*sockets*). Programação com JSockets | [__Aula 6__](https://drive.google.com/open?id=1JKDfGG_6EfKxQ_oD7g1BdjIGPEPkmxlv)  |
-| 12 | 28/08/2019 | AVA 3 - Programação com JSockets  | [Upload]()|
+| 12 | 28/08/2019 | AVA 3 - Programação com JSockets  | |
 |---
 | 13 | 04/09/2019 | |  |
-| 14 | 04/09/2019 | Aulas destinadas à realização da AVA 3 - Programação com JSockets|  |
+| 14 | 04/09/2019 | Aulas destinadas à realização da AVA 3 - Programação com JSockets| [Upload]()  |
 | 15 | 04/09/2019 |  | |
 |---
 | 16 | 11/09/2019 | Programação JSockets (Multicast IP) | [Upload]() |
