@@ -39,11 +39,11 @@ __Cronograma (Previsão)__
 | 11 | 28/08/2019 | Comunicação entre processos (*sockets*). Programação com JSockets | [__Aula 6__](https://drive.google.com/open?id=1JKDfGG_6EfKxQ_oD7g1BdjIGPEPkmxlv)  |
 | 12 | 28/08/2019 | AVA 3 - Programação com JSockets  | [Upload]()|
 |---
-| 13 | 04/09/2019 | Aulas destinadas à realização da [AVA 3 - Programação com JSockets]() |  |
-| 14 | 04/09/2019 | Aulas destinadas à realização da AVA - Programação com JSockets |  |
-| 15 | 04/09/2019 | Programação JSockets (Multicast IP) | [Aula 7]() |
+| 13 | 04/09/2019 | |  |
+| 14 | 04/09/2019 | Aulas destinadas à realização da AVA 3 - Programação com JSockets|  |
+| 15 | 04/09/2019 |  | |
 |---
-| 16 | 11/09/2019 | Aula destinada à realização do [1º Trabalho de Programação]() | [Upload]() |
+| 16 | 11/09/2019 | Programação JSockets (Multicast IP) | [Upload]() |
 | 17 | 11/09/2019 | Aula destinada à realização do 1º Trabalho de Programação |  |
 | 18 | 11/09/2019 | Aula destinada à realização do 1º Trabalho de Programação| |
 |---
