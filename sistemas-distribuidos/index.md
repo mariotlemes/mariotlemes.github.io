@@ -43,9 +43,9 @@ __Cronograma (Previsão)__
 | 14 | 04/09/2019 | Aulas destinadas à realização da [AVA 3 - Programação com JSockets](https://new.edmodo.com/assignment/assignment:43582343:43470043)|   |
 | 15 | 04/09/2019 |  | |
 |---
-| 16 | 11/09/2019 | Programação JSockets (Multicast IP) | [Upload]() |
-| 17 | 11/09/2019 | Aula destinada à realização do 1º Trabalho de Programação |  |
-| 18 | 11/09/2019 | Aula destinada à realização do 1º Trabalho de Programação| |
+| 16 | 11/09/2019 | Programação JSockets (Multicast IP) | [__Aula 07__](https://drive.google.com/open?id=1KweOoL-bLdj25gjU1S_fiBH_H-ZHME8H) |
+| 17 | 11/09/2019 | Aula destinada à realização do [__1º Trabalho de Programação__](https://drive.google.com/open?id=1b3OtJxM4fgArDGp4xb3EVlOAj_6mn0PV) |  |
+| 18 | 11/09/2019 | Aula destinada à realização do [__1º Trabalho de Programação__](https://drive.google.com/open?id=1b3OtJxM4fgArDGp4xb3EVlOAj_6mn0PV)| |
 |---
 | 19 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
 | 20 | 18/09/2019 |  Aula destinada à realização da __1ª prova avaliativa__  | |
@@ -98,7 +98,7 @@ __Cronograma (Previsão)__
 
 __Trabalhos de Programação/Implementação__
 {: .notice}
-* __1º Trabalho de Implementação (Valor: 1,0):__ A definir.
+* __1º Trabalho de Implementação (Valor: 1,0):__ [Sistema Distribuído de Correção de Provas](https://drive.google.com/open?id=1b3OtJxM4fgArDGp4xb3EVlOAj_6mn0PV) Entrega até: 24/09/2019 (23h59).
 * __2º Trabalho de Implementação (Valor: 2,5):__ A definir.
 * __Atividades de Verificação de Aprendizagem (Valor: 0,5)__.
 
