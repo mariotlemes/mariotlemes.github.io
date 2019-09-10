@@ -104,9 +104,9 @@ __Trabalhos de Programação/Implementação__
 
 __Provas__
 {: .notice}
-* __1ª prova (Valor: 1,0):__ 18/09/2019 (quarta-feira), 07h30 (pontualmente).
-* __2ª prova (Valor: 2,0):__ 09/10/2019 (quarta-feira), 07h30 (pontualmente).
-* __3ª prova (Valor: 3,0):__ 20/11/2018 (quarta-feira), 07h30 (pontualmente).
+* __1ª prova (Valor: 1,0):__ 18/09/2019 (quarta-feira) - 08h00 às 12h00.
+* __2ª prova (Valor: 2,0):__ 09/10/2019 (quarta-feira).
+* __3ª prova (Valor: 3,0):__ 20/11/2018 (quarta-feira).
 
 __Material complementar__
 {: .notice}
