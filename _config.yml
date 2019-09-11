@@ -1,7 +1,7 @@
 # Site
 title:              Mario Teixeira Lemes
 bio:                Instituto Federal de Goiás - IFG
-description:        Professor EBTT
+description:        Site do Professor 
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,7 +38,7 @@ disqus_shortname:   mariotlemes
   #ad-client:
   #ad-slot:
 #bing-verify:
-email: 		          mariolpu@gmail.com
+email: 		          mario.lemes@ifg.edu.br
 #twitter:           username
 #facebook:           mariolpu
 github-url:         mariotlemes
