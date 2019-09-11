@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Introdução a Infraestrutura de Chaves Públicas e Aplicações
+title: Pós-Graduação Lato Sensu em Segurança em Redes e Sistemas
 #tags: [, Jekyll, theme, moon]
 date: 2019-02-13
 comments: false
 ---
-__Dados da Disciplina__
+__Dados Importantes__
 {: .notice}
 
-* __Curso__: [Pós-Graduação Lato Sensu em Segurança em Redes e Sistemas](http://www.inf.ufg.br/espseguranca/).
+* __Disciplina__: Introdução a Infraestrutura de Chaves Públicas e Aplicações.
 * __Professor__: M. Sc. Mario Teixeira Lemes.
 * __Semestre__: 2019/2.
 * __Carga-horária__: 15 Horas.
