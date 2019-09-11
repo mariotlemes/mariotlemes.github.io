@@ -6,7 +6,7 @@ date: 2018-05-18
 comments: false
 ---
 ## 2019/2 - Universidade Federal de Goiás
-* Introdução a Infraestrutura de Chaves  Públicas e Aplicações (Especialização em Segurança em Redes e Sistemas).
+* Introdução a Infraestrutura de Chaves  Públicas e Aplicações (Pós-Graduação Lato Sensu em Segurança em Redes e Sistemas).
 
 ## 2019/2 - Instituto Federal de Goiás - Câmpus Formosa
 * Sistemas Distribuídos (Tecnologia em Análise e Desenvolvimento de Sistemas).
