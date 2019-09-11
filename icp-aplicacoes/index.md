@@ -8,7 +8,7 @@ comments: false
 __Dados da Disciplina__
 {: .notice}
 
-* __Curso__: Pós-Graduação Lato Sensu em Segurança em Redes e Sistemas.
+* __Curso__: [Pós-Graduação Lato Sensu em Segurança em Redes e Sistemas](http://www.inf.ufg.br/espseguranca/).
 * __Professor__: M. Sc. Mario Teixeira Lemes.
 * __Semestre__: 2019/2.
 * __Carga-horária__: 15 Horas.
