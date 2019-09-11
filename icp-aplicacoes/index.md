@@ -19,12 +19,11 @@ __Dados da Disciplina__
 __Cronograma/Slides__
 {: .notice}
 
-| Aula | Data | Material |
-|:----|:----:||:--------:|
-| 1 | 05/10/2019 | [Download]() |
-|---
-| 2 | 19/10/2019 | [Download]() |
-|---
+| Aula   |      Data      |  Material |
+|:----------:|:-------------:|:------:|
+| 1 | 05/10/2019 | [Aula 1]() |
+| 2 | 19/10/2019 | [Aula 2]() |
+
 
 {: rules="groups"}
 
