@@ -12,5 +12,5 @@ Previsão (2019/1-2019/2).
 * Lucas Alves da Costa. __Sistema de Controle de Iluminação e Irrigação
 para Estádios de Futebol Utilizando Arduino__. Previsão (2019/1-2019/2).
 
-* Lucas Haiaiel Araújo Zacarias. __Sistema de Controle de Temperatura, Luminosidade e Umidade para Ambientes de Cultivo Protegido Utilizando NodeMCU e MQTT__. Início: 2019.
+* Lucas Haiaiel Araújo Zacarias. __Sistema de Controle de Temperatura, Luminosidade e Umidade para Ambientes de Cultivo Protegido Utilizando NodeMCU e MQTT__. 
 Previsão (2019/1-2019/2).
