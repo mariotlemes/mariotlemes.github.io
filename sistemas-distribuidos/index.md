@@ -53,7 +53,7 @@ __Cronograma (Previsão)__
 |---
 | 22 | 25/09/2019 | Discussão, [__correção__](https://drive.google.com/open?id=1zvjX2it_4pc1NLqCBwFXqkPIZL2iN4_z) e entrega da __1ª prova avaliativa__  | |
 | 23 | 25/09/2019 | Invocação Remota e Chamada de Procedimento Remoto (RPC) | [__Aula 8__](https://drive.google.com/file/d/1GYsK6mubRQ9eXz7Ay0ZYyAHIMJQyYZXd/view?usp=sharing) |
-| 24 | 25/09/2019 |[AVA - Programação com RPC]| |
+| 24 | 25/09/2019 |AVA - Programação com RPC| |
 |---
 | 25 | 02/10/2019 | [AVA - Programação com RPC]()| [Upload]() |
 | 26 | 02/10/2019 | Invocação Remota (RMI)| [Aula 9]() |
