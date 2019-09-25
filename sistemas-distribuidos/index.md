@@ -98,7 +98,7 @@ __Cronograma (Previsão)__
 
 __Trabalhos de Programação/Implementação__
 {: .notice}
-* __1º Trabalho de Implementação (Valor: 1,0):__ [Sistema Distribuído de Correção de Provas](https://drive.google.com/open?id=1b3OtJxM4fgArDGp4xb3EVlOAj_6mn0PV) Entrega até: ~~24/09/2019~~ 25/09/2019 (23h59).
+* __1º Trabalho de Implementação (Valor: 1,0):__ [Sistema Distribuído de Correção de Provas](https://drive.google.com/open?id=1b3OtJxM4fgArDGp4xb3EVlOAj_6mn0PV). Entrega até: ~~24/09/2019~~ 25/09/2019 (23h59).
 * __2º Trabalho de Implementação (Valor: 2,5):__ A definir.
 * __Atividades de Verificação de Aprendizagem (Valor: 0,5)__.
 
