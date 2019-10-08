@@ -55,43 +55,43 @@ __Cronograma (Previsão)__
 | 23 | 25/09/2019 | Invocação Remota e Chamada de Procedimento Remoto (RPC) | [__Aula 8__](https://drive.google.com/file/d/1Oo0ndN_vmEYP_OP0GC_IjATljyoJuizp/view?usp=sharing) |
 | 24 | 25/09/2019 |AVA - Programação com RPC| |
 |---
-| 25 | 02/10/2019 | [AVA - Programação com RPC]()| [Upload]() |
-| 26 | 02/10/2019 | Invocação Remota (RMI)| [Aula 9]() |
-| 27 | 02/10/2019 | Invocação Remota (RMI) - Atividade prática de programação| [Upload]()|
+| 25 | 02/10/2019 | Não houve aula - Paralisação| |
+| 26 | 02/10/2019 | Não houve aula - Paralisação | |
+| 27 | 02/10/2019 | Não houve aula - Paralisação | |
 |---
-| 28 | 09/10/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
-| 29 | 09/10/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
-| 30 | 09/10/2019 | Aula destinada à realização da __2ª prova avaliativa__  | |
+| 28 | 09/10/2019 | Invocação Remota (RMI)  | [Aula 9]()|
+| 29 | 09/10/2019 | Invocação Remota (RMI)  | |
+| 30 | 09/10/2019 | AVA - Programação com RMI | |
 |---
-| 31 | 16/10/2019 | Discussão, correção e entrega da __2ª prova avaliativa__ | |
-| 32 | 16/10/2019 | Comunicação indireta - JGroups toolkit | [Aula 10]()|
-| 33 | 16/10/2019 | Comunicação indireta - JGroups toolkit | |
+| 31 | 16/10/2019 | Comunicação indereta - JGroups toolkit | |
+| 32 | 16/10/2019 | Comunicação indereta - JGroups toolkit |
+| 33 | 16/10/2019 | AVA - Programação com JGroups| |
 |---
-| 34 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens|[Aula 11]() |
-| 35 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| |
-| 36 | 23/10/2019 |Comunicação indireta - sistemas publicar-assinar e fila de mensagens| |
+| 34 | 23/10/2019 | Em atividades da X [SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart)  | |
+| 35 | 23/10/2019 | Em atividades da [X SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart) | |
+| 36 | 23/10/2019 | Em atividades da [X SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart) | |
 |---
-| 37 | 30/10/2019 | Comunicação indireta - Memória compartilhada e espaço de tuplas| [Aula 12]()  |
-| 38 | 30/10/2019 | AVA  - Java Spaces | [Upload]()  |
-| 39 | 30/10/2019 | AVA  - Java Spaces | |
+| 37 | 30/10/2019 | __2ª prova avaliativa__|  |
+| 38 | 30/10/2019 | __2ª prova avaliativa__ |  |
+| 39 | 30/10/2019 | __2ª prova avaliativa__ | |
 |---
-| 40 | 06/11/2019 | Computação Móvel e Ubíqua | [Aula 13]()|
-| 41 | 06/11/2019 | Computação Móvel e Ubíqua | |
-| 42 | 06/11/2019 | Segurança em Sistemas Distribuídos | [Aula 14]() |
+| 40 | 06/11/2019 | Correção, discussão e entrega da __2ª prova avaliativa__ | |
+| 41 | 06/11/2019 | Comunicação indireta - JGroups toolkit | |
+| 42 | 06/11/2019 | AVA - Programação - JGroups toolkit  |  |
 |---
-| 43 | 13/11/2019 | Aula destinada à realização da __3ª prova avaliativa__  | |
-| 44 | 13/11/2019 | Aula destinada à realização da __3ª prova avaliativa__  | |
-| 45 | 13/11/2019 | Aula destinada à realização da __3ª prova avaliativa__  | |
+| 43 | 13/11/2019 | Comunicação indireta - sistemas publicar-assinar e fila de mensagens | |
+| 44 | 13/11/2019 | Comunicação indireta - Memória compartilhada e espaço de tuplas | |
+| 45 | 13/11/2019 |AVA - Java Spaces | |
 |---
-| 46 | 20/11/2019 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
-| 47 | 20/11/2019 | Discussão, correção e entrega da __3ª prova avaliativa__ |  |
-| 48 | 20/11/2019 | Replicação: Aspectos Introdutórios  | [Aula 15]()  |
+| 46 | 20/11/2019 | Computação Móvel e Ubíqua   |  |
+| 47 | 20/11/2019 | Segurança em SDs |  |
+| 48 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ | |
 |---
-| 49 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
-| 50 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
+| 49 | 27/11/2019 | __3ª prova avaliativa__ |  |
+| 50 | 27/11/2019 |  __3ª prova avaliativa__ |  |
 | 51 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
 |---
-| 52 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 52 | 05/12/2019 | Correção, discussão e entrega da __3ª prova avaliativa__| |
 | 53 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
 | 54 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
