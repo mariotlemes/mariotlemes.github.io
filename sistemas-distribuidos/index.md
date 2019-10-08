@@ -63,8 +63,8 @@ __Cronograma (Previsão)__
 | 29 | 09/10/2019 | Invocação Remota (RMI)  | |
 | 30 | 09/10/2019 | AVA - Programação com RMI | |
 |---
-| 31 | 16/10/2019 | Comunicação indereta - JGroups toolkit | |
-| 32 | 16/10/2019 | Comunicação indereta - JGroups toolkit |
+| 31 | 16/10/2019 | Comunicação indireta - JGroups toolkit | |
+| 32 | 16/10/2019 | Comunicação indireta - JGroups toolkit |
 | 33 | 16/10/2019 | AVA - Programação com JGroups| |
 |---
 | 34 | 23/10/2019 | Em atividades da X [SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart)  | |
@@ -106,7 +106,7 @@ __Provas__
 {: .notice}
 * __1ª prova (Valor: 1,0):__ 18/09/2019 (quarta-feira) - 08h00 às 12h00.
 * __2ª prova (Valor: 2,0):__ 30/10/2019 (quarta-feira) - 08h00 às 12h00.
-* __3ª prova (Valor: 3,0):__ 27/11/2018 (quarta-feira) - 07h30 às 10h30
+* __3ª prova (Valor: 3,0):__ 27/11/2019 (quarta-feira) - 07h30 às 10h30
 
 __Material complementar__
 {: .notice}
