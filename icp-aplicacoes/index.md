@@ -13,8 +13,8 @@ __Dados Importantes__
 * __Semestre__: 2019/2.
 * __Carga-horária__: 15 Horas.
 * __Horário das aulas__:
-  * Aula 1: 05/10/2019 (08h00 - 12h00 e 14h00 - 18h00).
-  * Aula 2: 19/10/2019 (08h00 - 12h00 e 14h00 - 18h00).
+  * Aula 1: 19/10/2019 (08h00 - 12h00 e 14h00 - 18h00).
+  * Aula 2: 02/11/2019 (08h00 - 12h00 e 14h00 - 18h00).
 
 __Cronograma/Slides__
 {: .notice}
