@@ -21,15 +21,15 @@ __Cronograma/Slides__
 
 | Aula   |      Data      |  Material |
 |:----------:|:-------------:|:------:|
-| 1 | 05/10/2019 | [Aula 1]() |
-| 2 | 19/10/2019 | [Aula 2]() |
+| 1 | 19/10/2019 | [Aula 1](https://drive.google.com/open?id=1dWtK1oWkNNXXkj2gBG8QgimYLvu52-l3) |
+| 2 | 02/11/2019 | [Aula 2]() |
 
 
 {: rules="groups"}
 
 __Práticas de Laboratório__
 {: .notice}
-* [Prática 1]()
+* [Prática 1 - Fundamentos da Criptografia](https://drive.google.com/open?id=15IvsF6XB1wuow3mbzms6eYgZX-WpKaDj)
 * [Prática 2]()
 * [Prática 3]()
 * [Prática 4]()
