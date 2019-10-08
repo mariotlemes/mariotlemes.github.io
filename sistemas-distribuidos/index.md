@@ -91,9 +91,9 @@ __Cronograma (Previsão)__
 | 50 | 27/11/2019 |  __3ª prova avaliativa__ |  |
 | 51 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
 |---
-| 52 | 05/12/2019 | Correção, discussão e entrega da __3ª prova avaliativa__| |
-| 53 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
-| 54 | 05/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 52 | 04/12/2019 | Correção, discussão e entrega da __3ª prova avaliativa__| |
+| 53 | 04/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 54 | 04/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
 __Trabalhos de Programação/Implementação__
