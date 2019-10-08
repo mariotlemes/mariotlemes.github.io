@@ -59,7 +59,7 @@ __Cronograma (Previsão)__
 | 26 | 02/10/2019 | Não houve aula - Paralisação | |
 | 27 | 02/10/2019 | Não houve aula - Paralisação | |
 |---
-| 28 | 09/10/2019 | Invocação Remota (RMI)  | [Aula 9]()|
+| 28 | 09/10/2019 | Invocação Remota (RMI)  | [Aula 9](https://drive.google.com/open?id=1pOOMFQmI9Vn0zuL-LLM4XFy489eZZuup)|
 | 29 | 09/10/2019 | Invocação Remota (RMI)  | |
 | 30 | 09/10/2019 | AVA - Programação com RMI | |
 |---
@@ -99,14 +99,14 @@ __Cronograma (Previsão)__
 __Trabalhos de Programação/Implementação__
 {: .notice}
 * __1º Trabalho de Implementação (Valor: 1,0):__ [Sistema Distribuído de Correção de Provas](https://drive.google.com/open?id=1b3OtJxM4fgArDGp4xb3EVlOAj_6mn0PV). Entrega até: ~~24/09/2019~~ 25/09/2019 (23h59).
-* __2º Trabalho de Implementação (Valor: 2,5):__ A definir.
+* __2º Trabalho de Implementação (Valor: 2,5):__ [Chat distribuído com Java RMI](https://drive.google.com/open?id=1dWtK1oWkNNXXkj2gBG8QgimYLvu52-l3). Entrega até 24/11/2019 (23h59)
 * __Atividades de Verificação de Aprendizagem (Valor: 0,5)__.
 
 __Provas__
 {: .notice}
 * __1ª prova (Valor: 1,0):__ 18/09/2019 (quarta-feira) - 08h00 às 12h00.
-* __2ª prova (Valor: 2,0):__ 09/10/2019 (quarta-feira).
-* __3ª prova (Valor: 3,0):__ 20/11/2018 (quarta-feira).
+* __2ª prova (Valor: 2,0):__ 30/10/2019 (quarta-feira) - 08h00 às 12h00.
+* __3ª prova (Valor: 3,0):__ 27/11/2018 (quarta-feira) - 07h30 às 10h30
 
 __Material complementar__
 {: .notice}
