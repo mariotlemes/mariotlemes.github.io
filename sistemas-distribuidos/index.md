@@ -60,8 +60,8 @@ __Cronograma (Previsão)__
 | 27 | 02/10/2019 | Não houve aula - Paralisação | |
 |---
 | 28 | 09/10/2019 | Invocação Remota (RMI)  | [__Aula 9__](https://drive.google.com/open?id=1pOOMFQmI9Vn0zuL-LLM4XFy489eZZuup)|
-| 29 | 09/10/2019 | Invocação Remota (RMI)  | |
-| 30 | 09/10/2019 | AVA - Programação com RMI | |
+| 29 | 09/10/2019 | AVA - Programação com RMI   | |
+| 30 | 09/10/2019 | 2o Trabalho de Implementação - Conhecendo o projeto| |
 |---
 | 31 | 16/10/2019 | Comunicação indireta - JGroups toolkit | |
 | 32 | 16/10/2019 | Comunicação indireta - JGroups toolkit |
