@@ -31,7 +31,7 @@ __Práticas de Laboratório__
 {: .notice}
 * [Prática 1 - __Fundamentos de Criptografia__](https://drive.google.com/open?id=15IvsF6XB1wuow3mbzms6eYgZX-WpKaDj)
 * [Prática 2 - __Fundamentos da Assinatura Digital__](https://drive.google.com/open?id=18akKdYRNGPm4rACEAg5RTUijf2i6wmzc)
-* [Prática 3 - __Geração de chaves com GPG/GnuPG__](https://drive.google.com/open?id=10opw1rwt0ZKH674-ZG--vOoFCV7IJMzz)
+* [Prática 3 - __Geração de chaves com GPG/GnuPG__](https://drive.google.com/open?id=1yvKxvOlSTMkTXN1TU_Ir_HdnZbwkpCFe)
 * [Prática 4 - __Servidor Web Seguro__](https://drive.google.com/open?id=1MaaRWtPyRXXz5dx-HF0-aeS3o-FvzhAV)
 
 
