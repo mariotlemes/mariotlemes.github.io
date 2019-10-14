@@ -16,7 +16,7 @@ __Dados Importantes__
   * Aula 1: 19/10/2019 (08h00 - 12h00 e 14h00 - 18h00).
   * Aula 2: 02/11/2019 (08h00 - 12h00 e 14h00 - 18h00).
 
-__Cronograma/Slides__
+__Cronograma/Material__
 {: .notice}
 
 | Aula   |      Data      |  Material |
