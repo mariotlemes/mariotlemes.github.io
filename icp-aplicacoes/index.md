@@ -21,7 +21,7 @@ __Cronograma/Material__
 
 | Aula   |      Data      |  Material |
 |:----------:|:-------------:|:------:|
-| 1 | 19/10/2019 | [Aula 1](https://drive.google.com/open?id=1U7_RupQbTTTKswdWUFc8FPCpECerqvWT) |
+| 1 | 19/10/2019 | [Aula 1](https://drive.google.com/file/d/1i9Q85gbZW3j_1pSLITweGLa6rSs738_H/view?usp=sharing) |
 | 2 | 02/11/2019 | [Aula 2]() |
 
 
@@ -29,10 +29,10 @@ __Cronograma/Material__
 
 __Práticas de Laboratório__
 {: .notice}
-* [Prática 1 - Fundamentos de Criptografia](https://drive.google.com/open?id=15IvsF6XB1wuow3mbzms6eYgZX-WpKaDj)
-* [Prática 2 - Fundamentos da Assinatura Digital](https://drive.google.com/open?id=18akKdYRNGPm4rACEAg5RTUijf2i6wmzc)
-* [Prática 3 - Geração de chaves com GPG/GnuPG](https://drive.google.com/open?id=1yvKxvOlSTMkTXN1TU_Ir_HdnZbwkpCFe)
-* [Prática 4 - Servidor Web Seguro](https://drive.google.com/open?id=1MaaRWtPyRXXz5dx-HF0-aeS3o-FvzhAV)
+* [Prática 1 - Fundamentos de Criptografia](https://drive.google.com/file/d/15IvsF6XB1wuow3mbzms6eYgZX-WpKaDj/view?usp=sharing)
+* [Prática 2 - Fundamentos da Assinatura Digital](https://drive.google.com/file/d/18akKdYRNGPm4rACEAg5RTUijf2i6wmzc/view?usp=sharing)
+* [Prática 3 - Geração de chaves com GPG/GnuPG](https://drive.google.com/file/d/1yvKxvOlSTMkTXN1TU_Ir_HdnZbwkpCFe/view?usp=sharing)
+* [Prática 4 - Servidor Web Seguro](https://drive.google.com/file/d/1MaaRWtPyRXXz5dx-HF0-aeS3o-FvzhAV/view?usp=sharing)
 
 
 
