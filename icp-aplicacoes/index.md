@@ -21,7 +21,7 @@ __Cronograma/Material__
 
 | Aula   |      Data      |  Material |
 |:----------:|:-------------:|:------:|
-| 1 | 19/10/2019 | [__Aula 1__](https://drive.google.com/open?id=1U7_RupQbTTTKswdWUFc8FPCpECerqvWT) |
+| 1 | 19/10/2019 | [Aula 1](https://drive.google.com/open?id=1U7_RupQbTTTKswdWUFc8FPCpECerqvWT) |
 | 2 | 02/11/2019 | [Aula 2]() |
 
 
