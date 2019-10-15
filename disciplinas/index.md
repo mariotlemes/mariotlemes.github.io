@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disciplinas
+title: Disciplinas Ministradas
 #tags: [, Jekyll, theme, moon]
 date: 2018-05-18
 comments: false
