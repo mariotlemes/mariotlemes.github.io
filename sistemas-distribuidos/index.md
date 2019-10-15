@@ -63,9 +63,9 @@ __Cronograma (Previsão)__
 | 29 | 09/10/2019 | AVA - Programação com RMI   | |
 | 30 | 09/10/2019 | 2o Trabalho de Implementação - Conhecendo o projeto| |
 |---
-| 31 | 16/10/2019 | Comunicação indireta - JGroups toolkit | |
-| 32 | 16/10/2019 | Comunicação indireta - JGroups toolkit |
-| 33 | 16/10/2019 | AVA - Programação com JGroups| |
+| 31 | 16/10/2019 | Comunicação indireta - JGroups toolkit | [__Aula 10__](https://drive.google.com/file/d/1-GTTz_0nl0aUNRRhlUnHSQKNxh-WGAn7/view?usp=sharing)|
+| 32 | 16/10/2019 | AVA - Programação com JGroups |
+| 33 | 16/10/2019 | Aula destinada à realização do 2o Trabalho de Implementação| |
 |---
 | 34 | 23/10/2019 | Em atividades da X [SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart)  | |
 | 35 | 23/10/2019 | Em atividades da [X SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart) | |
