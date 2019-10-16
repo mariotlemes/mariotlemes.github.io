@@ -67,7 +67,7 @@ __Cronograma (Previsão)__
 | 32 | 16/10/2019 | AVA - Programação com JGroups |
 | 33 | 16/10/2019 | Aula destinada à realização do 2o Trabalho de Implementação| |
 |---
-| 34 | 23/10/2019 | Em atividades da X [SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart)  | |
+| 34 | 23/10/2019 | Em atividades da  [X SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart)  | |
 | 35 | 23/10/2019 | Em atividades da [X SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart) | |
 | 36 | 23/10/2019 | Em atividades da [X SECITEC](http://www.ifg.edu.br/component/content/article/290-ifg/campus/formosa/eventos-campus-formosa/proximos-eventos-campus-formosa/14932-x-secitec?showall=&limitstart) | |
 |---
@@ -76,12 +76,12 @@ __Cronograma (Previsão)__
 | 39 | 30/10/2019 | __2ª prova avaliativa__ | |
 |---
 | 40 | 06/11/2019 | Correção, discussão e entrega da __2ª prova avaliativa__ | |
-| 41 | 06/11/2019 | Comunicação indireta - JGroups toolkit | |
-| 42 | 06/11/2019 | AVA - Programação - JGroups toolkit  |  |
+| 41 | 06/11/2019 | Sistemas publicar-assinar e fila de mensagens | |
+| 42 | 06/11/2019 | Memória compartilhada |  |
 |---
-| 43 | 13/11/2019 | Comunicação indireta - sistemas publicar-assinar e fila de mensagens | |
-| 44 | 13/11/2019 | Comunicação indireta - Memória compartilhada e espaço de tuplas | |
-| 45 | 13/11/2019 |AVA - Java Spaces | |
+| 43 | 13/11/2019 | Espaço de Tuplas | |
+| 44 | 13/11/2019 | AVA - Java Spaces  | |
+| 45 | 13/11/2019 | AVA - Java Spaces | |
 |---
 | 46 | 20/11/2019 | Computação Móvel e Ubíqua   |  |
 | 47 | 20/11/2019 | Segurança em SDs |  |
