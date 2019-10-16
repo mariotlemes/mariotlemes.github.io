@@ -39,10 +39,11 @@ __Práticas de Laboratório__
 __Máquinas Virtuais (VMs) para Download__
 {: .notice}
 
-* [MV Ubuntu 18.04]()
-* [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente]()
-> [!NOTE]
-> Todas MVs possuem usuario mario e senha 123. A senha para o usuario root também é 123.
+* [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente](https://mega.nz/#!zyx3mK7A!SVfubbiHrJpLmTUG28WxYNbLEaQfBcXMLrFrrAugvd0)
+```
+Todas MVs possuem usuario mario e senha 123. A senha para o usuario root também é 123.
+
+```
 
 __Bibliografia__
 {: .notice}
