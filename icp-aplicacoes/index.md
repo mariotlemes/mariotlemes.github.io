@@ -39,7 +39,7 @@ __Material Complementar__
 {: .notice}
 
 * [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente](https://mega.nz/#!zyx3mK7A!SVfubbiHrJpLmTUG28WxYNbLEaQfBcXMLrFrrAugvd0)
-* [Cenário de Simulação - Prática 4 - Servidor Web Seguro (SSL/TLS)][https://drive.google.com/file/d/1RNo8KemRa9GEjtu5vEYEOJDGMBHDlobG/view?usp=sharing] 
+* [Cenário de Simulação - Prática 4 - Servidor Web Seguro (SSL/TLS)](https://drive.google.com/file/d/1RNo8KemRa9GEjtu5vEYEOJDGMBHDlobG/view?usp=sharing)
 
 __Bibliografia__
 {: .notice}
