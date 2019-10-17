@@ -30,7 +30,7 @@ __Cronograma/Material__
 __Práticas de Laboratório__
 {: .notice}
 * [Prática 1 - Fundamentos de Criptografia](https://drive.google.com/file/d/15IvsF6XB1wuow3mbzms6eYgZX-WpKaDj/view?usp=sharing)
-* [Prática 2 - Fundamentos da Assinatura Digital](https://drive.google.com/file/d/18akKdYRNGPm4rACEAg5RTUijf2i6wmzc/view?usp=sharing)
+* [Prática 2 - Fundamentos de Assinatura Digital](https://drive.google.com/file/d/18akKdYRNGPm4rACEAg5RTUijf2i6wmzc/view?usp=sharing)
 * [Prática 3 - Geração de chaves com GPG/GnuPG](https://drive.google.com/file/d/1yvKxvOlSTMkTXN1TU_Ir_HdnZbwkpCFe/view?usp=sharing)
 * [Prática 4 - Servidor Web Seguro](https://drive.google.com/file/d/1MaaRWtPyRXXz5dx-HF0-aeS3o-FvzhAV/view?usp=sharing)
 
@@ -40,10 +40,10 @@ __Máquinas Virtuais (VMs) para Download__
 {: .notice}
 
 * [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente](https://mega.nz/#!zyx3mK7A!SVfubbiHrJpLmTUG28WxYNbLEaQfBcXMLrFrrAugvd0)
-```
-Todas MVs possuem usuario mario e senha 123. A senha para o usuario root também é 123.
 
-```
+>Credenciais de acesso nas VMs:
+> usuário: mario
+> senha: 123
 
 __Bibliografia__
 {: .notice}
