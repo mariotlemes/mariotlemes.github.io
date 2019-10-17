@@ -36,14 +36,10 @@ __Práticas de Laboratório__
 
 
 
-__Máquinas Virtuais (VMs) para Download__
+__Máquinas Virtuais (VMs)__
 {: .notice}
 
 * [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente](https://mega.nz/#!zyx3mK7A!SVfubbiHrJpLmTUG28WxYNbLEaQfBcXMLrFrrAugvd0)
-
->Credenciais de acesso nas VMs:
-> usuário: mario
-> senha: 123
 
 __Bibliografia__
 {: .notice}
