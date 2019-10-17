@@ -32,14 +32,14 @@ __Práticas de Laboratório__
 * [Prática 1 - Fundamentos de Criptografia](https://drive.google.com/file/d/15IvsF6XB1wuow3mbzms6eYgZX-WpKaDj/view?usp=sharing)
 * [Prática 2 - Fundamentos de Assinatura Digital](https://drive.google.com/file/d/1vEhAKI2gT-qkXxFRyFlOhPzCFEJ10D8L/view?usp=sharing)
 * [Prática 3 - Geração de chaves com GPG/GnuPG](https://drive.google.com/file/d/1yvKxvOlSTMkTXN1TU_Ir_HdnZbwkpCFe/view?usp=sharing)
-* [Prática 4 - Servidor Web Seguro](https://drive.google.com/file/d/1MaaRWtPyRXXz5dx-HF0-aeS3o-FvzhAV/view?usp=sharing)
+* [Prática 4 - Servidor Web Seguro (SSL/TLS)](https://drive.google.com/file/d/1MaaRWtPyRXXz5dx-HF0-aeS3o-FvzhAV/view?usp=sharing)
 
 
-
-__Máquinas Virtuais (VMs)__
+__Material Complementar__
 {: .notice}
 
 * [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente](https://mega.nz/#!zyx3mK7A!SVfubbiHrJpLmTUG28WxYNbLEaQfBcXMLrFrrAugvd0)
+* [Cenário de Simulação - Prática 4 - Servidor Web Seguro (SSL/TLS)][https://drive.google.com/file/d/1RNo8KemRa9GEjtu5vEYEOJDGMBHDlobG/view?usp=sharing] 
 
 __Bibliografia__
 {: .notice}
