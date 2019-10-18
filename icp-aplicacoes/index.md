@@ -21,7 +21,7 @@ __Cronograma/Material__
 
 | Aula   |      Data      |  Material |
 |:----------:|:-------------:|:------:|
-| 1 | 19/10/2019 | [Aula 1](https://drive.google.com/file/d/1i9Q85gbZW3j_1pSLITweGLa6rSs738_H/view?usp=sharing) |
+| 1 | 19/10/2019 | [Aula 1](https://drive.google.com/file/d/1upnUX3ECMwMdYlQSaN9pzZhpTvh3aq99/view?usp=sharing) |
 | 2 | 02/11/2019 | [Aula 2]() |
 
 
@@ -39,7 +39,7 @@ __Material Complementar__
 {: .notice}
 
 * [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente](https://mega.nz/#!zyx3mK7A!SVfubbiHrJpLmTUG28WxYNbLEaQfBcXMLrFrrAugvd0)
-* [Cenário de Simulação - Prática 4 - Servidor Web Seguro (SSL/TLS)](https://drive.google.com/file/d/1RNo8KemRa9GEjtu5vEYEOJDGMBHDlobG/view?usp=sharing)
+* [Cenário de Simulação - Servidor Web Seguro (SSL/TLS)](https://drive.google.com/file/d/1RNo8KemRa9GEjtu5vEYEOJDGMBHDlobG/view?usp=sharing)
 
 __Bibliografia__
 {: .notice}
