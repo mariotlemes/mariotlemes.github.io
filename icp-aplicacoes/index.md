@@ -34,12 +34,16 @@ __Práticas de Laboratório__
 * [Prática 3 - Geração de chaves com GPG/GnuPG](https://drive.google.com/file/d/1yvKxvOlSTMkTXN1TU_Ir_HdnZbwkpCFe/view?usp=sharing)
 * [Prática 4 - Servidor Web Seguro (SSL/TLS)](https://drive.google.com/file/d/1MaaRWtPyRXXz5dx-HF0-aeS3o-FvzhAV/view?usp=sharing)
 
-
 __Material Complementar__
 {: .notice}
 
 * [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente](https://mega.nz/#!zyx3mK7A!SVfubbiHrJpLmTUG28WxYNbLEaQfBcXMLrFrrAugvd0)
 * [Cenário de Simulação - Servidor Web Seguro (SSL/TLS)](https://drive.google.com/file/d/1RNo8KemRa9GEjtu5vEYEOJDGMBHDlobG/view?usp=sharing)
+
+__Arquivos Interessantes__
+{: .notice}
+* [Ataque de colisão ao SHA-1 "prefixo escolhido"](https://eprint.iacr.org/2019/459.pdf)
+* [sha1collisiondetection: Biblioteca e ferramenta de terminal para detecção de colisão SHA-1 em arquivos](https://github.com/cr-marcstevens/sha1collisiondetection)
 
 __Bibliografia__
 {: .notice}
