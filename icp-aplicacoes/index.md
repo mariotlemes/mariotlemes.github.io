@@ -40,7 +40,7 @@ __Material Complementar__
 * [MV Debian 9 - Servidor Web / MV Debian 9 - Cliente](https://mega.nz/#!zyx3mK7A!SVfubbiHrJpLmTUG28WxYNbLEaQfBcXMLrFrrAugvd0)
 * [Cenário de Simulação - Servidor Web Seguro (SSL/TLS)](https://drive.google.com/file/d/1RNo8KemRa9GEjtu5vEYEOJDGMBHDlobG/view?usp=sharing)
 
-__Arquivos Interessantes__
+__Links Interessantes__
 {: .notice}
 * [Ataque de colisão ao SHA-1 "prefixo escolhido"](https://eprint.iacr.org/2019/459.pdf)
 * [sha1collisiondetection: Biblioteca e ferramenta de terminal para detecção de colisão SHA-1 em arquivos](https://github.com/cr-marcstevens/sha1collisiondetection)
