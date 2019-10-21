@@ -12,17 +12,15 @@ __Dados Importantes__
 * __Professor__: M. Sc. Mario Teixeira Lemes.
 * __Semestre__: 2019/2.
 * __Carga-horária__: 15 Horas.
-* __Horário das aulas__:
-  * Aula 1: 19/10/2019 (08h00 - 12h00 e 14h00 - 18h00).
-  * Aula 2: 02/11/2019 (08h00 - 12h00 e 14h00 - 18h00).
+
 
 __Cronograma/Material__
 {: .notice}
 
-| Aula   |      Data      |  Material |
-|:----------:|:-------------:|:------:|
-| 1 | 19/10/2019 | [Aula 1](https://drive.google.com/file/d/1upnUX3ECMwMdYlQSaN9pzZhpTvh3aq99/view?usp=sharing) |
-| 2 | 02/11/2019 | [Aula 2]() |
+| Aula |  Material |
+|:----------:|:------:|
+| 1 |  [Aula 1](https://drive.google.com/file/d/1upnUX3ECMwMdYlQSaN9pzZhpTvh3aq99/view?usp=sharing) |
+| 2 |  [Aula 2]() |
 
 
 {: rules="groups"}
