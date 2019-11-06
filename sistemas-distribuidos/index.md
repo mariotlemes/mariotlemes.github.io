@@ -75,7 +75,7 @@ __Cronograma (Previsão)__
 | 38 | 30/10/2019 | __2ª prova avaliativa__ |  |
 | 39 | 30/10/2019 | __2ª prova avaliativa__ | |
 |---
-| 40 | 06/11/2019 | [Correção](https://drive.google.com/file/d/1-s8hWOK7miO9yazzlDIBxXBADyIGA15r/view?usp=sharing), discussão e entrega da __2ª prova avaliativa__ | |
+| 40 | 06/11/2019 | Discussão, [__correção__](https://drive.google.com/file/d/1-s8hWOK7miO9yazzlDIBxXBADyIGA15r/view?usp=sharing) e entrega da __2ª prova avaliativa__ | |
 | 41 | 06/11/2019 | Sistemas publicar-assinar/fila de mensagens | [Aula 11](https://drive.google.com/file/d/1r1IzD062-_0w44TaqMCoHVf1j3Y3ERSF/view?usp=sharing) |
 | 42 | 06/11/2019 | DSM/Espaço de Tuplas/2o trabalho de implementação | [Aula 12](https://drive.google.com/file/d/1U7Y-BGVquExKTNcUVUnLEAEWmFLEQBfg/view?usp=sharing ) |
 |---
