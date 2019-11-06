@@ -79,9 +79,9 @@ __Cronograma (Previsão)__
 | 41 | 06/11/2019 | Aula destinada à realização do 2o trabalho de implementação |  |
 | 42 | 06/11/2019 | Aula destinada à realização do 2o trabalho de implementação |  |
 |---
-| 43 | 13/11/2019 |  Sistemas publicar-assinar/fila de mensagens  | [Aula 11](https://drive.google.com/file/d/1r1IzD062-_0w44TaqMCoHVf1j3Y3ERSF/view?usp=sharing)|
-| 44 | 13/11/2019 | DSM/Espaço de Tuplas/2o trabalho de implementação  | [Aula 12](https://drive.google.com/file/d/1U7Y-BGVquExKTNcUVUnLEAEWmFLEQBfg/view?usp=sharing ) |
-| 45 | 13/11/2019 | AVA - Segurança em SDs | |
+| 43 | 13/11/2019 |  Sistemas publicar-assinar/fila de mensagens  | [__Aula 11__](https://drive.google.com/file/d/1r1IzD062-_0w44TaqMCoHVf1j3Y3ERSF/view?usp=sharing)|
+| 44 | 13/11/2019 | DSM  | [__Aula 12__](https://drive.google.com/file/d/1U7Y-BGVquExKTNcUVUnLEAEWmFLEQBfg/view?usp=sharing ) |
+| 45 | 13/11/2019 | Segurança em Sistemas Distribuídos | [__Aula 13__]() |
 |---
 | 46 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__  |  |
 | 47 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ |  |
