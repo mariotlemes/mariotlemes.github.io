@@ -87,13 +87,13 @@ __Cronograma (Previsão)__
 | 47 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ |  |
 | 48 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ | |
 |---
-| 49 | 27/11/2019 | __3ª prova avaliativa__ |  |
-| 50 | 27/11/2019 |  __3ª prova avaliativa__ |  |
-| 51 | 27/11/2019 | Data de apresentação (seminário) dos trabalhos de programação |  |
+| 49 | 27/11/2019 | Em atividades do 12º SICT - IFG Aparecida de Goiânia |  |
+| 50 | 27/11/2019 | Em atividades do 12º SICT - IFG Aparecida de Goiânia|  |
+| 51 | 27/11/2019 | Em atividades do 12º SICT -  IFG Aparecida de Goiânia|  |
 |---
-| 52 | 04/12/2019 | Correção, discussão e entrega da __3ª prova avaliativa__| |
-| 53 | 04/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
-| 54 | 04/12/2019 | Fechamento de notas e entrega de trabalhos e atividades| |
+| 52 | 04/12/2019 | __3ª prova avaliativa__ | |
+| 53 | 04/12/2019 | __3ª prova avaliativa__| |
+| 54 | 04/12/2019 | Data de apresentação (seminário) dos trabalhos de programação / Fechamento de notas e entrega de trabalhos e atividades| |
 {: rules="groups"}
 
 __Trabalhos de Programação/Implementação__
