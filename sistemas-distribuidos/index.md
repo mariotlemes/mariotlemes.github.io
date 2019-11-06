@@ -75,16 +75,16 @@ __Cronograma (Previsão)__
 | 38 | 30/10/2019 | __2ª prova avaliativa__ |  |
 | 39 | 30/10/2019 | __2ª prova avaliativa__ | |
 |---
-| 40 | 06/11/2019 | Correção, discussão e entrega da __2ª prova avaliativa__ | |
-| 41 | 06/11/2019 | Sistemas publicar-assinar e fila de mensagens | |
-| 42 | 06/11/2019 | Memória compartilhada |  |
+| 40 | 06/11/2019 | [Correção](https://drive.google.com/file/d/1-s8hWOK7miO9yazzlDIBxXBADyIGA15r/view?usp=sharing), discussão e entrega da __2ª prova avaliativa__ | |
+| 41 | 06/11/2019 | Sistemas publicar-assinar/fila de mensagens | [Aula 11](https://drive.google.com/file/d/1r1IzD062-_0w44TaqMCoHVf1j3Y3ERSF/view?usp=sharing) |
+| 42 | 06/11/2019 | DSM/Espaço de Tuplas/2o trabalho de implementação | [Aula 12](https://drive.google.com/file/d/1U7Y-BGVquExKTNcUVUnLEAEWmFLEQBfg/view?usp=sharing ) |
 |---
-| 43 | 13/11/2019 | Espaço de Tuplas | |
-| 44 | 13/11/2019 | AVA - Java Spaces  | |
-| 45 | 13/11/2019 | AVA - Java Spaces | |
+| 43 | 13/11/2019 | Computação Móvel e Ubíqua | |
+| 44 | 13/11/2019 | Segurança em SDs  | |
+| 45 | 13/11/2019 | AVA - Segurança em SDs | |
 |---
-| 46 | 20/11/2019 | Computação Móvel e Ubíqua   |  |
-| 47 | 20/11/2019 | Segurança em SDs |  |
+| 46 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__  |  |
+| 47 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ |  |
 | 48 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ | |
 |---
 | 49 | 27/11/2019 | __3ª prova avaliativa__ |  |
