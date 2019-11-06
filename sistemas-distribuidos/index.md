@@ -106,7 +106,7 @@ __Provas__
 {: .notice}
 * __1ª prova (Valor: 1,0):__ 18/09/2019 (quarta-feira) - 08h00 às 12h00.
 * __2ª prova (Valor: 2,0):__ 30/10/2019 (quarta-feira) - 08h00 às 12h00.
-* __3ª prova (Valor: 3,0):__ 27/11/2019 (quarta-feira) - 07h30 às 10h30
+* __3ª prova (Valor: 3,0):__ ~~27/11/2019~~ 05/12/2019 (quarta-feira) - 07h30 às 10h30
 
 __Material complementar__
 {: .notice}
