@@ -81,7 +81,7 @@ __Cronograma (Previsão)__
 |---
 | 43 | 13/11/2019 |  Sistemas publicar-assinar/fila de mensagens  | [__Aula 11__](https://drive.google.com/file/d/1r1IzD062-_0w44TaqMCoHVf1j3Y3ERSF/view?usp=sharing)|
 | 44 | 13/11/2019 | DSM/Espaço de tuplas  | [__Aula 12__](https://drive.google.com/file/d/1U7Y-BGVquExKTNcUVUnLEAEWmFLEQBfg/view?usp=sharing ) |
-| 45 | 13/11/2019 | Computação ubíqua/Segurança em SDs | [__Aula 13__](https://drive.google.com/file/d/1tS5ZlHH359TdmjST4IsbOGjbixX-sXQt/view?usp=sharing)/[__Aula 14__](https://drive.google.com/file/d/19R8t6mXME2ygNQajx7B22ufnw7ahvO04/view?usp=sharing) |
+| 45 | 13/11/2019 | Computação ubíqua/Segurança em SDs | [__Aula13__](https://drive.google.com/file/d/1tS5ZlHH359TdmjST4IsbOGjbixX-sXQt/view?usp=sharing)/[__Aula14__](https://drive.google.com/file/d/19R8t6mXME2ygNQajx7B22ufnw7ahvO04/view?usp=sharing) |
 |---
 | 46 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__  |  |
 | 47 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ |  |
