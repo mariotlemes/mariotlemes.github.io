@@ -87,9 +87,9 @@ __Cronograma (Previsão)__
 | 47 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ |  |
 | 48 | 20/11/2019 | Aula para realização do __2º Trabalho de Programação__ | |
 |---
-| 49 | 27/11/2019 | Em atividades do 12º SICT - IFG Aparecida de Goiânia |  |
-| 50 | 27/11/2019 | Em atividades do 12º SICT - IFG Aparecida de Goiânia|  |
-| 51 | 27/11/2019 | Em atividades do 12º SICT - IFG Aparecida de Goiânia|  |
+| 49 | 27/11/2019 | [Em atividades do 12º SICT - IFG Aparecida de Goiânia](https://www.ifg.edu.br/editais-pesquisa-e-pos-graduacao/em-andamento/15488-edital-n-21-2018-proppg-6) |  |
+| 50 | 27/11/2019 | [Em atividades do 12º SICT - IFG Aparecida de Goiânia](https://www.ifg.edu.br/editais-pesquisa-e-pos-graduacao/em-andamento/15488-edital-n-21-2018-proppg-6) |  |
+| 51 | 27/11/2019 | [Em atividades do 12º SICT - IFG Aparecida de Goiânia](https://www.ifg.edu.br/editais-pesquisa-e-pos-graduacao/em-andamento/15488-edital-n-21-2018-proppg-6) |  |
 |---
 | 52 | 04/12/2019 | __3ª prova avaliativa__ | |
 | 53 | 04/12/2019 | __3ª prova avaliativa__| |
