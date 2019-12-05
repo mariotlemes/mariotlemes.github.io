@@ -5,6 +5,8 @@ title: Orientações concluídas
 date: 2018-05-18
 comments: false
 ---
+* Lucas Alves da Costa. __Sistema de Controle de Iluminação e Irrigação
+para Estádios de Futebol Utilizando o Microcontrolador ESP8266 (NodeMCU)__. (TCC do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas). Concluído em: 2019/2.
 
 * Daniele dos Santos Araújo. __IFGAccess: Sistema de Controle de Acesso Web Utilizando RFID e o Microcontrolador ESP8266 (ESP-01)__. (Projeto de Iniciação Científica - Edital 011/2018 - PROPPG, de 06 de abril de 2018) - Concluído em: 2019/1.
 
