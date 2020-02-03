@@ -5,6 +5,11 @@ title: Disciplinas Ministradas
 date: 2018-05-18
 comments: false
 ---
+
+## 2020/1 - Instituto Federal de Goiás - Câmpus Formosa
+* Administração de Serviços para Internet (Tecnologia em Análise e Desenvolvimento de Sistemas)
+* Organização e Manutenção de Computadores II (Proeja - Informática).
+
 ## 2019/2 - Universidade Federal de Goiás
 * Introdução a Infraestrutura de Chaves  Públicas e Aplicações (Pós-Graduação Lato Sensu em Segurança em Redes e Sistemas).
 
