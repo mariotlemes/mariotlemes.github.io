@@ -18,6 +18,7 @@ comments: false
 * (2014 - 2015): Professor substituto do IFG - Campus Inhumas.
 * (2015 - atual): Professor em regime de Dedicação Exclusiva (DE) do IFG - Campus Formosa.
 * (2019 - atual): Professor colaborador na Pós-Graduação em Segurança em Redes e Sistemas da UFG.
+* (2020 - atual): Instrutor da Cisco Networking Academy.
 
 ### Gestão Acadêmica
 * (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
