@@ -5,6 +5,19 @@ title: Atividades de Ensino
 date: 2018-05-18
 comments: false
 ---
+
+### 2020/1 - CCNA1v6 - Introduction to Networks
+* Descrição: Oferecer aulas da formação curricular CCNA1v6 - Introdução às redes.
+
+* Integrantes: Mario Teixeira Lemes.
+
+
+### 2019/2 - Design Sprint e Aprendizagem Baseada em Projetos para Desenvolvimento de Softwares Autênticos
+* Descrição: Oferecer aulas sobre design sprint baseada em projetos e como esta abordagem auxilia os alunos no desenvolvimento de softwares autênticos.
+
+* Integrantes: Vinicius Gomes Ferreira (coordenador) e Mario Teixeira Lemes.
+
+
 ### 2018/2 - Tópicos em química para o vestibular
 * Descrição: Oferecer aulas sobre os assuntos abordados nos vestibulares que não são tratados em sala de aula das disciplinas regulares.
 

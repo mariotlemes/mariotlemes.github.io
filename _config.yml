@@ -1,7 +1,7 @@
 # Site
 title:              Mario Teixeira Lemes
 bio:                Instituto Federal de Goiás - IFG
-description:        Site do Professor 
+description:        Site do Professor
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -55,7 +55,7 @@ lattes:             4918126641251231
 #steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   UCvY06qq6dI2JlhzoDxFzf_A
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
