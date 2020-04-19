@@ -16,15 +16,16 @@ comments: false
 
 ### Docência
 * (2014 - 2015): Professor substituto do IFG - Campus Inhumas.
-* (2015 - atual): Professor em regime de Dedicação Exclusiva (DE) do IFG - Campus Formosa.
+* (2015 - atual): Professor em regime de Dedicação Exclusiva (DE) do IFG - Câmpus Formosa.
 * (2019 - atual): Professor colaborador na Pós-Graduação em Segurança em Redes e Sistemas da UFG.
-* (2020 - atual): Instrutor da Cisco Networking Academy.
+* (2020 - atual): Instrutor Cisco Certified Network Associate (CCNA) e ITE Essentials da Cisco Networking Academy.
 
 ### Gestão Acadêmica
 * (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
-* (2017 - 2017): Coordenador Acadêmico do Departamento de Áreas Acadêmicas (DAA) do IFG - Campus Formosa.
+* (2017 - 2017): Coordenador Acadêmico do Departamento de Áreas Acadêmicas (DAA) do IFG - Câmpus Formosa.
 
 ## Áreas de Interesse:
+* Redes de Computadores
 * Redes Definidas por Software.
 * Segurança da Informação.
 * Sistemas Inteligentes.
