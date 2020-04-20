@@ -6,10 +6,10 @@ date: 2018-05-18
 comments: false
 ---
 
-### 2020/1 - CCNA1v6 - Introduction to Networks
+### 2020/1 - CCNA1v6 - Introdução às Redes
 * Descrição: Oferecer aulas da formação curricular CCNA1v6 - Introdução às redes.
 
-* Integrantes: Mario Teixeira Lemes.
+* Integrante: Mario Teixeira Lemes.
 
 
 ### 2019/2 - Design Sprint e Aprendizagem Baseada em Projetos para Desenvolvimento de Softwares Autênticos

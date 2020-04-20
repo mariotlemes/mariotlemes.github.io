@@ -9,13 +9,13 @@ comments: false
 __Modos de execução Cisco IOS__
 {: .notice}
 
-![Modos de execução no Cisco IOS](https://mariotlemes.github.io/img/modo-sw.png)
+![Modos de execução no Cisco IOS](https://mariotlemes.github.io/images/modo-sw.png)
 
 
 __Modos de navegação no Cisco IOS__
 {: .notice}
 
-![Resumo esquemático da navegação](https://mariotlemes.github.io/img/navegacao-modos-sw.png)
+![Resumo esquemático da navegação](https://mariotlemes.github.io/images/navegacao-modos-sw.png)
 
 
 __Proteger o acesso no modo local e no modo privilegiado__
