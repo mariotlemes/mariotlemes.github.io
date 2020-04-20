@@ -1,12 +1,12 @@
 ---
 layout: page
-title: CCNA1v6 - Introdução às redes
+title: CCNA1v6 - Introdução às Redes
 #tags: [, Jekyll, theme, moon]
 date: 2020-04-20
-comments: true
+comments: false
 ---
 
-__Modos de execução no ios da Cisco__
+__Modos de execução no IOS da Cisco__
 {: .notice}
 
 1) Execução de usuário -> Switch>
@@ -21,7 +21,7 @@ __Modos de execução no ios da Cisco__
 
 6) ...
 
-__Modos de navegação no ios da Cisco__
+__Modos de navegação no IOS da Cisco__
 {: .notice}
 
 Switch> -> __enable__ -> Switch# -> __configure terminal__ -> Switch#(conf t) -> __interface fastethernet 0/1__ -> Switch#(conf-if) -> __line console 0__ -> Switch#(conf-line) -> __exit__ -> Switch#(conf t) -> __exit/end__ -> Switch# -> __disable__ -> Switch>
