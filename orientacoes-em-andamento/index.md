@@ -10,7 +10,7 @@ comments: false
 Início: 2019/1
 Previsão de término: 2020/1.
 
-* Pedro Dias. __Título a definir__..
+* Pedro Dias. __Título a definir__.
 Início: 2020/1
 Previsão de término: 2020/2.
 
