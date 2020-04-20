@@ -22,7 +22,7 @@ __Objetivos específicos__
 
 ---
 
-__Arquitetura TCP/IP x Academia Cisco__
+# Arquitetura TCP/IP x Academia Cisco
 ![Arquitetura TCP/IP (5 camadas) x Arquitetura TCP/IP considerada na Academia Cisco](https://mariotlemes.github.io/images/3.png)
 
 
