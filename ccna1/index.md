@@ -24,13 +24,13 @@ __Objetivos específicos__
 __Modos de execução Cisco IOS__
 {: .notice}
 
-![Modos de execução no Cisco IOS](https://mariotlemes.github.io/images/modo-sw.png)
+![Modos de execução no Cisco IOS](https://mariotlemes.github.io/images/1.png)
 
 
 __Modos de navegação no Cisco IOS__
 {: .notice}
 
-![Resumo esquemático da navegação](https://mariotlemes.github.io/images/navegacao-modos-sw.png)
+![Resumo esquemático da navegação](https://mariotlemes.github.io/images/2.png)
 
 ---
 
