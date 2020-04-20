@@ -6,6 +6,20 @@ date: 2020-04-20
 comments: false
 ---
 
+## Objetivo geral
+
+O objetivo geral deste curso é ensinar ao aluno de forma detalhada o processo de comunicação entre dois computadores ou mais baseando-se no serviço que está sendo executado.
+
+## Objetivos específicos
+
+* Comparar a comunicação humana com a comunicação em rede e ver as semelhanças entre elas.
+* Conhecer os dois modelos principais usados para planejar e implementar redes: OSI/ISO e TCP/IP.
+* Compreender a abordagem “em camadas” para redes.
+* Examinar as camadas OSI/ISO e TCP/IP com detalhes para entender suas funções e serviços.
+* Familiarizar-se com vários dispositivos de rede e esquemas de endereçamento de rede.
+* Descobrir os tipos de meios físicos usados para transportar dados pela rede
+* Criar LANs simples, executar configurações básicas em roteadores e switches e implementar esquemas de endereçamento IP.
+
 __Modos de execução Cisco IOS__
 {: .notice}
 
