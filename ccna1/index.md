@@ -6,11 +6,11 @@ date: 2020-04-20
 comments: false
 ---
 
-## Objetivo geral
+__Objetivo geral__
 
-> Ensinar ao aluno de forma detalhada o processo de comunicação entre dois computadores ou mais baseando-se no serviço que está sendo executado.
+* Ensinar ao aluno de forma detalhada o processo de comunicação entre dois computadores ou mais baseando-se no serviço que está sendo executado.
 
-## Objetivos específicos
+__Objetivos específicos__
 
 * Comparar a comunicação humana com a comunicação em rede e ver as semelhanças entre elas.
 * Conhecer os dois modelos principais usados para planejar e implementar redes: OSI/ISO e TCP/IP.
@@ -32,6 +32,7 @@ __Modos de navegação no Cisco IOS__
 
 ![Resumo esquemático da navegação](https://mariotlemes.github.io/images/navegacao-modos-sw.png)
 
+---
 
 __Proteger o acesso no modo local e no modo privilegiado__
 {: .notice}
