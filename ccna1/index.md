@@ -24,4 +24,4 @@ __Modos de execução no ios da Cisco__
 __Modos de navegação no ios da Cisco__
 {: .notice}
 
-Switch> -> __enable__ -> Switch# -> __configure terminal__ -> Switch#(conf t) -> interface fastethernet 0/1 -> Switch#(conf-if) -> line console 0 -> Switch#(conf-line) -> exit -> Switch#(conf t) -> exit/end -> Switch# -> disable -> Switch>
+Switch> -> __enable__ -> Switch# -> __configure terminal__ -> Switch#(conf t) -> __interface fastethernet 0/1__ -> Switch#(conf-if) -> __line console 0__ -> Switch#(conf-line) -> __exit__ -> Switch#(conf t) -> __exit/end__ -> Switch# -> __disable__ -> Switch>
