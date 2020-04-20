@@ -8,7 +8,7 @@ comments: false
 
 ## Objetivo geral
 
-O objetivo geral deste curso é ensinar ao aluno de forma detalhada o processo de comunicação entre dois computadores ou mais baseando-se no serviço que está sendo executado.
+* Ensinar ao aluno de forma detalhada o processo de comunicação entre dois computadores ou mais baseando-se no serviço que está sendo executado.
 
 ## Objetivos específicos
 
