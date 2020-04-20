@@ -21,6 +21,12 @@ __Objetivos específicos__
 * Criar LANs simples, executar configurações básicas em roteadores e switches e implementar esquemas de endereçamento IP.
 
 ---
+
+__Arquitetura TCP/IP x Academia Cisco__
+![Arquitetura TCP/IP (5 camadas) x Arquitetura TCP/IP considerada na Academia Cisco](https://mariotlemes.github.io/images/3.png)
+
+
+---
 __Modos de execução no Cisco IOS__
 {: .notice}
 
