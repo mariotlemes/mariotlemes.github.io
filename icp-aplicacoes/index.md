@@ -10,7 +10,6 @@ __Dados Importantes__
 
 * __Disciplina__: Introdução a Infraestrutura de Chaves Públicas e Aplicações.
 * __Professor__: M. Sc. Mario Teixeira Lemes.
-* __Semestre__: 2019/2.
 * __Carga-horária__: 15 Horas.
 
 
