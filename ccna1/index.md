@@ -37,5 +37,69 @@ password senha
 login
 exit
 enable secret senha
+```
 
+__Proteger o acesso remoto e criptografar todas as senhas__
+{: .notice}
+
+```
+en
+conf t
+line vty 0 15
+password senha
+login
+transport input ssh
+login
+exit
+service password-encryption
+```
+__Inserir um banner__
+{: .notice}
+
+```
+en
+conf t
+banner motd #Mensagem Personalizada#
+```
+
+__Alterar hostname__
+{: .notice}
+
+```
+en
+conf t
+hostname novoNome
+```
+__Salvar configurações locais (running-config) para o arquivo de configuração inicial (startup-config)__
+{: .notice}
+
+```
+en
+copy running-config startup-config
+```
+
+__Reiniciar um dispositivo__
+{: .notice}
+
+```
+en
+reload
+```
+__Apagar o arquivo de configuração inicial__
+{: .notice}
+
+```
+en
+erase startup-config
+```
+
+__Configurar a SVI de um Switch__
+{: .notice}
+
+```
+en
+conf t
+interface vlan 1
+ip address 192.168.1.1 255.255.255.0
+no shutdown
 ```
