@@ -21,7 +21,7 @@ __Objetivos específicos__
 * Criar LANs simples, executar configurações básicas em roteadores e switches e implementar esquemas de endereçamento IP.
 
 ---
-__Modos de execução Cisco IOS__
+__Modos de execução no Cisco IOS__
 {: .notice}
 
 ![Modos de execução no Cisco IOS](https://mariotlemes.github.io/images/1.png)
