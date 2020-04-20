@@ -9,11 +9,16 @@ comments: true
 __Modos de execução no ios da Cisco__
 {: .notice}
 
-1) Execução de usuário -> Switch__>__
-2) Execução de usuário privilegiado -> Switch__#__
-3) Configuração global -> Switch__#(conf t)__
-4) Submódulo de configuração de console -> Switch__#(conf-line)__
-5) Submódulo de configuração de interface -> Switch__#(conf-if)__
+1) Execução de usuário -> Switch>
+
+2) Execução de usuário privilegiado -> Switch#
+
+3) Configuração global -> Switch#(conf t)
+
+4) Submódulo de configuração de console -> Switch#(conf-line)
+
+5) Submódulo de configuração de interface -> Switch#(conf-if)
+
 6) ...
 
 __Modos de navegação no ios da Cisco__
