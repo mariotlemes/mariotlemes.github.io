@@ -26,6 +26,9 @@ __Modos de navegação no IOS da Cisco__
 
 Switch> -> __enable__ -> Switch# -> __configure terminal__ -> Switch#(conf t) -> __interface fastethernet 0/1__ -> Switch#(conf-if) -> __line console 0__ -> Switch#(conf-line) -> __exit__ -> Switch#(conf t) -> __exit/end__ -> Switch# -> __disable__ -> Switch>
 
+![Resumo esquemático da navegação](img/navegacao-modos-sw.png)
+
+
 __Proteger o acesso no modo local e no modo privilegiado__
 {: .notice}
 
