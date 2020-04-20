@@ -6,22 +6,13 @@ date: 2020-04-20
 comments: false
 ---
 
-__Modos de execução no IOS da Cisco__
+__Modos de execução Cisco IOS__
 {: .notice}
 
-1) Execução de usuário -> Switch>
+![Modos de execução no Cisco IOS](https://mariotlemes.github.io/img/modo-sw.png)
 
-2) Execução de usuário privilegiado -> Switch#
 
-3) Configuração global -> Switch#(conf t)
-
-4) Submódulo de configuração de console -> Switch#(conf-line)
-
-5) Submódulo de configuração de interface -> Switch#(conf-if)
-
-6) ...
-
-__Modos de navegação no IOS da Cisco__
+__Modos de navegação no Cisco IOS__
 {: .notice}
 
 ![Resumo esquemático da navegação](https://mariotlemes.github.io/img/navegacao-modos-sw.png)
