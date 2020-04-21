@@ -35,7 +35,7 @@ A informação entre dois computadores pode ser transmitida por meio de um cabo 
 
 Para que a informação seja gerada, é preciso energizar os fios com voltagens que variam entre 0v e 5v. Portanto, diferentes combinações referentes a energizar ou não energizar um fio, durante um determinado período de tempo, podem ser estabelecidas.
 
-As voltagens de 0v e 5v podem ser representadas por símbolos (0 para 0v e 1 para 5v). Portanto, pode-se representar a combinação de energizar ou não energizar um fio, durante um determinado período de tempo, por uma sequência de 0s e 1s. Veja na Figura abaixo a representação dessa combinação.
+As voltagens de 0v e 5v podem ser representadas por símbolos (0 para 0v e 1 para 5v). Portanto, pode-se representar a combinação de energizar ou não energizar um fio, durante um determinado período de tempo, por uma sequência de 0s e 1s. Veja na Figura a representação dessa combinação.
 
 ![Representação da transmissão de bits](https://mariotlemes.github.io/images/bits.png)
 
@@ -48,7 +48,7 @@ Sendo assim, ao energizar um fio do cabo par trançado por:
 * 0v por 1 segundo;
 * 5v por 1 segundo;
 
-Gera-se a sequência de 0s e 1s: 01001101, conforme mostrado na figura abaixo.
+Gera-se a sequência de 0s e 1s: 01001101, conforme mostrado na figura.
 
 ![fig2](https://mariotlemes.github.io/images/bin-dec.png)
 
