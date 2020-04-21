@@ -28,6 +28,73 @@ __Arquitetura TCP/IP (5 camadas) x Arquitetura TCP/IP considerada na Academia Ci
 
 
 ---
+__Passo 1: Enviando informação digital por um cabo par trançado__
+{: .notice}
+
+A informação entre dois computadores pode ser transmitida por meio de um cabo de rede par trançado. Este cabo possui 4 pares de fios (8 fios no total) que conduzem os pulsos elétricos.
+
+Para que a informação seja gerada, é preciso energizar os fios com voltagens que variam entre 0v e 5v. Portanto, diferentes combinações referentes a energizar ou não energizar um fio, durante um determinado período de tempo, podem ser estabelecidas.
+
+As voltagens de 0v e 5v podem ser representadas por símbolos (0 para 0v e 1 para 5v). Portanto, pode-se representar a combinação de energizar ou não energizar um fio, durante um determinado período de tempo, por uma sequência de 0s e 1s. Veja na Figura abaixo a representação dessa combinação.
+
+![Representação da transmissão de bits](https://mariotlemes.github.io/images/sinal-bits.png)
+
+Sendo assim, ao energizar um fio do cabo par trançado por:
+
+* 0v por 1 segundo;
+* 5v por 1 segundo;
+* 0v por 2 segundos;
+* 5v por 2 segundos;
+* 0v por 1 segundo;
+* 5v por 1 segundo;
+
+Gera-se a sequência de 0s e 1s: 01001101, conforme mostrado na figura abaixo.
+
+![fig2](https://mariotlemes.github.io/images/bin-dec.png)
+
+A sequência binária __01001101__ em decimal equivale ao número __77__. O número __77__ equivale ao caractere __M__, segundo o mapeamento da tabela ASCII.
+
+Portanto, para enviar um texto qualquer deve-se energizar ou não o fio do cabo par trançado, durante período de tempos aleatórios, para gerar a sequência de 0s e 1s e assim transmitir a informação desejada.
+
+---
+
+__Passo 2: Introdução ao cabo de fibra óptica__
+{: .notice}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cabo par trançado possui 8 fios ( 4 pares);
+- Deve-se energizar os fios com uma voltagem de 0v ou 5v.
+
+
+, ou seja, posso energizar um fio por 0v durante 1 segundo e por 5v durante 1 segundo. Logo em seguida, energizo o mesmo fio por 0v durante 2 segundos com 5v por 1 segundo. Isso vai variando.
+- Variar em 0 ou 5 v são chamados de estados.
+- Os estados podem ser representados por símbolos
+- 0v pode ser representado pelo símbolo 0;
+- 5v pode ser representado pelo símbolo 1;
+- _—__—___—-___
+- A ocorrência anterior pode ser representada pelos símbolos 0 e 1 ao longo do tempo e este número pode ser convertido para decimal.
+- taxa de símbolos: pode ser 1 símbolo por segundo - baud (1 baud) ou bit rate. Ver diferença!
+- se eu quiser mandar texto? é preciso combinar o número decimal gerado pela sequência de 0s e 1s e fazer mapeamentos entre números e letras/demais caracteres.
+- O mapeamento é chamado de ASCII
+-
+
+---
+
+
 __Modos de execução no Cisco IOS__
 {: .notice}
 
