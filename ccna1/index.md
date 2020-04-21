@@ -24,7 +24,7 @@ __Objetivos específicos__
 
 __Arquitetura TCP/IP (5 camadas) x Arquitetura TCP/IP considerada na Academia Cisco__
 {: .notice}
-![Arquitetura TCP/IP (5 camadas) x Arquitetura TCP/IP considerada na Academia Cisco](https://mariotlemes.github.io/images/3.png)
+![Arquitetura TCP/IP (5 camadas) x Arquitetura TCP/IP considerada na Academia Cisco](https://mariotlemes.github.io/images/tcp-ip.png)
 
 
 ---
