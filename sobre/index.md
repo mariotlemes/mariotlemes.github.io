@@ -24,7 +24,7 @@ comments: false
 * (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 * (2017 - 2017): Coordenador Acadêmico do Departamento de Áreas Acadêmicas (DAA) do IFG - Câmpus Formosa.
 
-## Áreas de Interesse:
+## Áreas de Interesse
 * Redes de Computadores
 * Redes Definidas por Software.
 * Segurança da Informação.
@@ -33,6 +33,6 @@ comments: false
 * Internet das Coisas.
 * Software/Hardware Livre
 
-## Reconhecimentos
+## Reconhecimentos (Badges)
 
 <div data-iframe-width="150" data-iframe-height="250" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
