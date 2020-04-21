@@ -22,7 +22,7 @@ __Objetivos específicos__
 
 ---
 
-__Considerações sobre a Arquitetura TCP/IP_
+__Considerações sobre a Arquitetura TCP/IP__
 {: .notice}
 ![Arquitetura TCP/IP (5 camadas) x Arquitetura TCP/IP considerada na Academia Cisco](https://mariotlemes.github.io/images/tcp-ip.png)
 
