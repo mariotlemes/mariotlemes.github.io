@@ -73,25 +73,6 @@ __Passo 2: Introdução ao cabo de fibra óptica__
 
 
 
-
-
-
-Cabo par trançado possui 8 fios ( 4 pares);
-- Deve-se energizar os fios com uma voltagem de 0v ou 5v.
-
-
-, ou seja, posso energizar um fio por 0v durante 1 segundo e por 5v durante 1 segundo. Logo em seguida, energizo o mesmo fio por 0v durante 2 segundos com 5v por 1 segundo. Isso vai variando.
-- Variar em 0 ou 5 v são chamados de estados.
-- Os estados podem ser representados por símbolos
-- 0v pode ser representado pelo símbolo 0;
-- 5v pode ser representado pelo símbolo 1;
-- _—__—___—-___
-- A ocorrência anterior pode ser representada pelos símbolos 0 e 1 ao longo do tempo e este número pode ser convertido para decimal.
-- taxa de símbolos: pode ser 1 símbolo por segundo - baud (1 baud) ou bit rate. Ver diferença!
-- se eu quiser mandar texto? é preciso combinar o número decimal gerado pela sequência de 0s e 1s e fazer mapeamentos entre números e letras/demais caracteres.
-- O mapeamento é chamado de ASCII
--
-
 ---
 
 
