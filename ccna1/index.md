@@ -37,7 +37,7 @@ Para que a informação seja gerada, é preciso energizar os fios com voltagens 
 
 As voltagens de 0v e 5v podem ser representadas por símbolos (0 para 0v e 1 para 5v). Portanto, pode-se representar a combinação de energizar ou não energizar um fio, durante um determinado período de tempo, por uma sequência de 0s e 1s. Veja na Figura abaixo a representação dessa combinação.
 
-![Representação da transmissão de bits](https://mariotlemes.github.io/images/sinal-bits.png)
+![Representação da transmissão de bits](https://mariotlemes.github.io/images/bits.png)
 
 Sendo assim, ao energizar um fio do cabo par trançado por:
 
