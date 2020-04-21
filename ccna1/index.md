@@ -28,7 +28,7 @@ __Considerações sobre a Arquitetura TCP/IP__
 
 
 ---
-__Passo 1: Enviando informação digital por um cabo par trançado__
+__Envio de informação digital por meio de um cabo par trançado__
 {: .notice}
 
 A informação entre dois computadores pode ser transmitida por meio de um cabo de rede par trançado. Este cabo possui 4 pares de fios (8 fios no total) que conduzem os pulsos elétricos.
@@ -58,7 +58,24 @@ Portanto, para enviar um texto qualquer deve-se energizar ou não o fio do cabo 
 
 ---
 
-__Passo 2: Introdução ao cabo de fibra óptica__
+__Envio de informação digital por meio de cabo de fibra óptica__
+{: .notice}
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+__Envio de informação digital por meio de ondas de rádio__
 {: .notice}
 
 
