@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CCNA R&S - Introdução às Redes
+title: CCNA R&S: Introduction to Networks
 #tags: [, Jekyll, theme, moon]
 date: 2020-04-20
 comments: false
