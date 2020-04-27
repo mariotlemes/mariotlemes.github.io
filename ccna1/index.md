@@ -8,7 +8,7 @@ comments: false
 
 __Objetivo geral__
 
-* Ensinar ao aluno de forma detalhada o processo de comunicação entre dois computadores ou mais baseando-se no serviço que está sendo executado.
+* Ensinar ao aluno de forma detalhada o processo de comunicação entre dois computadores (redes de computadores) ou mais baseando-se no serviço que está sendo executado.
 
 __Objetivos específicos__
 
@@ -35,7 +35,7 @@ A informação entre dois computadores pode ser transmitida por meio de um cabo 
 
 Para que a informação seja gerada, é preciso energizar os fios com voltagens que variam entre 0v e 5v. Portanto, diferentes combinações referentes a energizar ou não energizar um fio, durante um determinado período de tempo, podem ser estabelecidas.
 
-As voltagens de 0v e 5v podem ser representadas por símbolos (0 para 0v e 1 para 5v). Portanto, pode-se representar a combinação de energizar ou não energizar um fio, durante um determinado período de tempo, por uma sequência de 0s e 1s. Veja na Figura a representação dessa combinação.
+As voltagens de 0v e 5v podem ser representadas por símbolos (0 para 0v e 1 para 5v). Portanto, pode-se representar a combinação de energizar ou não energizar um fio, durante um determinado período de tempo, por uma sequência de 0s e 1s. Veja na Figura a representação de uma destas combinações.
 
 ![Representação da transmissão de bits](https://mariotlemes.github.io/images/bits.png)
 
