@@ -33,6 +33,6 @@ comments: false
 * Internet das Coisas.
 * Software/Hardware Livre
 
-## Reconhecimentos de Conhecimento (Badges)
+## Reconhecimento de Habilidades (Badge)
 
 <div data-iframe-width="150" data-iframe-height="300" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
