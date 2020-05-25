@@ -15,9 +15,9 @@ comments: false
 ## Atuação Profissional
 
 ### Docência
-* (2014 - 2015): Professor substituto do IFG - Câmpus Inhumas.
-* (2015 - atual): Professor em regime de Dedicação Exclusiva (DE) do IFG - Câmpus Formosa.
-* (2019 - atual): Professor colaborador na Pós-Graduação em Segurança em Redes e Sistemas da UFG.
+* (2014 - 2015): Professor substituto / IFG - Câmpus Inhumas.
+* (2015 - atual): Professor EBTT / IFG - Câmpus Formosa.
+* (2019 - atual): Professor colaborador na Pós-Graduação em Segurança em Redes e Sistemas / UFG
 * (2020 - atual): Instrutor *Cisco Certified Network Associate* (CCNA) e *ITE Essentials*.
 
 ### Gestão Acadêmica
