@@ -6,13 +6,15 @@ date: 2018-05-18
 comments: false
 ---
 
-## Formação Acadêmica
+## Formação
+
+### Acadêmica
 
 * Mestre em Ciência da Computação (UFG).
 * Especialista em Sistemas de Informação (FCV).
 * Bacharel em Engenharia de Computação (PUC-GO).
 
-## Formação complementar (mercado):
+### Complementar:
 
 ### __CCNA__ (*Cisco Certified Network Associate*):
 
