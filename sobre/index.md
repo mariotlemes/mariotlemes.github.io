@@ -8,7 +8,7 @@ comments: false
 
 ## Formação
 
-### Acadêmica
+### Acadêmica:
 
 * Mestre em Ciência da Computação (UFG).
 * Especialista em Sistemas de Informação (FCV).
@@ -24,13 +24,13 @@ comments: false
 
 ## Atuação Profissional
 
-### Docência
+### Docência:
 * (2014 - 2015): Professor substituto / IFG - Câmpus Inhumas.
 * (2015 - atual): Professor EBTT / IFG - Câmpus Formosa.
 * (2019 - atual): Professor colaborador na Pós-Graduação em Segurança em Redes e Sistemas / UFG
 * (2020 - atual): Instrutor *Cisco Certified Network Associate* (CCNA) e *ITE Essentials*.
 
-### Gestão Acadêmica
+### Gestão Acadêmica:
 * (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 * (2017 - 2017): Coordenador Acadêmico do Departamento de Áreas Acadêmicas (DAA) do IFG - Câmpus Formosa.
 
