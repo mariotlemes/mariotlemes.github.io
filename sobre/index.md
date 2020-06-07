@@ -8,9 +8,10 @@ comments: false
 
 ## Formação Acadêmica
 
-* Bacharel em Engenharia de Computação (PUC-GO).
-* Especialista em Sistemas de Informação (FCV).
 * Mestre em Ciência da Computação (UFG).
+* Especialista em Sistemas de Informação (FCV).
+* Bacharel em Engenharia de Computação (PUC-GO).
+
 
 ## Atuação Profissional
 
