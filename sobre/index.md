@@ -36,10 +36,10 @@ comments: false
 
 
 ## Áreas de Interesse
-* Redes de Computadores
-* Redes Definidas por Software (SDN)
+* Redes de Computadores.
+* Redes Definidas por Software (SDN).
 * Segurança da Informação.
 * Sistemas Inteligentes.
 * Computação Paralela e Distribuída.
 * Internet das Coisas.
-* Software/Hardware Livre
+* Software/Hardware Livre.
