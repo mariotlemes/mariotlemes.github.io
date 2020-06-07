@@ -14,7 +14,7 @@ comments: false
 * Especialista em Sistemas de Informação (FCV).
 * Bacharel em Engenharia de Computação (PUC-GO).
 
-### Complementar:
+### Complementar (Mercado):
 
 #### __CCNA__ (*Cisco Certified Network Associate*):
 
