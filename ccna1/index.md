@@ -58,41 +58,6 @@ Portanto, para enviar um texto qualquer deve-se energizar ou não o fio do cabo 
 
 ---
 
-__Envio de informação digital por meio de cabo de fibra óptica__
-{: .notice}
-
-... trabalho em andamento ...
-
-
-
-
-
-
-
-
-
-
-
----
-
-__Envio de informação digital por meio de ondas de rádio__
-{: .notice}
-
-
-
-... trabalho em andamento...
-
-
-
-
-
-
-
-
-
----
-
-
 __Modos de execução no Cisco IOS__
 {: .notice}
 

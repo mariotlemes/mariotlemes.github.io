@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professor Mario Teixeira Lemes
+title:  Mario Teixeira Lemes
 #tags: [, Jekyll, theme, moon]
 date: 2018-05-18
 comments: false

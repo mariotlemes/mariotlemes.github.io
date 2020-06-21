@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atividades de Extensão
+title: Projetos de Extensão
 #tags: [, Jekyll, theme, moon]
 date: 2018-05-18
 comments: false

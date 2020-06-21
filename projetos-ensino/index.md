@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Atividades de Ensino
+title: Projetos de Ensino
 #tags: [, Jekyll, theme, moon]
 date: 2018-05-18
 comments: false
 ---
 
-### 2020/1 - CCNA1v6 - Introdução às Redes
+### 2020/2 - Cisco CCNA 2 - Switching, Routing, and Wireless Essentials
+* Descrição: Oferecer aulas da formação curricular CCNA2v7 - Switching, Routing, and Wireless Essentials.
+
+* Integrante: Mario Teixeira Lemes.
+
+### 2020/1 - Cisco CCNA 1 - Introduction to Networks
 * Descrição: Oferecer aulas da formação curricular CCNA1v6 - Introdução às redes.
 
 * Integrante: Mario Teixeira Lemes.
