@@ -16,7 +16,7 @@ comments: false
 
 ### Complementar (Mercado):
 
-#### __CCNA__ (*Cisco Certified Network Associate*)
+#### __CCNAv7__ (*Cisco Certified Network Associate*)
 * Introduction to Networks (ITN).
 * Switching, Routing, and Wireless Essentials (SRWE).
 
