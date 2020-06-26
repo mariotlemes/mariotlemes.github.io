@@ -16,9 +16,9 @@ comments: false
 
 ### Complementar (Mercado):
 
-#### __CCNA__ (*Cisco Certified Network Associate*):
-##### 1) Introduction to Networks (ITN)
-##### 2) Switching, Routing, and Wireless Essentials (SRWE):
+#### __CCNA__ (*Cisco Certified Network Associate*)
+* 1) Introduction to Networks (ITN)
+* 2) Switching, Routing, and Wireless Essentials (SRWE):
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
