@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Mario Teixeira Lemes
+title:  Prof. Mario Teixeira Lemes
 #tags: [, Jekyll, theme, moon]
 date: 2018-05-18
 comments: false
@@ -10,9 +10,9 @@ comments: false
 
 ### Acadêmica:
 
-* Mestre em Ciência da Computação (UFG).
-* Especialista em Sistemas de Informação (FCV).
-* Bacharel em Engenharia de Computação (PUC-GO).
+* (2011 - 2014): Mestrado em Ciência da Computação (UFG)
+* (2017 - 2018): Especialização em Sistemas de Informação (FCV).
+* (2006 a 2011): Bacharelado em Engenharia de Computação (PUC-GO).
 
 ### Complementar (Mercado):
 
