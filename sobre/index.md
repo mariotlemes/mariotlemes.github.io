@@ -14,7 +14,7 @@ comments: false
 * (2017 - 2018): Especialização em Sistemas de Informação (FCV).
 * (2006 a 2011): Bacharelado em Engenharia de Computação (PUC-GO).
 
-### Complementar (Mercado):
+### Reconhecimentos (Badges):
 
 #### __CCNAv7__ (*Cisco Certified Network Associate*)
 * Introduction to Networks (__ITN__).
@@ -27,10 +27,10 @@ comments: false
 ## Atuação Profissional
 
 ### Docência:
-* (2014 - 2015): Professor substituto / IFG - Câmpus Inhumas.
-* (2015 - atual): Professor EBTT / IFG - Câmpus Formosa.
-* (2019 - atual): Professor colaborador na Pós-Graduação em Segurança em Redes e Sistemas / UFG
-* (2020 - atual): Instrutor CCNA e ITE Essentials.
+* (2014 - 2015): Professor EBTT Substituto / IFG - Câmpus Inhumas.
+* (2015 - atual): Professor EBTT Dedicação Exclusiva / IFG - Câmpus Formosa.
+* (2019 - atual): Professor Colaborador na Pós-Graduação em Segurança em Redes e Sistemas / UFG
+* (2020 - atual): Instrutor CCNA e ITE Essentials / Academia Cisco IFG/Câmpus Formosa
 
 ### Gestão Acadêmica:
 * (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
