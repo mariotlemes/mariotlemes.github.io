@@ -12,7 +12,7 @@ comments: false
 
 * (2011 - 2014): Mestrado em Ciência da Computação (UFG)
 * (2017 - 2018): Especialização em Sistemas de Informação (FCV).
-* (2006 a 2011): Bacharelado em Engenharia de Computação (PUC-GO).
+* (2006 - 2011): Bacharelado em Engenharia de Computação (PUC-GO).
 
 ### Reconhecimentos (Badges):
 
