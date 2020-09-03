@@ -27,23 +27,31 @@ comments: false
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="81280e79-be05-40e7-a6f4-c48a8f01a771" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-## Atuação Profissional
+## Experiência Profissional
 
 ### Docência:
-* (2014 - 2015): Professor EBTT Substituto / IFG - Câmpus Inhumas.
-* (2015 - atual): Professor EBTT Dedicação Exclusiva / IFG - Câmpus Formosa.
+
+* (2020 - atual): Instrutor Cisco CCNAv7 / Academia Cisco IFG - Câmpus Formosa
+
 * (2019 - atual): Professor Colaborador na Pós-Graduação em Segurança em Redes e Sistemas / UFG
-* (2020 - atual): Instrutor CCNA e ITE Essentials / Academia Cisco IFG/Câmpus Formosa
+Disciplina: Introdução a Infraestrutura de Chaves Públicas e Aplicações
+
+* (2015 - atual): Professor EBTT Dedicação Exclusiva / IFG - Câmpus Formosa.
+Área: Sistemas de Computação
+
+* (2014 - 2015): Professor EBTT Substituto / IFG - Câmpus Inhumas.
+Área: Metodologia e Técnicas da Computação
 
 ### Gestão Acadêmica:
-* (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 * (2017 - 2017): Coordenador Acadêmico do Departamento de Áreas Acadêmicas (DAA) do IFG - Câmpus Formosa.
+* (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 
 ## Áreas de Interesse
 * Redes de Computadores.
 * Redes Definidas por Software (SDN).
 * Segurança da Informação.
+* CyberSecurity.
 * Sistemas Inteligentes.
 * Computação Paralela e Distribuída.
 * Internet das Coisas.
