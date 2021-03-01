@@ -6,8 +6,6 @@ date: 2018-05-18
 comments: false
 ---
 
-TESTE
-
 ## Formação
 
 ### Acadêmica:
@@ -33,28 +31,27 @@ TESTE
 
 ### Docência:
 
-* (2020 - atual): Instrutor Cisco CCNAv7 / Academia Cisco IFG - Câmpus Formosa
+* (2020 - atual): Instrutor NetAcad Cisco CCNA/ Academia Cisco IFG - Câmpus Formosa
 
 * (2019 - atual): Professor Colaborador na Pós-Graduação em Segurança em Redes e Sistemas / UFG
-Disciplina: Introdução a Infraestrutura de Chaves Públicas e Aplicações
 
 * (2015 - atual): Professor EBTT Dedicação Exclusiva / IFG - Câmpus Formosa.
-Área: Sistemas de Computação
+Subárea: Sistemas de Computação
 
 * (2014 - 2015): Professor EBTT Substituto / IFG - Câmpus Inhumas.
-Área: Metodologia e Técnicas da Computação
+Subárea: Metodologia e Técnicas da Computação
 
 ### Gestão Acadêmica:
 * (2017 - 2017): Coordenador Acadêmico do Departamento de Áreas Acadêmicas (DAA) do IFG - Câmpus Formosa.
 * (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
-
 ## Áreas de Interesse
-* Redes de Computadores.
-* Redes Definidas por Software (SDN).
-* Segurança da Informação.
-* CyberSecurity.
-* Sistemas Inteligentes.
-* Computação Paralela e Distribuída.
-* Internet das Coisas.
+* Redes Definidas por Software.
+* Redes de Comunicação.
+* Redes 5G/6G.
+* Redes Sem Fio Inteligentes.
+* Automação e Programabilidade de Redes Virtualizadas (NFV).
+* Internet das Coisas. 
+* Cidades Inteligentes.
 * Software/Hardware Livre.
+
