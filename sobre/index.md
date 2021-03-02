@@ -10,8 +10,8 @@ comments: false
 
 ### Acadêmica:
 
-* (2011 - 2014): Mestre em Ciência da Computação (UFG)
-* (2017 - 2018): Especialização em Sistemas de Informação (FCV).
+* (2011 - 2014): Mestre em Ciência da Computação (UFG).
+* (2017 - 2018): Especialista em Sistemas de Informação (FCV).
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
 ### Reconhecimentos (Badges):
