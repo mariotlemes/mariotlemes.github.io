@@ -10,9 +10,9 @@ comments: false
 
 ### Acadêmica:
 
-* (2011 - 2014): Mestrado em Ciência da Computação (UFG)
+* (2011 - 2014): Mestre em Ciência da Computação (UFG)
 * (2017 - 2018): Especialização em Sistemas de Informação (FCV).
-* (2006 - 2011): Bacharelado em Engenharia de Computação (PUC-GO).
+* (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
 ### Reconhecimentos (Badges):
 
@@ -51,7 +51,6 @@ Subárea: Metodologia e Técnicas da Computação
 * Redes 5G/6G.
 * Redes Sem Fio Inteligentes.
 * Automação e Programabilidade de Redes Virtualizadas (NFV).
-* Internet das Coisas. 
+* Internet das Coisas.
 * Cidades Inteligentes.
 * Software/Hardware Livre.
-

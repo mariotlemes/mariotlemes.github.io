@@ -12,3 +12,5 @@ Início: 2019/1.
 * Pedro Dias. __Título a definir__. Início: 2020/1.
 
 * Bruno Monteiro Bispo. __Título a definir__. Início: 2020/1.
+
+* Yamilla Calixto. __Título a definir__. Início: 2021/1

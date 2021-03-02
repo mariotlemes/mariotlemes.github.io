@@ -6,12 +6,19 @@ date: 2018-05-18
 comments: false
 ---
 
-## 2020/1 - Academia Cisco IFG - Câmpus Formosa
-* CCNA1v6 - Introdução às Redes (Todos alunos do IFG/Treinamento 100% online - EAD).
+## 2021/1 - Instituto Federal de Goiás - Câmpus Formosa
+* Administração de Serviços para Internet (Tecnologia em Análise e Desenvolvimento de Sistemas)
+* Organização e Manutenção de Computadores II (Proeja - Informática).
+* Empreendedorismo (Proeja - Informática).
+
+## 2020/2 - Instituto Federal de Goiás - Câmpus Formosa
+* Sistemas Distribuídos (Tecnologia em Análise e Desenvolvimento de Sistemas)
+* Organização e Manutenção de Computadores II (Proeja - Informática).
 
 ## 2020/1 - Instituto Federal de Goiás - Câmpus Formosa
 * Administração de Serviços para Internet (Tecnologia em Análise e Desenvolvimento de Sistemas)
 * Organização e Manutenção de Computadores II (Proeja - Informática).
+* Empreendedorismo (Proeja - Informática).
 
 ## 2019/2 - Universidade Federal de Goiás
 * Introdução a Infraestrutura de Chaves  Públicas e Aplicações (Pós-Graduação Lato Sensu em Segurança em Redes e Sistemas).
