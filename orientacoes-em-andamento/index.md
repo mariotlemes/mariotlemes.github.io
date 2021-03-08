@@ -9,7 +9,7 @@ comments: false
 * Daniele dos Santos Araújo. __IFGAccess: Sistema de Controle de Acesso Web Utilizando RFID e o Microcontrolador ESP8266 (ESP-01)__.
 Início: 2019/1.
 
-* Pedro Dias. __Título a definir__. Início: 2020/1.
+* Pedro Dias. __Sistema Web para Controle Seguro do Acervo Bibliográfico do IFG - Câmpus Formosa Utilizando Arduino e RFID__. Início: 2020/1.
 
 * Bruno Monteiro Bispo. __Título a definir__. Início: 2020/1.
 

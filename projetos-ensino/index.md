@@ -6,12 +6,12 @@ date: 2018-05-18
 comments: false
 ---
 
-### 2020/2 - Cisco CCNA 2 - Switching, Routing, and Wireless Essentials
+### 2020/2 - Cisco CCNA 2 - Switching, Routing, and Wireless Essentials (SRWE)
 * Descrição: Oferecer aulas da formação curricular CCNA2v7 - Switching, Routing, and Wireless Essentials.
 
 * Integrante: Mario Teixeira Lemes.
 
-### 2020/1 - Cisco CCNA 1 - Introduction to Networks
+### 2020/1 - Cisco CCNA 1 - Introduction to Networks (ITN)
 * Descrição: Oferecer aulas da formação curricular CCNA1v6 - Introdução às redes.
 
 * Integrante: Mario Teixeira Lemes.
