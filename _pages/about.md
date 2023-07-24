@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>Professor EBTT</b> do <a href="https://www.ifg.edu.br/">Instituto Federal de Goiás.</a>
+subtitle: <b>Professor</b> do <a href="https://www.ifg.edu.br/">Instituto Federal de Goiás.</a>
 
  
 profile:

@@ -21,7 +21,6 @@
   url: https://inf.ufg.br
   color: "#34c9eb"
 
-
 "IFG-Formosa":
   url: https://ifg.edu.br/formosa
   color: "#42f557" 
@@ -36,3 +35,8 @@
 "EJA":
   color: "#0d91de"  
   
+"Pós-Graduação":
+  color: "#c1c973"  
+  
+  
+ 
