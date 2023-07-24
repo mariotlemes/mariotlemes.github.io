@@ -2,8 +2,9 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>Professor EBTT</b> - <a href="https://www.ifg.edu.br/">Instituto Federal de Goiás. </a> <br>
-          <b>Instrutor Cisco (#47856017)</b> - <a href="https://www.netacad.com/pt-br">NetAcad.</a>
+subtitle: <h5><b>Professor EBTT</b> - <a href="https://www.ifg.edu.br">Instituto Federal de Goiás (IFG).</a> <br>
+          <b>Instrutor Cisco </b> - <a href="https://www.netacad.com/pt-br">NetAcad.<br>
+          </h5><br>
 
  
 profile:
@@ -28,17 +29,18 @@ social: true # includes social icons at the bottom of the page
   gtag('config', 'G-FZGCT9KEL3');
 </script> 
 
-<h5><b>Formação acadêmica:</b></h5>
+<h6><b><mark>Formação acadêmica:</mark></b></h6>
 * (2022 - ATUAL): Doutorando em Ciência da Computação (UFG).
 * (2017 - 2018): Especialista em Sistemas de Informação (FCV).
 * (2011 - 2014): Mestre em Ciência da Computação (UFG).
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
+<br>
 
-<h5><b>Certificações:</b></h5>
+<h6><b><mark>Certificações:</mark></b></h6>
 
-* (2021 - ATUAL): HCIA (Huawei Certified ICT Associate) 5G. 
-* (2020 - ATUAL): CCNA (Cisco Certified Network Associate)
+* (2021 - ATUAL): HCIA 5G (Huawei Certified ICT Associate). 
+* (2020 - ATUAL): CCNA (Cisco Certified Network Associate).
 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
