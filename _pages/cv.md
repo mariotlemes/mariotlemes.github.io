@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 permalink: /cv/
 title:  Lattes
 nav: true
