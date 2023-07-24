@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <strong>Home</strong>
+title: Página Inicial
 permalink: /
 subtitle: <h5><b>Professor EBTT</b> - <a href="https://www.ifg.edu.br">Instituto Federal de Goiás (IFG).</a> <br><b>Instrutor Cisco </b> - <a href="https://www.netacad.com/pt-br">NetAcad.<br></h5><em>Work hard, stay strong. Be happy and think positively</em>.
 

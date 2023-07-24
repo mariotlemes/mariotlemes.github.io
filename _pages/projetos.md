@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>Projetos</strong>
+title: Projetos
 permalink: /projetos/
 nav: true
 nav_order: 4
