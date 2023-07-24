@@ -7,4 +7,18 @@ nav: false
 nav_order: 1
 ---
 
-<h4>Página em construção...</h4>
+
+<div class="publications">
+
+
+{% for y in page.years  %}
+	{% bibliography -f ensino -q @*[year={{y}}]* %}
+{% endfor %}
+
+<!-- {% for x in page.publisher  %}
+	{%if x == 'UFG' %}
+		<h4><mark>UFG</mark></h4>
+	{% endif %}
+{% endfor %} -->
+
+</div>

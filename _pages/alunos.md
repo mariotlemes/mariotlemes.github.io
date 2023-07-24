@@ -2,7 +2,7 @@
 layout: page
 permalink: /alunos/
 title: Alunos
-years: [Estágio, TCC]
+years: [Estágio, TCC, Especialização]
 description: Lista de alunos orientados pelo professor Mario Lemes
 nav: true
 nav_order: 1

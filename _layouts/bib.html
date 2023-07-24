@@ -2,6 +2,7 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
+            
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
@@ -14,6 +15,7 @@
             zoomable=true
             alt=entry.preview -%}
           {%- endif -%}
+
         {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
@@ -26,6 +28,8 @@
           {%- endif -%}
         {%- endif -%}
         </div>
+        
+        
         
 
         <!-- Entry bib key -->
@@ -138,7 +142,7 @@
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="abstract btn btn-sm z-depth-0" role="button">Resumo</a>
           {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
