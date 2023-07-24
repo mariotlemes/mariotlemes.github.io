@@ -37,8 +37,8 @@ social: true # includes social icons at the bottom of the page
 
 <h5><b>Certificações:</b></h5>
 
-* (2021-ATUAL): <a href="assets/pdf/certificate-5G.pdf"  target="_blank">HCIA 5G.</a>  
-* (2020-ATUAL): <a href="assets/pdf/CCNA.pdf"  target="_blank">CCNA.</a> 
+* (2021 - ATUAL): HCIA (Huawei Certified ICT Associate) 5G. 
+* (2020 - ATUAL): CCNA (Cisco Certified Network Associate)
 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
