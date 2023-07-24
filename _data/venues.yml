@@ -4,3 +4,35 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"IEEE":
+  url: https://ieeexplore.ieee.org/
+  color: "#00369f"
+  
+"SBC":
+  url: https://sol.sbc.org.br/index.php/indice
+  color: "#f5b642"
+  
+"RSC":
+  url: https://revistas.unifacs.br/index.php/rsc
+  color: "#b042f5"
+  
+"UFG":
+  url: https://inf.ufg.br
+  color: "#34c9eb"
+
+
+"IFG-Formosa":
+  url: https://ifg.edu.br/formosa
+  color: "#42f557" 
+  
+"Ensino Médio":
+  color: "#655ba8" 
+  
+  
+"Ensino Superior":
+  color: "#61c283"
+
+"EJA":
+  color: "#0d91de"  
+  

@@ -1,9 +1,19 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title:  Lattes
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+nav_order: 6
+heading: Lattes
 ---
+<center>
+Se a versão embutida do lattes não funcionar, você pode fazer o download <a href="/assets/pdf/lattes.pdf" target="_blank">aqui</a>.
+</center>
+
+<br>
+
+<center>
+<object data="/assets/pdf/lattes.pdf#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf">
+	<embed src="/assets/pdf/lattes.pdf#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf" />
+</object>
+</center>
