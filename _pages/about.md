@@ -1,10 +1,8 @@
 ---
 layout: about
-title: Home
+title: <strong>Home</strong>
 permalink: /
-subtitle: <h5><b>Professor EBTT</b> - <a href="https://www.ifg.edu.br">Instituto Federal de Goiás (IFG).</a> <br>
-          <b>Instrutor Cisco </b> - <a href="https://www.netacad.com/pt-br">NetAcad.<br>
-          </h5><br>
+subtitle: <h5><b>Professor EBTT</b> - <a href="https://www.ifg.edu.br">Instituto Federal de Goiás (IFG).</a> <br><b>Instrutor Cisco </b> - <a href="https://www.netacad.com/pt-br">NetAcad.<br></h5><em>Work hard, stay strong. Be happy and think positively</em>.
 
  
 profile:
@@ -28,7 +26,7 @@ social: true # includes social icons at the bottom of the page
 
   gtag('config', 'G-FZGCT9KEL3');
 </script> 
-
+<br>
 <h6><b><mark>Formação acadêmica:</mark></b></h6>
 * (2022 - ATUAL): Doutorando em Ciência da Computação (UFG).
 * (2017 - 2018): Especialista em Sistemas de Informação (FCV).

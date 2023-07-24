@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /alunos/
-title: Orientações
+title: <strong>Orientações</strong>
 years: [Estágio, TCC, Especialização]
-description: Lista de alunos orientados pelo professor Mario Lemes
+description: Lista de alunos orientados pelo professor <mark>Mario Lemes</mark>.
 nav: true
-nav_order: 2
+nav_order: 3
 heading: Alunos
 ---
 
@@ -17,7 +17,7 @@ heading: Alunos
  <hr>
 <!-- <span style="font-size:15px"> -->
 
-<h4><mark>Atuais</mark></h4>
+<h4>Em andamento</h4>
  
  {%- for y in page.years %}
   <!-- <h2 class="year">{{y}}</h2> -->
@@ -29,7 +29,7 @@ heading: Alunos
  <hr>
 <span style="font-size:15px">
 
-<h4><mark>Formados</mark></h4>
+<h4>Concluídas</h4>
 
 
 

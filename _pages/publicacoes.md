@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publicacoes/
-title: Publicações
-description: Lista de publicações do professor Mario Lemes categorizadas em ordem cronológica reversa.
+title: <strong>Publicações</strong>
+description: Lista de publicações do professor <mark>Mario Lemes</mark>.
 nav: true
 nav_order: 1
 ---
