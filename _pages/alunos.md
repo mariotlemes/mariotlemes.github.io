@@ -2,7 +2,7 @@
 layout: page
 permalink: /alunos/
 title: Orientações
-years: [Estágio, TCC, Especialização]
+years: [Estágio, TCC, Especialização, PIBIT]
 description: Lista de alunos orientados pelo professor <mark>Mario Lemes</mark>.
 nav: true
 nav_order: 3
