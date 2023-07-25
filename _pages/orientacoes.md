@@ -1,28 +1,26 @@
 ---
 layout: page
-permalink: /orientacoes/
 title: Orientações
-years: [Estágio, TCC, PIBIT, Especialização]
-description: Lista de alunos orientados pelo professor <mark>Mario Lemes</mark>.
+permalink: /orientacoes/
+years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014]
+description: Lista de alunos orientados (TCC, Iniciação Científica - PIBIT, Especialização) pelo professor <mark>Mario Lemes</mark>.
 nav: true
 nav_order: 3
 heading: Alunos
 ---
+ <hr>
+
+<span style="font-size:15px">
+
+<h4>Em andamento</h4>
 
 <div class="publications">
 
-
- 
- <!-- <!-- <br> -->
- <hr>
-<!-- <span style="font-size:15px"> -->
-
-<h4>Em andamento</h4>
- 
- {%- for y in page.years %}
-  <!-- <h2 class="year">{{y}}</h2> -->
+{% for y in page.years  %}
   {% bibliography -f atuais -q @*[year={{y}}]* %}
 {% endfor %}
+
+</div>
 
   <br>
 
