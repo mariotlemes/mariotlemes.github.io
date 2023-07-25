@@ -9,8 +9,8 @@ github_users:
   
 
 github_repos:
-  - giiff/tads_modelo_tcc
-  - mariotlemes/mariotlemes.github.io
+  # - giiff/tads_modelo_tcc
+  # - mariotlemes/mariotlemes.github.io
   - LABORA-INF-UFG/paper-MACAK-2022
   - Yamilla/carvavi
   - felurye/ifgaccess
