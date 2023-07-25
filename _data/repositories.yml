@@ -1,12 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mariotlemes
+  - LABORA-INF-UFG
+  - Yamilla
+  - felurye
+  - Psherman42000
+  - giiff
+
+  
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - giiff/tads_modelo_tcc
+  - mariotlemes/mariotlemes.github.io
+  - LABORA-INF-UFG/paper-MACAK-2022
+  - Yamilla/carvavi
+  - felurye/ifgaccess
+  - Psherman42000/LivroSec4IFG
+  
