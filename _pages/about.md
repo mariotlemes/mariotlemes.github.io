@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 </script> 
   <br>
 <h6><b><mark>Formação acadêmica:</mark></b></h6>
-* (2022 - ATUAL): Doutorando em Ciência da Computação (UFG).
+* (2022 - atual): Doutorando em Ciência da Computação (UFG).
 * (2017 - 2018): Especialista em Sistemas de Informação (FCV).
 * (2011 - 2014): Mestre em Ciência da Computação (UFG).
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
@@ -35,8 +35,8 @@ social: true # includes social icons at the bottom of the page
 
 <h6><b><mark>Certificações:</mark></b></h6>
 
-* (2021 - ATUAL): HCIA 5G (Huawei Certified ICT Associate). 
-* (2020 - ATUAL): CCNA (Cisco Certified Network Associate).
+* (2021 - 2024): <a href="/assets/pdf/hcia-5g-certificate.pdf" target="_blank">HCIA 5G </a>(<em>Huawei Certified ICT Associate</em>). 
+* (2020 - atual): <a href="/assets/pdf/CCNA.pdf" target="_blank">CCNA </a>(<em>Cisco Certified Network Associate</em>).
 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
