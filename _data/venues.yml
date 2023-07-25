@@ -57,4 +57,19 @@
   color: "#8591a6"
   
 "Presencial":
-  color: "#32a893"  
+  color: "#32a893" 
+  
+"Oficina":
+  color: "#eb6157" 
+  
+"Poster":
+  color: "#a0a38c"
+  
+"Palestra":
+  color: "#7eb9bd"
+  
+"Oral":
+  color: "#a36c9e"
+  
+"Minicurso":
+  color: "#589612"
