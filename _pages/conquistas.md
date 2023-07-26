@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conquistas/
-title: Conquistas
+title: Prêmios
 description: Lista de conquistas do professor Mario Lemes.
 nav: true
 nav_order: 6
