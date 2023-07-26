@@ -3,7 +3,7 @@ layout: page
 title: Orientações
 permalink: /orientacoes/
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014]
-description: Lista de alunos (TCC, Iniciação Científica - PIBIT e Especialização) sob orientação do professor <mark>Mario Lemes</mark>.
+description: Lista de alunos (TCC, Iniciação Científica - PIBIT e Especialização) sob orientação do professor Mario Lemes.
 nav: true
 nav_order: 3
 heading: Alunos

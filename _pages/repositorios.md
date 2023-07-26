@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositorios/
 title: GitHub
-description: Repositórios dos trabalhos desenvolvidos/orientados pelo professor <mark>Mario Lemes</mark>.
+description: Repositórios dos trabalhos desenvolvidos/orientados pelo professor Mario Lemes.
 nav: true
 nav_order: 5
 ---

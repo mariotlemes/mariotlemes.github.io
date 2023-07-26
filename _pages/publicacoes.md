@@ -2,7 +2,7 @@
 layout: page
 permalink: /publicacoes/
 title: Publicações
-description: Lista de publicações do professor <mark>Mario Lemes</mark>.
+description: Lista de publicações do professor Mario Lemes.
 nav: true
 nav_order: 1
 ---
