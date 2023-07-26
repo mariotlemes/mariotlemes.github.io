@@ -17,17 +17,32 @@ years: [2023-2, 2023-1, 2022-2, 2022-1, 2021-2, 2021-1, 2020-2, 2020-1,2019-2, 2
 #     permalink: /extensao/
 ---
 
+<hr>
+
+<span style="font-size:15px">
+
+<h4>Em andamento</h4>
+
 <div class="publications">
 
-
 {% for y in page.years  %}
-  {% bibliography -f projetos -q @*[year={{y}}]* %}
+  {% bibliography -f projetos_atuais -q @*[year={{y}}]* %}
 {% endfor %}
 
-<!-- {% for x in page.publisher  %}
-  {%if x == 'UFG' %}
-    <h4><mark>UFG</mark></h4>
-  {% endif %}
-{% endfor %} -->
-
 </div>
+
+  <br>
+
+ <hr>
+<span style="font-size:15px">
+
+<h4>Concluídos</h4>
+
+
+
+<div class="publications">
+
+{%- for y in page.years %}
+  <!-- <h2 class="year">{{y}}</h2> -->
+  {% bibliography -f projetos_anteriores -q @*[year={{y}}]* %}
+{% endfor %}

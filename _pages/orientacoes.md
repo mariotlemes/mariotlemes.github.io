@@ -17,7 +17,7 @@ heading: Alunos
 <div class="publications">
 
 {% for y in page.years  %}
-  {% bibliography -f atuais -q @*[year={{y}}]* %}
+  {% bibliography -f orientacoes_atuais -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
@@ -35,5 +35,5 @@ heading: Alunos
 
 {%- for y in page.years %}
   <!-- <h2 class="year">{{y}}</h2> -->
-  {% bibliography -f anteriores -q @*[year={{y}}]* %}
+  {% bibliography -f orientacoes_anteriores -q @*[year={{y}}]* %}
 {% endfor %}

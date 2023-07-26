@@ -5,7 +5,7 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"IEEE Access":
+"IEEE":
   url: https://ieeeaccess.ieee.org/
   color: "#00369f"
   
@@ -27,7 +27,6 @@
   
 "Ensino Médio":
   color: "#655ba8" 
-  
   
 "Ensino Superior":
   color: "#61c283"
@@ -65,6 +64,9 @@
 "Poster":
   color: "#a0a38c"
   
+"Homenagem":
+  color: "#2874ed"
+  
 "Palestra":
   color: "#2559b0"
   
@@ -73,3 +75,4 @@
   
 "Minicurso":
   color: "#589612"
+  

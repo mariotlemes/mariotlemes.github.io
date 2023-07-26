@@ -26,6 +26,7 @@ social: true # includes social icons at the bottom of the page
   gtag('config', 'G-FZGCT9KEL3');
 </script> 
   <br>
+  
 <h6><b><mark>Formação acadêmica:</mark></b></h6>
 * (2022 - atual): Doutorando em Ciência da Computação (UFG).
 * (2017 - 2018): Especialista em Sistemas de Informação (FCV).
