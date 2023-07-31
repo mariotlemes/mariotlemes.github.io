@@ -2,12 +2,12 @@
 layout: about
 title:  <i class="fa fa-home" aria-hidden="true"></i>
 permalink: /
-subtitle: <h4><b>Professor -- Ciência da Computação </b> -- <a href="https://www.ifg.edu.br">IFG</a></h4><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
+subtitle: <h5><b>Professor de <mark>Ciência da Computação</mark> </b> -- <a href="https://www.ifg.edu.br">IFG</a></h5><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: <a href="mailto:mario.lemes@ifg.edu.br">mario.lemes@ifg.edu.br</a><br>
+  address: Rua 64, s/n - Esq. c/ Rua 11 - Parque Lago, Formosa - GO, 73813-816 <br>
   
 
 news: false  # includes a list of news items
