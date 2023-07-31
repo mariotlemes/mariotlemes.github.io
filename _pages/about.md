@@ -2,12 +2,12 @@
 layout: about
 title:  <i class="fa fa-home" aria-hidden="true"></i>
 permalink: /
-subtitle: <h5><b>Professor de <mark>Ciência da Computação</mark> </b> -- <a href="https://www.ifg.edu.br">IFG</a></h5><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
+# subtitle: <h6><mark>Ciência da Computação</mark> </b> -- <a href="https://www.ifg.edu.br">IFG</a></h6><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: Rua 64, s/n - Esq. c/ Rua 11 - Parque Lago, Formosa - GO, 73813-816 <br> <a href="mario.lemes@ifg.edu.br">mario.lemes@ifg.edu.br</a>
+  address: <a href="https://ifg.edu.br/formosa">IFG - Campus Formosa</a> <br>Rua 64, s/n - Esq. c/ Rua 11 - Parque Lago, Formosa - GO, 73813-816 <br> <a href="mario.lemes@ifg.edu.br">mario.lemes@ifg.edu.br</a>
   
 
 news: false  # includes a list of news items
@@ -17,17 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-<!-- <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FZGCT9KEL3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FZGCT9KEL3');
-</script> 
-  <br>
-  
 <h6><b><mark>Formação:</mark></b></h6>
 * (2022 - atual): Doutorando em Ciência da Computação (UFG).
 * (2017 - 2018): Especialista em Sistemas de Informação (FCV).
