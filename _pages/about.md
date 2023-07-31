@@ -7,7 +7,7 @@ subtitle: <h5><b>Professor de <mark>Ciência da Computação</mark> </b> -- <a h
 profile:
   align: right
   image: prof_pic.jpg
-  address: Rua 64, s/n - Esq. c/ Rua 11 - Parque Lago, Formosa - GO, 73813-816 <br>
+  address: Rua 64, s/n - Esq. c/ Rua 11 - Parque Lago, Formosa - GO, 73813-816 <br> <a href="mario.lemes@ifg.edu.br">mario.lemes@ifg.edu.br</a>
   
 
 news: false  # includes a list of news items
