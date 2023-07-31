@@ -2,7 +2,7 @@
 layout: about
 title:  <i class="fa fa-home" aria-hidden="true"></i>
 permalink: /
-# subtitle: <h6><mark>Ciência da Computação</mark> </b> -- <a href="https://www.ifg.edu.br">IFG</a></h6><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
+subtitle: <h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
 
 profile:
   align: right
