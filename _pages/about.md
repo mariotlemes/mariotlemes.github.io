@@ -7,7 +7,8 @@ subtitle: <h4><b>Professor EBTT</b> - <a href="https://www.ifg.edu.br">IFG</a></
 profile:
   align: right
   image: prof_pic.jpg
-  address: 
+  address: Rua 64 Parque Lago Formosa, Goiás, Brasil Telefone - (61) 36429450  <a href="mailto:mario.lemes@ifg.edu.br">mario.lemes@ifg.edu.br</a>
+  
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
