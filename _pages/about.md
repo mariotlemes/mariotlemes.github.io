@@ -2,12 +2,12 @@
 layout: about
 title:  <i class="fa fa-home" aria-hidden="true"></i>
 permalink: /
-subtitle: <h4><b>Professor EBTT</b> - <a href="https://www.ifg.edu.br">IFG</a></h4><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
+subtitle: <h4><b>Professor -- Ciência da Computação </b> -- <a href="https://www.ifg.edu.br">IFG</a></h4><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: Rua 64 Parque Lago Formosa, Goiás, Brasil Telefone - (61) 36429450  <a href="mailto:mario.lemes@ifg.edu.br">mario.lemes@ifg.edu.br</a>
+  address: <a href="mailto:mario.lemes@ifg.edu.br">mario.lemes@ifg.edu.br</a><br>
   
 
 news: false  # includes a list of news items
