@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Home
+title:  <i class="fa fa-home" aria-hidden="true"></i>
 permalink: /
-subtitle: <h5><b>Professor EBTT</b> - <a href="https://www.ifg.edu.br">Instituto Federal de Goiás (IFG)</a><br><b>Instrutor Cisco</b> - <a href="https://www.netacad.com/pt-br">NetAcad<br></h5><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
+subtitle: <h4><b>Professor EBTT</b> - <a href="https://www.ifg.edu.br">IFG</a></h4><h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que ensina </em>&#10078;</h7>
 
 profile:
   align: right
