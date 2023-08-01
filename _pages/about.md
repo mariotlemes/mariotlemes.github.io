@@ -23,6 +23,14 @@ social: true # includes social icons at the bottom of the page
 * (2011 - 2014): Mestre em Ciência da Computação (UFG).
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
+<h6><b><mark>Atuação:</mark></b></h6>
+* (2021 - atual): Instrutor HCIA 5G (Academia Huawei).
+* (2020 - atual): Instrutor Cisco CCNA (Academia Cisco).
+* (2019 - atual): Professor na Pós em Segurança em Redes (UFG).
+* (2015 - atual): Professor EBTT DE (IFG - Campus Formosa).
+* (2014 - 2015): Professor EBTT Substituto (IFG - Campus Inhumas).
+
+
 
 <h6><b><mark>Certificações:</mark></b></h6>
 
