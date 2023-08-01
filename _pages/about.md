@@ -38,11 +38,11 @@ social: true # includes social icons at the bottom of the page
 * (2020 - atual): <a href="/assets/pdf/CCNA.pdf" target="_blank">CCNA </a>(<em>Cisco Certified Network Associate</em>).
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b32685fb-aa8d-4b7e-a9d2-9f07b389aa61" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="b32685fb-aa8d-4b7e-a9d2-9f07b389aa61" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="81280e79-be05-40e7-a6f4-c48a8f01a771" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="81280e79-be05-40e7-a6f4-c48a8f01a771" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 <!-- ### Experiência Profissional
 ### Docência:
