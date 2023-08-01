@@ -24,25 +24,25 @@ social: true # includes social icons at the bottom of the page
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
 <h6><b><mark>Atuação:</mark></b></h6>
-* (2021 - atual): Instrutor HCIA 5G (Academia Huawei).
-* (2020 - atual): Instrutor Cisco CCNA (Academia Cisco).
-* (2019 - atual): Professor na Pós em Segurança em Redes (UFG).
-* (2015 - atual): Professor EBTT DE (IFG - Campus Formosa).
-* (2014 - 2015): Professor EBTT Substituto (IFG - Campus Inhumas).
+* (2022 - atual): <a href="https://www.unisinos.br/pos/especializacao/telecomunicacoes-com-enfase-em-softwares-para-5g-e-iot/presencial/sao-leopoldo">Colaborador na Pós em Telecomunicações com Ênfase em Software para 5G e IOT</a> (UNISINOS).
+* (2020 - atual): <a href="/assets/pdf/cisco-instructor.pdf">Instrutor Cisco CCNA</a> (Academia Cisco).
+* (2019 - atual): <a href="https://inf.ufg.br/p/espseguranca">Colaborador na Pós em Segurança em Redes</a> (UFG).
+* (2015 - atual): <a href="http://www.ifg.edu.br/component/content/article/158-ifg/campus/formosa/noticias-campus-formosa/2195">Professor EBTT</a> (IFG - Campus Formosa).
+* (2014 - 2015): <a href="/assets/pdf/sub.pdf" target="_new">Professor EBTT Substituto</a> (IFG - Campus Inhumas).
 
 
 
 <h6><b><mark>Certificações:</mark></b></h6>
 
-* (2021 - 2024): <a href="/assets/pdf/hcia-5g-certificate.pdf" target="_blank">HCIA 5G </a>(<em>Huawei Certified ICT Associate</em>). 
-* (2020 - atual): <a href="/assets/pdf/CCNA.pdf" target="_blank">CCNA </a>(<em>Cisco Certified Network Associate</em>).
+* (2021 - 2024): <a href="/assets/pdf/hcia-5g-certificate.pdf" target="_new">HCIA 5G </a>(<em>Huawei Certified ICT Associate</em>). 
+* (2020 - atual): <a href="/assets/pdf/CCNA.pdf" target="_new">CCNA </a>(<em>Cisco Certified Network Associate</em>).
 
 
-<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="231" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="b32685fb-aa8d-4b7e-a9d2-9f07b389aa61" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="231" data-share-badge-id="b32685fb-aa8d-4b7e-a9d2-9f07b389aa61" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="81280e79-be05-40e7-a6f4-c48a8f01a771" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="231" data-share-badge-id="81280e79-be05-40e7-a6f4-c48a8f01a771" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 <!-- ### Experiência Profissional
 ### Docência:
