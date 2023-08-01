@@ -33,16 +33,15 @@ social: true # includes social icons at the bottom of the page
 
 
 <h6><b><mark>Certificações:</mark></b></h6>
-
 * (2021 - 2024): <a href="/assets/pdf/hcia-5g-certificate.pdf" target="_new">HCIA 5G </a>(<em>Huawei Certified ICT Associate</em>). 
 * (2020 - atual): <a href="/assets/pdf/CCNA.pdf" target="_new">CCNA </a>(<em>Cisco Certified Network Associate</em>).
 
 
-<div data-iframe-width="145" data-iframe-height="231" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="184f7270-f219-480c-884d-4fe9e2b10741" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="145" data-iframe-height="231" data-share-badge-id="b32685fb-aa8d-4b7e-a9d2-9f07b389aa61" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="b32685fb-aa8d-4b7e-a9d2-9f07b389aa61" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="145" data-iframe-height="231" data-share-badge-id="81280e79-be05-40e7-a6f4-c48a8f01a771" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="81280e79-be05-40e7-a6f4-c48a8f01a771" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 <!-- ### Experiência Profissional
 ### Docência:
