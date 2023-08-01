@@ -17,14 +17,14 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-<h6><b><mark>Formação:</mark></b></h6>
+<h7><b><mark>Formação:</mark></b></h7>
 * (2022 - atual): Doutorando em Ciência da Computação (UFG).
 * (2017 - 2018): Especialista em Sistemas de Informação (FCV).
 * (2011 - 2014): Mestre em Ciência da Computação (UFG).
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
-<h6><b><mark>Atuação:</mark></b></h6>
-* (2022 - atual): <a href="https://www.unisinos.br/pos/especializacao/telecomunicacoes-com-enfase-em-softwares-para-5g-e-iot/presencial/sao-leopoldo">Colaborador na Pós em Telecomunicações com Ênfase em Software para 5G e IOT</a> (UNISINOS).
+<h7><b><mark>Atuação:</mark></b></h7>
+* (2022 - atual): <a href="https://www.unisinos.br/pos/especializacao/telecomunicacoes-com-enfase-em-softwares-para-5g-e-iot/presencial/sao-leopoldo">Colaborador na Pós em Telecom</a> (UNISINOS).
 * (2020 - atual): <a href="/assets/pdf/cisco-instructor.pdf">Instrutor Cisco CCNA</a> (Academia Cisco).
 * (2019 - atual): <a href="https://inf.ufg.br/p/espseguranca">Colaborador na Pós em Segurança em Redes</a> (UFG).
 * (2015 - atual): <a href="http://www.ifg.edu.br/component/content/article/158-ifg/campus/formosa/noticias-campus-formosa/2195">Professor EBTT</a> (IFG - Campus Formosa).
@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 
 
 
-<h6><b><mark>Certificações:</mark></b></h6>
+<h7><b><mark>Certificações:</mark></b></h7>
 * (2021 - 2024): <a href="/assets/pdf/hcia-5g-certificate.pdf" target="_new">HCIA 5G </a>(<em>Huawei Certified ICT Associate</em>). 
 * (2020 - atual): <a href="/assets/pdf/CCNA.pdf" target="_new">CCNA </a>(<em>Cisco Certified Network Associate</em>).
 
@@ -71,5 +71,5 @@ Subárea: Metodologia e Técnicas da Computação
 * Redes 5G/Pós-5G.
 * Redes Sem Fio Inteligentes.
 * Automação e Programabilidade de Redes Virtualizadas (NFV).
-* Internet das Coisas. -->
-
+* Internet das Coisas.
+ -->
