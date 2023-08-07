@@ -9,12 +9,11 @@ last_name: Lemes
 email: mario.lemes@ifg.edu.br
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  Site construído com <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> usando o tema <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-  Hospedado com <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+# <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://github.com/alshedivat/al-folio">al-folio</a>, e <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 keywords:   # add your own keywords or leave empty
 
-lang: pt # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: PT-BR # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://mariotlemes.github.io # the base hostname & protocol for your site

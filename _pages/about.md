@@ -43,6 +43,7 @@ social: true # includes social icons at the bottom of the page
 
 <div data-iframe-width="145" data-iframe-height="232" data-share-badge-id="81280e79-be05-40e7-a6f4-c48a8f01a771" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
+
 <!-- ### Experiência Profissional
 ### Docência:
 
