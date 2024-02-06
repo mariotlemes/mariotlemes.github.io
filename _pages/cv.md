@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cv/
-title:  CV
+permalink: /lattes/
+title:  Lattes
 nav: true
 nav_order: 6
 heading: Lattes
