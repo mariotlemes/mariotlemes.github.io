@@ -18,12 +18,12 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <h7><b><mark>Formação:</mark></b></h7>
-* (2022 - atual): Doutorando em Ciência da Computação (UFG).
 * (2017 - 2018): Especialista em Sistemas de Informação (FCV).
 * (2011 - 2014): Mestre em Ciência da Computação (UFG).
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
 <h7><b><mark>Atuação:</mark></b></h7>
+* (2024 - atual): <a href="http://cursos.ifg.edu.br/info/esp/esptel/CP-GOIANIA">Professor na Especialização em Telecomunicações: Prédios Inteligentes</a> (IFG - Câmpus Goiânia).
 * (2022 - atual): <a href="https://www.unisinos.br/pos/especializacao/telecomunicacoes-com-enfase-em-softwares-para-5g-e-iot/presencial/sao-leopoldo">Professor na Especialização em Telecomunicações com ênfase em Software para 5G e IoT</a> (UNISINOS).
 * (2020 - atual): <a href="/assets/pdf/cisco-instructor.pdf">Professor Cisco CCNA</a> (Academia Cisco - IFG - Campus Formosa).
 * (2019 - atual): <a href="https://inf.ufg.br/p/espseguranca">Professor na Especialização em Segurança em Redes e Sistemas</a> (UFG).
@@ -59,7 +59,7 @@ Subárea: Sistemas de Computação
 Subárea: Metodologia e Técnicas da Computação
 
 ### Gestão Acadêmica:
-* (2021 - Atual): Coordenador de Administração Acadêmica da Pró-Reitoria de Ensino do IFG.
+* (2021 - 2023): Coordenador de Administração Acadêmica da Pró-Reitoria de Ensino do IFG.
 * (2017 - 2017): Coordenador Acadêmico do Departamento de Áreas Acadêmicas (DAA) do IFG - Câmpus Formosa.
 * (2016 - 2017): Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
