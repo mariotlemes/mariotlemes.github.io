@@ -24,7 +24,6 @@ social: true # includes social icons at the bottom of the page
 
 <h7><b><mark>Atuação:</mark></b></h7>
 * (2024 - atual): <a href="http://cursos.ifg.edu.br/info/esp/esptel/CP-GOIANIA">Professor na Especialização em Telecomunicações: Prédios Inteligentes</a> (IFG - Câmpus Goiânia).
-* (2022 - atual): <a href="https://www.unisinos.br/pos/especializacao/telecomunicacoes-com-enfase-em-softwares-para-5g-e-iot/presencial/sao-leopoldo">Professor na Especialização em Telecomunicações com ênfase em Software para 5G e IoT</a> (UNISINOS).
 * (2020 - atual): <a href="/assets/pdf/cisco-instructor.pdf">Professor Cisco CCNA</a> (Academia Cisco - IFG - Campus Formosa).
 * (2019 - atual): <a href="https://inf.ufg.br/p/espseguranca">Professor na Especialização em Segurança em Redes e Sistemas</a> (UFG).
 * (2015 - atual): <a href="http://www.ifg.edu.br/component/content/article/158-ifg/campus/formosa/noticias-campus-formosa/2195">Professor EBTT Dedicação Exclusiva</a> (IFG - Campus Formosa).
