@@ -31,14 +31,14 @@ years: [2025-1, 2024-2, 2024-1, 2023-2, 2023-1, 2022-2, 2022-1, 2021-2, 2021-1, 
 
 </div>
 
+</span>
   <br>
 
  <hr>
+
 <span style="font-size:15px">
 
 <h4>Concluídos</h4>
-
-
 
 <div class="publications">
 
@@ -46,4 +46,9 @@ years: [2025-1, 2024-2, 2024-1, 2023-2, 2023-1, 2022-2, 2022-1, 2021-2, 2021-1, 
   <!-- <h2 class="year">{{y}}</h2> -->
   {% bibliography -f projetos_anteriores -q @*[year={{y}}]* %}
 {% endfor %}
+
+</div>
+
+</span>
+
 
