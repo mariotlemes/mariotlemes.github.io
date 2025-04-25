@@ -6,7 +6,7 @@ subtitle: <h7>&#10077;<em>Feliz aquele que transfere o que sabe e aprende o que 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic-4.jpg
   address: <a href="https://ifg.edu.br/formosa">IFG - Campus Formosa</a> <br>Rua 64, s/n - Esq. c/ Rua 11 - Parque Lago, Formosa - GO, 73813-816 <br> <a href="mailto:mario.lemes@ifg.edu.br">mario.lemes@ifg.edu.br</a>
   
 
