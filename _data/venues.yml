@@ -5,6 +5,11 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+
+"REIC":
+  url: https://journals-sol.sbc.org.br/index.php/reic
+  color: "#2F4538"
+
 "IEEE":
   url: https://ieeeaccess.ieee.org/
   color: "#00369f"
