@@ -1,6 +1,10 @@
-"Comissão Organizadora":
+"Conselho":
   url:
-  color: "#0034f"
+  color: "#FFB6C1"
+
+"Comissão":
+  url:
+  color: "#0034f1"
 
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
