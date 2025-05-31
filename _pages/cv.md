@@ -2,7 +2,7 @@
 layout: page
 permalink: /lattes/
 title:  Lattes
-nav: true
+nav: false
 nav_order: 6
 heading: Lattes
 ---
