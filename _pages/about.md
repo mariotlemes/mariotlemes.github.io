@@ -23,9 +23,6 @@ social: true # includes social icons at the bottom of the page
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
 <h7><b><mark>Atuação:</mark></b></h7>
-* (2024 - atual): <a href="http://cursos.ifg.edu.br/info/esp/esptel/CP-GOIANIA">Professor na Especialização em Telecomunicações: Prédios Inteligentes</a> (IFG - Câmpus Goiânia).
-* (2020 - atual): <a href="/assets/pdf/cisco-instructor.pdf">Professor Cisco CCNA</a> (Academia Cisco - IFG - Campus Formosa).
-* (2019 - atual): <a href="https://inf.ufg.br/p/espseguranca">Professor na Especialização em Segurança em Redes e Sistemas</a> (UFG).
 * (2015 - atual): <a href="http://www.ifg.edu.br/component/content/article/158-ifg/campus/formosa/noticias-campus-formosa/2195">Professor EBTT Dedicação Exclusiva</a> (IFG - Campus Formosa).
 * (2014 - 2015): <a href="/assets/pdf/sub.pdf" target="_new">Professor EBTT Substituto</a> (IFG - Campus Inhumas).
 
