@@ -78,8 +78,11 @@
   color: "#183d78" 
  
 "PIBIT":
-  color: "#8a42f5" 
-  
+  color: "#8a42f5"
+
+"PIBIC":
+  color: "#7a42a5"
+
 "Especialização":
   color: "#8591a6"
   
