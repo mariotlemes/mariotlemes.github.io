@@ -10,6 +10,7 @@ github_users:
 github_repos:
   # - giiff/tads_modelo_tcc
   # - mariotlemes/mariotlemes.github.io
+  - mariotlemes/pos-NLP
   - LABORA-INF-UFG/paper-MACAK-2022
   - mariotlemes/intent_layer
   - Yamilla/carvavi
