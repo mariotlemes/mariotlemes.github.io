@@ -23,8 +23,8 @@ social: true # includes social icons at the bottom of the page
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
 <h7><b><mark>Atuação:</mark></b></h7>
-* (2015 - atual): <a href="http://www.ifg.edu.br/component/content/article/158-ifg/campus/formosa/noticias-campus-formosa/2195">Professor EBTT Dedicação Exclusiva</a> (IFG - Campus Formosa).
-* (2014 - 2015): <a href="/assets/pdf/sub.pdf" target="_new">Professor EBTT Substituto</a> (IFG - Campus Inhumas).
+* (2015 - atual): <a href="http://www.ifg.edu.br/component/content/article/158-ifg/campus/formosa/noticias-campus-formosa/2195">Professor EBTT 40h DE</a> (IFG - Formosa).
+* (2014 - 2015): <a href="/assets/pdf/sub.pdf" target="_new">Professor EBTT Substituto</a> (IFG - Inhumas).
 
 
 <h7><b><mark>Certificações:</mark></b></h7>
