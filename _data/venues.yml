@@ -40,6 +40,10 @@
 "SBC":
   url: https://sol.sbc.org.br/index.php/indice
   color: "#f5b642"
+
+"REASE":
+  url: https://periodicorease.pro.br/rease/index
+  color: "#BA8E23"
   
 "RSC":
   url: https://revistas.unifacs.br/index.php/rsc
