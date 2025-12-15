@@ -6,11 +6,19 @@ github_users:
   - Psherman42000
   - giiff
   - carlosneto726
+  - Ruanrochafeitosa
+  - LehBittencourt
+  - Jeniffrr
+  - EloisaGraziele
 
-  
+
 github_repos:
-  # - giiff/tads_modelo_tcc
-  # - mariotlemes/mariotlemes.github.io
+  - giiff/tads_modelo_tcc
+  - mariotlemes/mariotlemes.github.io
+  - EloisaGraziele/TCC
+  - Jeniffrr/TCC-Magnolia
+  - LehBittencourt/tcc-chatbot-ifg
+  - Ruanrochafeitosa/paper-RJM-2026
   - mariotlemes/pos-NLP
   - LABORA-INF-UFG/paper-MACAK-2022
   - mariotlemes/intent_layer
