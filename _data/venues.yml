@@ -48,6 +48,10 @@
 "RSC":
   url: https://revistas.unifacs.br/index.php/rsc
   color: "#b042f5"
+
+"Editora IFG":
+  url: https://editora.ifg.edu.br/editoraifg
+  color: "#081534"
   
 "UFG":
   url: https://inf.ufg.br
