@@ -41,6 +41,10 @@
   url: https://sol.sbc.org.br/index.php/indice
   color: "#f5b642"
 
+"RBAAD":
+  url: https://seer.abed.net.br/RBAAD
+  color: "#800080"
+
 "REASE":
   url: https://periodicorease.pro.br/rease/index
   color: "#BA8E23"
