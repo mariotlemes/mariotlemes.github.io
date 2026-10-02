@@ -18,12 +18,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <h7><b><mark>Formação:</mark></b></h7>
+* (2025 - 2026): Especialista em Processamento de Linguagem Natural (UFG).
 * (2017 - 2018): Especialista em Sistemas de Informação (FCV).
 * (2011 - 2014): Mestre em Ciência da Computação (UFG).
 * (2006 - 2011): Bacharel em Engenharia de Computação (PUC-GO).
 
 <h7><b><mark>Atuação:</mark></b></h7>
-* (2015 - atual): <a href="http://www.ifg.edu.br/component/content/article/158-ifg/campus/formosa/noticias-campus-formosa/2195">Professor EBTT 40h DE</a> (IFG - Formosa).
+* (2015 - 2026): <a href="http://www.ifg.edu.br/component/content/article/158-ifg/campus/formosa/noticias-campus-formosa/2195">Professor EBTT 40h DE</a> (IFG - Formosa).
 * (2014 - 2015): <a href="/assets/pdf/sub.pdf" target="_new">Professor EBTT Substituto</a> (IFG - Inhumas).
 
 
