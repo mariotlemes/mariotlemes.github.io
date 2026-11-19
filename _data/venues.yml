@@ -48,6 +48,10 @@
 "REASE":
   url: https://periodicorease.pro.br/rease/index
   color: "#BA8E23"
+
+"SICT":
+  url: https://periodicos.ifg.edu.br/sicti/
+  color: "#00229f"
   
 "RSC":
   url: https://revistarsc.com.br/ojs/index.php/rsc
