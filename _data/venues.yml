@@ -18,6 +18,11 @@
   url:
   color: "#0034f1"
 
+
+"LINGUATEC":
+  url: https://periodicos.ifrs.edu.br/index.php/LinguaTec/
+  color: "#589612"
+
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
